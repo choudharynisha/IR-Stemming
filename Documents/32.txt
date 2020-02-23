@@ -1,0 +1,33 @@
+Jeff Bezos’ Phone Hack Should Terrify Everyone
+By Charlie Warzel
+Jan. 24, 2020
+
+If the Saudi crown prince, Mohammed bin Salman, wants to chat on WhatsApp, politely decline.
+
+That’s the lesson from a series of reports this week based off a forensic examination of Jeff Bezos’ communications with the crown prince. The investigation — conducted at Mr. Bezos’ request by FTI Consulting — found that his phone had most likely been attacked in 2018 after he received a WhatsApp message from the prince’s personal account. While my colleagues in the Times newsroom have pieced together details of the investigation, there’s still a great deal unknown. And cybersecurity experts have serious questions about FTI’s report, which, according to CyberScoop, “has not impressed the information security community.”
+
+Still, the story seems to have everything: from lighthearted, embarrassingly earnest texts, “divorced guy” memes and world leaders who awkwardly sign their text messages with their full names to the deeply problematic issue of revenge porn and stealing of private nude photos. Though it’s a gilded example of digital theft, there’s something troubling and relatable about it all. Billionaires, they’re just like us!
+
+Or maybe not. Looked at one way, the attack on Mr. Bezos’ phone could be seen as yet more proof of what my colleague Kara Swisher called “the death of privacy.” If the richest man in the world — the man who sells listening devices used in millions of homes and whose servers create the internet’s infrastructure — can be hacked, what hope is there for us mere mortals?
+
+Turns out, there’s some. Yes, your personal privacy and security are constantly under threat. And yes, you should be trying to safeguard against malware, phishing and bulk data collection. But the Bezos attack is an example of extremely targeted surveillance, the potentially expensive and risky kind that is aimed at high-value targets like executives, government officials, celebrities and billionaires. And as it turns out, many of those with the most to lose are woefully inept at safeguarding their privacy.
+
+Not long after the Bezos news broke this week, I spoke to Christopher Pierson, who founded BlackCloak, a cybersecurity company for high-net-worth and high-profile individuals — executives, celebrities and billionaires. According to Mr. Pierson, few people take their digital lives as seriously as they should.
+
+“The majority of clients we onboard come on in some kind of hacked state,” he told me. “Their computers are compromised or their login credentials are available on dark web. Their home camera systems are accessible to people on internet or their entire home and appliances are vulnerable and viewable by persons remotely.” Mr. Pierson suggests that’s in part because high-value targets choose to focus on physical security over digital and invest in private bodyguards, camera systems and protections like kidnapping insurance.
+
+How bad is it? “We see passwords in little black books on desks by the machines and in files on the computers. We see passwords that are the same everywhere. We absolutely do not see good use of dual factor authentication on email, health care and financial accounts. I’d say we see less than 1 percent of high-net-worth individuals using dual factor.”
+
+Mr. Pierson said BlackCloak has found more than 82 percent of its clients’ current passwords on the dark web when it ran an initial search. “In the case of high-net-worth individuals, the same compromised password is frequently used by 20 to 40 different accounts — some of those are personal, some are in the office.”
+
+What Mr. Pierson describes is low-hanging fruit — the kind of security flaws that can quickly be fixed with a little knowledge and attention to detail. Even then, he said, it takes time for the true nature of clients’ vulnerability to sink in. “They’re shocked when we give them their password and tell them where we found it, but it doesn’t hit as hard as when we tell them their entire home automation system has been potentially online and viewable for three or five or eight years,” he said.
+
+When it comes to a Bezos-style breach — potentially at the hands of a nation-state’s intelligence service — high-profile targets would most likely be even less prepared. As Mr. Bezos’ lengthy investigation into the 2018 attack shows, it’s difficult to get straight answers even when you have the money and resources to run full forensics.
+
+Of course, it’s not just wealth that turns somebody into a person of interest for hackers. Journalists, government employees, workers at energy companies and utilities could all be targets for someone. Those who work for financial companies, airlines, hospitals, universities, Hollywood studios and tech businesses are all potentially at risk. You can take steps to secure yourself from corporate data collection by using privacy settings on your phone. And to protect yourself from cyberattacks there are helpful guides you can use that have been vetted by security professionals.
+
+For most of us, the attack against Mr. Bezos isn’t the death of privacy, but a reminder of the risks of living a connected life. It should be a moment to think as critically about what you do online as you might in the real world. Invest in a password manager. Turn on dual factor authentication. Be skeptical of any communication that looks out of place.
+
+For the ultrarich and influential, the Bezos hack should be a terrifying revelation. As the former State Department employee and whistle-blower John Napier Tye told me last autumn, “For someone who’s truly a high-value target, there is no way to safely use a digital device.” The stakes are astronomically high. Not just personally, as Mr. Bezos found, but professionally. Company secrets, matters of national security, access to critical infrastructure and the safety of employees could all be compromised by lax security at the top.
+
+The internet has long been thought of as a truly democratic tool, flattening and democratizing the ability to publish and communicate. It’s also the great privacy equalizer. Money can buy a lot of things. But on a dangerous internet full of exploits, flawed code, shady actors and absent-minded humans, total, foolproof security is not one of them.
