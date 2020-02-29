@@ -19,20 +19,22 @@ def main():
     for filename in os.listdir(docsFolder):
         if filename.endswith(".txt"):
             filePath = os.path.join(docsFolder, filename)
-            with open (filePath, 'r', errors='ignore') as myfile: 
+            with open (filePath, 'r', errors="ignore") as myfile: 
                 #make files in one long string without new line characters 
                 masterString += myfile.read().replace('\n', ' ')
         else:
             continue
-    #split this string into sentences using NLTK tokenize library 
+    #split this string into senteences using NLTK tokenize library 
     sentences = sent_tokenize(masterString)
  
-    masterCorpus =  open(corpusFilePath, "w", errors = "ignore")
+    masterCorpus =  open(corpusFilePath, "w")
     #write each sentence into a file
     for sentence in sentences: 
+        #delete punctuation 
+        sentence = sentence.translate(str.maketrans('', '', string.punctuation))
+        #make lowercase
+        sentence = sentence.lower()
         masterCorpus.write(sentence + "\n")
-     
-
 if __name__ == "__main__":
     main()
 
