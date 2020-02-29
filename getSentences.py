@@ -12,7 +12,6 @@ import sys
 docsFolder = os.getcwd() + "/" + sys.argv[1]
 corpusFilePath = sys.argv[2]
 tokenizedDocs = os.getcwd() + "/docInTokens"
-# corpusFilePath = "corpus.txt"
 
 def main(): 
     masterString = "" 
