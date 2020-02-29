@@ -16,7 +16,7 @@ The history of the iPad is a story about consolidation, focus and the power of s
 
 The iPad has always been freighted with great expectations. Although the iPad was unveiled in 2010, three years after the iPhone, development of the iPad predated development of the phone, and Steve Jobs, Apple’s co-founder, always seemed to have his heart in the tablet.
 
-In one of his last interviews before his death in 2011, Jobs declared the iPad to be the future of computing. “PCs are going to be like trucks,” he told the journalists Kara Swisher and Walt Mossberg — meaning the traditional Mac and Windows machines would still be around, but like big rigs, they’d be used by a small set of power users for a dwindling set of specific, high-power tasks. The “cars” of the tech industry, as Jobs saw it, would be phones and tablets.
+In one of his last interviews before his death in 2011, Jobs declared the iPad to be the future of computing. "PCs are going to be like trucks," he told the journalists Kara Swisher and Walt Mossberg — meaning the traditional Mac and Windows machines would still be around, but like big rigs, they’d be used by a small set of power users for a dwindling set of specific, high-power tasks. The "cars" of the tech industry, as Jobs saw it, would be phones and tablets.
 
 For a while, he was only partially right. The iPad sold well at launch, but after a few years it hit some hurdles. After Jobs’s death, Apple left the iPad to languish, and did something similar with the Mac.
 
@@ -34,9 +34,9 @@ And ultimately, it’s the ecosystem that explains why I can’t stop raving abo
 
 Like a phone, in most scenarios I find the iPad to be faster, more portable and easier to use and maintain than any traditional P.C. I’ve ever owned. The iPad’s limited screen space and emphasis on full-screen apps also makes for fewer distractions than on a traditional personal computer. The iPad, like my phone, lets me log in to my bank using my face; the Mac, in 2019, doesn’t even have a touch screen.
 
-The iPad still can’t do everything a laptop can, and I still have to log in to a “real” computer sometimes. I had a long chat recently with Dan Seifert, the deputy editor of the Verge, who uses an iPad every day on the subway but often finds the device infuriating.
+The iPad still can’t do everything a laptop can, and I still have to log in to a "real" computer sometimes. I had a long chat recently with Dan Seifert, the deputy editor of the Verge, who uses an iPad every day on the subway but often finds the device infuriating.
 
-“For someone like me, who’s been using a desktop operating system for a long time, there’s a lot of built-in conventions that I’m used to that can be frustrating,” Seifert said. In particular, the iPad doesn’t work with antiquated work flows that are built for PCs. Say you need to log into your company’s bespoke publishing system or expense program? It’s possible those won’t work on your iPad — at least not yet — because they were built for much older devices.
+"For someone like me, who’s been using a desktop operating system for a long time, there’s a lot of built-in conventions that I’m used to that can be frustrating," Seifert said. In particular, the iPad doesn’t work with antiquated work flows that are built for PCs. Say you need to log into your company’s bespoke publishing system or expense program? It’s possible those won’t work on your iPad — at least not yet — because they were built for much older devices.
 
 But Seifert agreed with me that many of these uses are a special case. He still uses P.C.s because often, in Jobs’s parlance, he needs a truck. Most people, however, don’t need trucks, and few of us will need them in the future. Seifert isn’t teaching his kids how to use desktop operating systems like the Mac or Windows, and neither am I.
 

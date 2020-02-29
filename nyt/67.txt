@@ -2,9 +2,9 @@ Trump’s Digital Advantage Is Freaking Out Democratic Strategists
 By Thomas B. Edsall
 Jan. 29, 2020
 
-In a blog post published in November, a year before the 2020 election, Brian Burch, the president of CatholicVote.org, a socially conservative advocacy group, announced that in Wisconsin alone his organization had identified 199,241 Catholics “who’ve been to church at least 3 times in the last 90 days.”
+In a blog post published in November, a year before the 2020 election, Brian Burch, the president of CatholicVote.org, a socially conservative advocacy group, announced that in Wisconsin alone his organization had identified 199,241 Catholics "who’ve been to church at least 3 times in the last 90 days."
 
-Nearly half of these religiously observant parishioners, Burch wrote, “91,373 mass-attending Catholics — are not even registered to vote!” CatholicVote.org is looking for potential Trump voters within this large, untapped reservoir — Republican-leaning white Catholics who could bolster Trump’s numbers in a battleground state.
+Nearly half of these religiously observant parishioners, Burch wrote, "91,373 mass-attending Catholics — are not even registered to vote!" CatholicVote.org is looking for potential Trump voters within this large, untapped reservoir — Republican-leaning white Catholics who could bolster Trump’s numbers in a battleground state.
 
 Burch, whose organization opposes abortion and gay marriage, made his plans clear:
 
@@ -18,7 +18,7 @@ This is how the National Catholic Reporter described the process in an article e
 
 Politically minded geofencers capture data from the cellphones of churchgoers, and then purchase ads targeting those devices. That data can be matched against other easily obtained databases, including voter profiles, which give marketers identifying information such as names, addresses and voter registration status. Such information can be a gold mine.
 
-Burch described what CatholicVote.org initiated in the 2018 election. “We created ad campaigns targeted to mobile devices that have been inside of Catholic churches,” Burch explained. What’s more,
+Burch described what CatholicVote.org initiated in the 2018 election. "We created ad campaigns targeted to mobile devices that have been inside of Catholic churches," Burch explained. What’s more,
 
 We told Catholics in Missouri the truth about then-Senator Claire McCaskill — that she was pro-abortion, was unwilling to protect the Little Sisters of the Poor, and opposed Catholic judicial nominees because of their religious beliefs. And she lost.
 
@@ -28,9 +28,9 @@ With increasing speed, digital technology is transforming politics, constantly p
 
 Democrats and Republicans agree that the Trump campaign is far ahead of the Democratic Party in the use of this technology, capitalizing on its substantial investment during the 2016 election and benefiting from an uninterrupted high-tech drive since then.
 
-Republicans “have a big advantage this time,” Ben Nuckels, a Democratic media consultant said in a phone interview. “They not only have all the data from 2016 but they have been building this operation into a nonstop juggernaut.”
+Republicans "have a big advantage this time," Ben Nuckels, a Democratic media consultant said in a phone interview. "They not only have all the data from 2016 but they have been building this operation into a nonstop juggernaut."
 
-The new technology, Nuckels continued, allows campaigns to “deliver a broader narrative over the top” on television and other media, while “underneath in digital you are delivering ads that are tailored to those voters that you need to influence and persuade the most.”
+The new technology, Nuckels continued, allows campaigns to "deliver a broader narrative over the top" on television and other media, while "underneath in digital you are delivering ads that are tailored to those voters that you need to influence and persuade the most."
 
 The explosion of digital technology has created the opportunity for political operatives to run what amount to dark campaigns, conducted below the radar of both voter awareness and government oversight.
 
@@ -38,9 +38,9 @@ In some cases, the technology is very simple: the anonymous transmission of nega
 
 Steven Livingston, a professor of media and public affairs and director of the Institute for Data, Democracy and Politics at George Washington University, has been tracking this sub rosa electioneering in the current election cycle. He found that supporters of two candidates, Trump and Bernie Sanders, are the primary practitioners.
 
-The Washington Post and The New York Times have both reported on the activities of Sanders supporters, but, Livingston noted in an email, “Our evidence suggests that Trump supporters use automated promotion or cross posting four times as much as Sanders supporters.”
+The Washington Post and The New York Times have both reported on the activities of Sanders supporters, but, Livingston noted in an email, "Our evidence suggests that Trump supporters use automated promotion or cross posting four times as much as Sanders supporters."
 
-Livingston described “these digital shadow campaigns” as “analogous to and perhaps an actual digital manifestation of ‘dark money’ influence campaigns.” In addition, he continued,
+Livingston described "these digital shadow campaigns" as "analogous to and perhaps an actual digital manifestation of ‘dark money’ influence campaigns." In addition, he continued,
 
 Overwhelmingly, these pages and groups do not have ownership declarations or Facebook verifications. We simply do not know what other digital properties might be operated by common sources with the groups. There is money being spent but we don’t know the sources. It is unaccountable spending.
 
@@ -58,11 +58,11 @@ Now, political operatives are exploiting commercial techniques to correlate micr
 
 In 2016, Trump spent far more than Hillary Clinton on digital campaigning, and since then his campaign, under the direction of Brad Parscale, has continued far outpace its Democratic rivals.
 
-In a paper published this month, “The digital commercialization of US politics — 2020 and beyond,” Kathryn Montgomery, a professor of communications at American University, and Jeff Chester, executive director of the Center for Digital Democracy, described the differences between the 2016 Trump and Clinton campaigns:
+In a paper published this month, "The digital commercialization of US politics — 2020 and beyond," Kathryn Montgomery, a professor of communications at American University, and Jeff Chester, executive director of the Center for Digital Democracy, described the differences between the 2016 Trump and Clinton campaigns:
 
 Whereas 31 percent of Donald Trump’s total campaign expenditures were for digital media, only 6 percent of Hillary Clinton’s expenditures were for digital. Moreover, whereas almost 50 percent of Mr. Trump’s media expenditures were for digital, only 8 percent of Secretary Clinton’s media expenditures were for digital. So although Secretary Clinton outspent Mr. Trump by $75 million on media, it is quite possible that Mr. Trump’s heavy reliance on digital media allowed for a more efficient and targeted ad campaign that escaped the eye.
 
-Parscale, who is now managing Trump’s 2020 campaign, claimed in a 2018 tweet that the Trump campaign tech operation was “100 times to 200 times” more effective than the Clinton campaign’s, adding “@realDonaldTrump was a perfect candidate for Facebook.”
+Parscale, who is now managing Trump’s 2020 campaign, claimed in a 2018 tweet that the Trump campaign tech operation was "100 times to 200 times" more effective than the Clinton campaign’s, adding "@realDonaldTrump was a perfect candidate for Facebook."
 
 On Monday, Parscale boasted on the conservative website Townhall that Trump rallies are providing a gold mine of data for the 2020 election:
 
@@ -76,11 +76,11 @@ In the current election cycle, Montgomery and Chester write,
 
 further growth and expansion of the big data digital marketplace is reshaping electoral politics in the US, introducing both candidate and issue campaigns to a system of sophisticated software applications and data-targeting tools that are rooted in the goals, values, and strategies for influencing consumer behaviors.
 
-Technologies used for “identity resolution,” they write,
+Technologies used for "identity resolution," they write,
 
 enable marketers — and political groups — to target and ‘reach real people’ with greater precision than ever before. Marketers are helping perfect a system that leverages and integrates, increasingly in real-time, consumer profile data with online behaviors to capture more granular profiles of individuals, including where they go, and what they do.
 
-The authors go on to warn that “all of these developments are taking place, moreover, within a regulatory structure that is weak and largely ineffectual.”
+The authors go on to warn that "all of these developments are taking place, moreover, within a regulatory structure that is weak and largely ineffectual."
 
 Tara McGowan, executive director of the recently created pro-Democratic group Acronym, which plans to spend $75 million on digital and other media, replied to my questions by email:
 
@@ -98,13 +98,13 @@ Still, there are concerns that much of the Democratic spending will have limited
 
 Apple, Google and most other major internet players have adopted privacy policies that would appear to significantly constrain the ability of data management firms to obtain detailed household information, consumer spending and partisan leanings of smartphone users. But it turns out that there are ways to get around the rules.
 
-Serge Egelman, a research director at Berkeley’s International Computer Science Institute and a co-author of the paper “50 Ways to Leak Your Data: An Exploration of Apps’ Circumvention of the Android Permissions System,” replied to my email:
+Serge Egelman, a research director at Berkeley’s International Computer Science Institute and a co-author of the paper "50 Ways to Leak Your Data: An Exploration of Apps’ Circumvention of the Android Permissions System," replied to my email:
 
 Most users are likely of the impression that apps will only collect the personal data that they’re asked about in the ‘permissions dialogues’ that they encounter (i.e., pop-up notifications asking if it’s O.K. for an app to access certain data, such as location, address book contacts, photos, etc.).
 
 These unsuspecting users were mistaken.
 
-We discovered that there are “back channels” through which the same data is available without having to present the user with a permission dialogue.
+We discovered that there are "back channels" through which the same data is available without having to present the user with a permission dialogue.
 
 What does this mean for politics?
 
@@ -114,17 +114,17 @@ The data
 
 generally provides information about individual users’ day-to-day activities and preferences: Where they shop; What they do for fun; What other apps they use, for how long, and what they do in those apps; Where they live; Where they work; With whom they associate.
 
-This data, he added, enables campaigns to list “individual attendees at political rallies;” to identify “political leanings based on online and offline preferences (where you live, work, shop, play, etc.); and to segment “ads based on inferred psychographic traits (i.e., exactly what Cambridge Analytica did, but instead of personalized political ads on Facebook, users get personalized ads in potentially all of their mobile apps).”
+This data, he added, enables campaigns to list "individual attendees at political rallies;" to identify "political leanings based on online and offline preferences (where you live, work, shop, play, etc.); and to segment "ads based on inferred psychographic traits (i.e., exactly what Cambridge Analytica did, but instead of personalized political ads on Facebook, users get personalized ads in potentially all of their mobile apps)."
 
-Egelman noted that “from the user’s perspective, there’s literally no way of preventing it from happening or even knowing when it’s happening.” The expectation “that app users should be able to figure this all out and manage it is absolutely ludicrous.”
+Egelman noted that "from the user’s perspective, there’s literally no way of preventing it from happening or even knowing when it’s happening." The expectation "that app users should be able to figure this all out and manage it is absolutely ludicrous."
 
 A pro-Democratic strategist who is helping coordinate the independent effort to defeat Trump — and who insisted on anonymity to protect his job — described what he believes is the current state of play in the role of digital technology in larger, overall strategy:
 
 There’s no question that as a technical matter, the Republicans and the Kochs are spending much more and have better data than Democrats/progressives. But they also have a much more difficult product to sell: Trump.
 
-If Marco Rubio were president in this thriving economy, he continued, “2020 would not be a competitive election, and the Democrats might not have claimed the House in 2018.”
+If Marco Rubio were president in this thriving economy, he continued, "2020 would not be a competitive election, and the Democrats might not have claimed the House in 2018."
 
-“Crucially,” the strategist said,
+"Crucially," the strategist said,
 
 Trump has two relevant advantages deriving from the asymmetry between the flow of Republican and Democratic information. First, when Trump says something, Fox repeats it. When a Democrat says something, The New York Times and the rest of the MSM knock it down if it’s false or debatable.
 
@@ -134,7 +134,7 @@ In addition, the Democratic strategist said,
 
 Trump benefits enormously because of the Right’s aligned network of media properties (i.e., Sinclair), Facebook properties, YouTube influencers and bots/sock puppets. This kind of amplification network barely exists for Democrats/progressives.
 
-While studies show that “digital ads have at most a slight persuasive effect,” he noted,
+While studies show that "digital ads have at most a slight persuasive effect," he noted,
 
 the real goal of paid advertising is for the content to become organic social media. For example, a Trump ad saying that he’s brought back manufacturing jobs would persuade almost no one. But, when local news or your neighbor starts repeating that, it becomes more credible and persuasive. That’s what they’re after. To sum up, their content is advantaged because it reaches their target audiences, without friction, from the media that audience trusts, and is quickly and reliably repeated by other voices they trust in their world.
 

@@ -29,9 +29,9 @@ A recent study by the Mercatus Center at George Mason University — a free-mark
 We have our doubts about Medicare for All. But unaffordability is not a reason to oppose it. Whether it’s our current arrangement or a future Medicare for All, the per capita cost of our health care system already far exceeds that of any other industrialized country — including those with single-payer systems. When you hear a health care price tag in the trillions, know that the existing system has already brought us there.
 
 Fallacy No. 3: Insurance companies’ profits drive health care costs.
-In the second Democratic presidential debate, Senator Bernie Sanders declared that the health care industry makes $100 billion in profits. He once railed against the insurance company Anthem for denying a claim while noting that it reported “fourth-quarter profits for 2017 had increased by 234 percent to $1.2 billion.”
+In the second Democratic presidential debate, Senator Bernie Sanders declared that the health care industry makes $100 billion in profits. He once railed against the insurance company Anthem for denying a claim while noting that it reported "fourth-quarter profits for 2017 had increased by 234 percent to $1.2 billion."
 
-Many Americans believe that profits have no place in health care. They see for-profit health insurance, like buying and selling kidneys and livers for transplantation, as what the Nobel Prize winner Alvin Roth termed a “repugnant industry” — something that should not be exchanged in the market.
+Many Americans believe that profits have no place in health care. They see for-profit health insurance, like buying and selling kidneys and livers for transplantation, as what the Nobel Prize winner Alvin Roth termed a "repugnant industry" — something that should not be exchanged in the market.
 
 That is an important moral stand, but it makes no difference to the claim that eliminating for-profit insurers will reduce high health care costs. The fact is, we could eliminate those profits and it would hardly matter to the cost of health care. You would not notice it in your premiums.
 
@@ -42,7 +42,7 @@ True, $22.1 billion is a lot of money — but it is 0.6 percent of health spendi
 There are far more savings to be had in other efforts — by cutting unnecessary patient services, for example, or by making physicians and hospitals more efficient — to deliver the same care at a lower cost.
 
 Fallacy No. 4: Price transparency can bring down health care costs.
-“Hospitals will be required to publish prices that reflect what people pay for services,” said President Trump when he signed his executive order on health care price transparency. “Prices will come down by numbers that you wouldn’t believe. The cost of health care will go way, way down.”
+"Hospitals will be required to publish prices that reflect what people pay for services," said President Trump when he signed his executive order on health care price transparency. "Prices will come down by numbers that you wouldn’t believe. The cost of health care will go way, way down."
 
 There is no doubt that prices for medical procedures can range widely even within the same city or state. For instance, M.R.I.s of the spine can vary threefold in Massachusetts and mammograms fivefold in San Francisco.
 
@@ -54,7 +54,7 @@ One recent study by Harvard Medical School researchers involved hundreds of thou
 
 Since 2007, New Hampshire has had a state website, N.H. Health Cost, that allows patients to select a medical procedure, insurer and ZIP code and then get a list of prices for the procedure from various providers. The most promising study of N.H. Health Cost suggests a few million dollars in savings per year. That works out to be about $5 per New Hampshire resident.
 
-The fact is, price transparency will not make health care costs “go way, way down.” Health insurance insulates the patient from price. Over 80 percent of the cost of medical care is paid by private and public insurance. Patients have little incentive to seek out the cheapest provider. When pricing websites exist, few patients use them. Even in the most favorable studies, when offered a price transparency tool, only 12 percent of patients took advantage of it; usually it’s less than 4 percent of patients.
+The fact is, price transparency will not make health care costs "go way, way down." Health insurance insulates the patient from price. Over 80 percent of the cost of medical care is paid by private and public insurance. Patients have little incentive to seek out the cheapest provider. When pricing websites exist, few patients use them. Even in the most favorable studies, when offered a price transparency tool, only 12 percent of patients took advantage of it; usually it’s less than 4 percent of patients.
 
 Furthermore, price considerations are useful for choosing only about 40 percent of procedures — routine services like colonoscopies, M.R.I. scans and laboratory tests. Most of the expensive services — think heart catheterizations, cancer chemotherapy and organ transplants — are not the kind of thing you decide based on price.
 

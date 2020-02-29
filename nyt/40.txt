@@ -15,7 +15,7 @@ If I were king of the internet, I would impose an ironclad rule: No one is allow
 
 Virality was once the delightful miracle of a networked age; you’d see a funny video going around, get caught up in the collective wonder and hilarity, and forward it on to your 100 closest pals. At its meme-ified best, participating in this sort of viral feast felt like a boon to collective social bonding. Remember, kids, that one glorious day we were all talking about the crazy dress? What times, what times!
 
-But, The Dress notwithstanding, in the 2010s virality got too easy, and then it grew sour, venal and dishonest. Nobody’s counting, but by my unscientific estimate almost everything that became instantly popular online in the last decade turned out to be problematic in one way or another. That photo of the shark washed onto a freeway by a hurricane? Fake. The culture-war-defining outrage your aunt just posted to Facebook? Debunked, of course. The suddenly popular influencer? A “milkshake duck” running from his past.
+But, The Dress notwithstanding, in the 2010s virality got too easy, and then it grew sour, venal and dishonest. Nobody’s counting, but by my unscientific estimate almost everything that became instantly popular online in the last decade turned out to be problematic in one way or another. That photo of the shark washed onto a freeway by a hurricane? Fake. The culture-war-defining outrage your aunt just posted to Facebook? Debunked, of course. The suddenly popular influencer? A "milkshake duck" running from his past.
 
 Social networks and even governments are looking into ways to curb viral misinformation, but this fight will define our age. The root of the problem is that humans are weak, gullible dolts; every day many of us, even people who should know better — folks with fancy jobs and blue check marks next to our handles — keep falling for online hoaxes. Virality hijacks our better instincts, and because so many of the internet’s business models benefit from instant popularity, there’s a great deal of money and power riding on our failings.
 
@@ -26,11 +26,11 @@ In the 2010s, Twitter became the center of the political universe. In some ways 
 
 Which is why, if you’re on Twitter and can’t muster the will to never tweet, you should at least consider it your duty in 2020 to resist the network’s worst impulses, for your sake and all of ours, too.
 
-What’s Twitter’s most damaging sin? I say it’s the too-easy mocking joke — what’s known, in the jargon, as the “quote-tweet dunk.”
+What’s Twitter’s most damaging sin? I say it’s the too-easy mocking joke — what’s known, in the jargon, as the "quote-tweet dunk."
 
 Here are two canonical examples:
 
-This scurrilous maneuver works like so: You spot an easily ridiculed tweet by a member of some rival social or political tribe. Like a 1990s fourth grader with phasers set to “Moded!” you add a pithy rejoinder that’s sure to please your side. It’s best if you elide context, depth or any intention of dialogue; just straight-up make fun of the person. Then mash on the retweet button to broadcast your supposedly clever jape.
+This scurrilous maneuver works like so: You spot an easily ridiculed tweet by a member of some rival social or political tribe. Like a 1990s fourth grader with phasers set to "Moded!" you add a pithy rejoinder that’s sure to please your side. It’s best if you elide context, depth or any intention of dialogue; just straight-up make fun of the person. Then mash on the retweet button to broadcast your supposedly clever jape.
 
 The mechanism is part of the problem — when you quote-tweet someone on Twitter, the service shows off your remark to your own followers while leaving the original poster’s followers in the dark. (Another Twitter feature, the Reply, lets followers of both users see a response.) If Twitter is a cocktail party, the quote-tweet dunk is the equivalent of overhearing a guy across the room say something ridiculous, then inviting the whole room to point and giggle at the idiot over there. The imbalance discourages any possibility of meaningful conversation and reduces all of political discourse to empty, shallow quippery.
 
