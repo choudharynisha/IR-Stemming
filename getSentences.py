@@ -30,7 +30,7 @@ def main():
     #write each sentence into a file
     for sentence in sentences: 
         #delete punctuation 
-        sentence = sentence.translate(str.maketrans('', '', string.punctuation))
+        sentence = sentence.translate(str.maketrans('', ' ', string.punctuation))
         #make lowercase
         sentence = sentence.lower()
         masterCorpus.write(sentence + "\n")
