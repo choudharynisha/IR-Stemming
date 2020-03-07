@@ -210,9 +210,29 @@ public class IREngine {
         try {
             BufferedReader reader = new BufferedReader(new FileReader(path + id + ".txt"));
             
-            document.setTitle(reader.readLine());
-            // ↑ leaves out the substring "By " in the beginning of each document in the dataset I have
+            if(id < 84) {
+                // the NY Times articles
+                document.setTitle(reader.readLine());
+                reader.close();
+                return document;
+            }
             
+            if(id < 176) {
+                // the astrology books
+                reader.readLine();
+                reader.readLine();
+                document.setTitle(reader.readLine());
+                reader.close();
+                return document;
+            }
+            
+            for(int i = 0; i < 8; i++) {
+                // skips the first 8 lines to get the title line of the horror books
+                reader.readLine();
+            }
+            
+            document.setTitle(reader.readLine().substring(7));
+            reader.close();
             return document;
         } catch(Exception e) {
             e.printStackTrace();
