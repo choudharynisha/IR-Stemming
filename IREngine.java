@@ -22,13 +22,12 @@ public class IREngine {
             return;
         }
         
-        if(args.length < 4) {
-            System.out.println("Missing path, missing number of articles, missing file of queires, and/or missing file " +
-                               "of document names.");
+        if(args.length < 3) {
+            System.out.println("Missing path, missing number of articles, missing file of queires");
             return;
         }
         
-        if(args.length > 4) {
+        if(args.length > 3) {
             System.out.println("Too many arguments");
             return;
         }
