@@ -57,7 +57,7 @@ public class IREngine {
             }
             
             Document document = new Document(i, rank, appearances, tfidf, file);
-            documents[i - 1] = findTitleAuthor(args[0], i, document); // so that the printed results provide more descriptive
+            documents[i - 1] = findTitle(args[0], i, document); // so that the printed results provide more descriptive
         }
         
         printQueryResults(findResults(getQueries(args[2]), documents));
@@ -200,18 +200,17 @@ public class IREngine {
     } // findResults()
     
     /**
-     *  Finds the title and author of the article and updates the document
+     *  Finds the title of the article and updates the document
      *  @param path     The path the file can be found in, relative to the current directory
      *  @param id       The id of the document
      *  @param document The document to be updated
      *  @return The updated document
      */
-    public static Document findTitleAuthor(String path, int id, Document document) {
+    public static Document findTitle(String path, int id, Document document) {
         try {
             BufferedReader reader = new BufferedReader(new FileReader(path + id + ".txt"));
             
             document.setTitle(reader.readLine());
-            document.setAuthor(reader.readLine().substring(3));
             // ↑ leaves out the substring "By " in the beginning of each document in the dataset I have
             
             return document;
@@ -220,7 +219,7 @@ public class IREngine {
         }
         
         return document;
-    } // findTitleAuthor()
+    } // findTitle()
     
     /**
      *  Processes the file with each query to identify individual queries and assumes that each query is separated by a

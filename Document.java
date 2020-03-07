@@ -13,7 +13,6 @@ public class Document {
     private HashMap<String, Integer> frequencies = new HashMap<>(); // the freqencies of each token
     private HashMap<String, Double> tfidf = new HashMap<>(); // the TF-IDF value of each token
     private int id; // the document id
-    private String author; // the document / article author
     private String title; // the document / article title
     
     Document(int id, ArrayList<String> rank, HashMap<String, ArrayList<Integer>> appearances, HashMap<String, Double> tfidf,
@@ -23,7 +22,7 @@ public class Document {
         this.rank = rank;
         this.tfidf = tfidf;
         
-        author = title = "";
+        title = "";
     } // Document
     
     public HashMap<String, ArrayList<Integer>> allAppearances() {
@@ -42,17 +41,9 @@ public class Document {
         return tfidf;
     } // tfidf()
     
-    public String getAuthor() {
-        return author;
-    } // getAuthor()
-    
     public String getTitle() {
         return title;
     } // getTitle()
-    
-    public void setAuthor(String author) {
-        this.author = author;
-    } // setAuthor()
     
     public void setTitle(String title) {
         this.title = title;
@@ -60,6 +51,6 @@ public class Document {
     
     @Override
     public String toString() {
-        return title + " by " + author;
+        return title;
     } // toString()
 } // Document
