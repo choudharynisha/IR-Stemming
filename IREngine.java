@@ -35,11 +35,6 @@ public class IREngine {
         Document[] documents = new Document[Integer.valueOf(args[1])]; // the array containing all document information
         
         for(int i = 1; i < (Integer.valueOf(args[1]) + 1); i++) {
-            if((i > 261) && (i < 266)) {
-                // skips missing files
-                continue;
-            }
-            
             HashMap<String, Double> tfidf = new HashMap<>();
             
             // obtain tokens and their corresponding frequency count for the ith file, rank them, and find their appearance
