@@ -36,6 +36,11 @@ public class IREngine {
         Document[] documents = new Document[Integer.valueOf(args[1])]; // the array containing all document information
         
         for(int i = 1; i < (Integer.valueOf(args[1]) + 1); i++) {
+            if((i > 261) && (i < 266)) {
+                // skips missing files
+                continue;
+            }
+            
             HashMap<String, Double> tfidf = new HashMap<>();
             
             // obtain tokens and their corresponding frequency count for the ith file, rank them, and find their appearance
@@ -55,9 +60,7 @@ public class IREngine {
             documents[i - 1] = findTitleAuthor(args[0], i, document); // so that the printed results provide more descriptive
         }
         
-        printTop3Results(findResults(getQueries(args[3]), documents));
-        
-        //printQueryResults(findResults(getQueries(args[2]), documents));
+        printQueryResults(findResults(getQueries(args[2]), documents));
     } // main()
     
     /**
@@ -313,24 +316,6 @@ public class IREngine {
             System.out.println();
         }
     } // printQueryResults()
-    
-    /**
-     *  Prints the top 3 results for the query
-     *  @param results The corresponding results for each query, stored in an ArrayList of query result objects
-     */
-    public static void printTop3Results(HashMap<String, ArrayList<QueryResult>> results) {
-        for(String query : results.keySet()) {
-            System.out.println(query);
-            
-            ArrayList<QueryResult> documents = sort(results.get(query));
-            
-            for(int i = 0; i < 3; i++) {
-                System.out.println(documents.get(i).document().toString() + " " + documents.get(i).cosineSimilarity());
-            }
-            
-            System.out.println();
-        }
-    } // printTop3Results()
     
     /**
      *  Finds articles / results based on queries
