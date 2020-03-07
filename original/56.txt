@@ -1,0 +1,37 @@
+The Meaninglessness of the .Org Domain
+By Sam Wineburg and Nadav Ziv
+Dec. 5, 2019
+
+Are today’s high school students, the ones we call "digital natives," able to separate fact from fiction?
+
+Not according to a survey we released last month in which 3,446 high school students across the country evaluated the trustworthiness of different websites. One such site was co2science.org, a climate-change skeptic group that claims to "disseminate factual reports and sound commentary." Students could go anywhere on the web to investigate the site. A quick search uncovers the group’s past ties to the fossil fuel industry. But 96 percent of students never uncovered this industry connection.
+
+Too often students’ evaluations stalled at three letters: "This page is a reliable source to obtain information from," one wrote, "you see in the URL that it ends in .org as opposed to .com."
+
+The kids are wrong. Dot-org symbolizes neither quality nor trustworthiness. It’s a marketing tool that relies on a widespread but false association with credibility.
+
+Kids aren’t the only ones misinformed. A 2012 international study found that nearly half of Americans, and larger percentages in France, Brazil and India, believed that an organization must meet "some criteria" before it could register under .org.
+
+The dot-org domain is controlled by the Public Interest Registry, which was sold last month to Ethos Capital, a private equity firm. The three letters are marketed as "a powerful signal that your site serves a greater good — rather than just a bottom line." It’s a claim that leads people to make errors about whom and what to trust.
+
+Unlike dot-gov or dot-edu, which are closed to the general public, dot-org is an "open" domain. Anyone can register a dot-org without passing a character test. Even commercial sites can be dot-orgs. Craigslist — among the world’s largest ad sites — is craigslist.org. There are over 10 million dot-orgs, each of which pays roughly $10 per year to register. All you have to do to get one is fill out an online form and provide payment.
+
+Registration fees generated $92 million in revenue for the Public Interest Registry in 2018 alone. In theory these revenues could grow much larger soon — in June, the Internet Corporation for Assigned Names and Numbers, the supervisory body that regulates the internet’s domain name system, agreed to lift price caps on dot-orgs. Still, Andy Shea, a spokesperson for the Public Interest Registry, says it plans to keep the pricing for dot-orgs low, with increases of no more than 10 percent on average a year.
+
+In the Public Interest Registry’s latest marketing blitz, they unveiled a logo painted in "deep royal blue," a shade they say evokes "feelings of trust, security and reliability." They tell new customers to expect an increase in "donations, and trust for donors" when they become part of the "domain of trust."
+
+Noteworthy nonprofits, civic organizations and religious groups have embraced the domain — and so have a host of bad actors. All reaped the benefits of dot-org’s association with credibility.
+
+Educational institutions unwittingly shape misperceptions around dot-orgs. Many colleges and universities, including Harvard and Northwestern, steer students in the wrong direction. They equate dot-orgs with nonprofit groups and issue no warning of the dangers lurking beneath the domain’s positive aura.
+
+Dot-org is the favored designation of "astroturf" sites, groups that masquerade as grass roots efforts but are backed by corporate and political interests. One of these is the Employment Policies Institute, which claims to sponsor "nonpartisan research." It was actually founded and run by the head of a public relations firm that represents the restaurant industry. Another dot-org, Americans for Prosperity Foundation, says it addresses major social problems through "broad-based grass roots outreach." In reality, it was founded by the billionaire Koch brothers and many of its "grass roots" activists are paid.
+
+There’s an even bigger risk to equating dot-org sites with do-gooders. Dozens of neo-Nazi, anti-L.G.B.T., anti-Muslim, and anti-immigrant groups bear the dot-org seal. A random sample of a hundred organizations designated as hate groups by the Southern Poverty Law Center found that 49 percent carry the dot-org domain.
+
+"Typically the domain name system is not an appropriate tool to address website content questions and speech issues," said Shea, the Public Interest Registry spokesperson. "That said, if a site on a .org domain engages in specific threats of violence, we would not hesitate to take action on it under our Anti-Abuse Policy."
+
+A 2019 United Nations survey showed that citizens the world over have lost trust in the internet. Restoring it will take herculean efforts. The groups that control the internet’s domain system could lead the way by being honest about what these initials do and don’t represent.
+
+The Public Interest Registry and Ethos Capital could channel some of the millions earned from the dot-org mirage to fund initiatives that educate the public on the domain’s shortcomings.
+
+They can start by adding a bright red asterisk to their royal blue logo: "Dot-org implies nothing about an organization’s intent. Buyer Beware."
