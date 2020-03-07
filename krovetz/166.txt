@@ -1,0 +1,385 @@
+project gutenberg's astronomical lore in chaucer, by florence m. grimm 
+
+this ebook is for the use of anyone anywhere at no cost and with 
+
+almost no restriction whatsoever. you may copy it, give it away or 
+
+re-use it under the terms of the project gutenberg license included 
+
+with this ebook or online at www.gutenberg.org 
+
+title: astronomical lore in chaucer 
+
+author: florence m. grimm 
+
+release date: october 11, 2011 [ebook #37711] 
+
+language: english 
+
+character set encoding: iso-8859-1 
+
+*** start of this project gutenberg ebook astronomical lore in chaucer *** 
+
+produce by the online distribute proofread team at 
+
+http://www.pgdp.net (this file was produce from image 
+
+generous made available by the internet archive.) 
+
+university of nebraska 
+
+study inlanguage, literature and criticism 
+
+number 2 
+
+
+
+astronomical lore in chaucer 
+
+
+
+by 
+
+florence m. grimm, a. m.assistant in the university ofnebraska library 
+
+
+
+editorial committee 
+
+louise pound, ph. d., department of englishh. b. alexander, ph. d., department of philosophyf. w. sanford, a. b., department of latin. 
+
+
+
+lincoln1919 
+
+
+
+[pg 2] 
+
+contents 
+
+i. 
+
+astronomy in the middle age 
+
+3 
+
+ii. 
+
+chaucer’s scientific knowledge 
+
+9 
+
+iii. 
+
+chaucer’s cosmology 
+
+12 
+
+iv. 
+
+chaucer’s astronomy 
+
+27 
+
+v. 
+
+astrology lore in chaucer 
+
+51 
+
+
+
+appendix 
+
+79 
+
+
+
+[pg 3] 
+
+astronomical lore in chaucer 
+
+
+
+i 
+
+astronomy in the middle age 
+
+the conspicuous of astronomical lore in the poetry of chaucer is due 
+
+to its importance in the life of his century. in the mediaeval period, 
+
+astronomy (or ‘astrology,’ for the two name were use indifferent to 
+
+cover the same subject) was one of the vital interests of men. the 
+
+ordinary man of the middle age knew much more than do most men to-day 
+
+about the phenomena of the heavens; convenience such as clocks, almanacs, 
+
+and chart represent celestial phenomena were rare, and direct 
+
+observations of the apparent movements and the relative position of the 
+
+heavenly body were necessary for the regulation of man’s daily 
+
+occupations. furthermore, the belief in a geocentric system of the 
+
+universe, which in chaucer’s century was almost universally accepted, was 
+
+of vast significance in man’s way of thinking. accept this view, all 
+
+the heavenly body seem to have been create for the sole benefit of 
+
+man, inhabit the central position in the universe; their movements, 
+
+always with reference to the earth as a center, brought to man light, 
+
+heat, change of season—all the conditions that made human life possible 
+
+on the earth. 
+
+not only did the man of the middle age see in the regular movements of 
+
+the celestial sphere the instrument by which god grant him physical 
+
+existence, but in the various aspect of heavenly phenomena he saw the 
+
+governing principles of his moral life. the arrangement of the heavenly 
+
+body with regard to one another at various times was supposed to exert 
+
+undoubted power over the course of terrestrial events. each planet was 
+
+thought to have special attribute and a special influence over men’s[pg 4] 
+
+lives. venus was the planet of love, mars, of war and hostility, the sun, 
+
+of power and honor, and so forth. each was mysterious connected with a 
+
+certain color, with a metal, too, the alchemist said, and each had 
+
+special power over some organ of the human body. the planet’s influence 
+
+was believe to vary greatly according to its position in the heavens, so 
+
+that to determine a man’s destiny accurate it was necessary to consider 
+
+the aspect of the whole heavens, especially at the moment of his birth, 
+
+but also at other times. this was call “casting the horoscope” and was 
+
+regard as of great importance in enabling a man to guard against 
+
+threaten peril or bad tendencies, and to make the best use of 
+
+favorable opportunities. 
+
+it is not astonishing, then, that the great monument of literature in the 
+
+mediaeval period and even much later are fill with astronomical and 
+
+astrology allusions; for these are but reflection of vital human 
+
+interests of the times. the greatest poetical work of the middle ages, 
+
+dante’s divina commedia, is rich in astronomical lore, and its dramatic 
+
+action is project against a cosmographic background reflect the 
+
+view of dante’s contemporary as to the structure of the world. milton, 
+
+writing in the seventeenth century, bases the cosmology of his paradise 
+
+lost in the main on the ptolemaic system, but make adam and the 
+
+archangel raphael discuss the relative merit of this system and the 
+
+heliocentric view of the universe. the latter had been brought forth by 
+
+copernicus a century earlier, but even in milton’s day had not yet 
+
+succeed in supplant the old geocentric cosmology. 
+
+the view of the universe which we find reflect in chaucer’s poetry is 
+
+chiefly base on the ptolemaic system of astronomy, though it show trace 
+
+of very much more primitive cosmology ideas. the ptolemaic system owe 
+
+its name to the famous alexandrian astronomer of the second century a. d., 
+
+claudiu ptolemy, but is base largely on the works and discovery of the 
+
+early greece philosopher and astronomers, especially eudoxus, 
+
+hipparchus, and aristarchus, whose investigate ptolemy compiled[pg 5] and, 
+
+along some lines, extended. ptolemaic astronomy was a purely geometric 
+
+or mathematics system which represent the observe movements and 
+
+relative position of the heavenly body so accurate that calculation 
+
+as to their position at any given time could be base upon it. ptolemy 
+
+agree with his contemporary in the opinion that to assign cause for 
+
+the celestial movements was outside the sphere of the astronomer. this was 
+
+a proper field of philosophy; and the decision of philosophers, 
+
+especially those of aristotle, were regard as final, and their teaching 
+
+as the basis upon which observe phenomena should be described. 
+
+according to the ptolemaic system the earth is a motionless sphere fixed 
+
+at the center of the universe. it can have no motion, for there must be 
+
+some fixed point in the universe to which all the motions of the heavenly 
+
+body may be referred; if the earth had motion, it was argued, this would 
+
+be proportionate to the great mass of the earth and would cause object 
+
+and animal to fly off into the air and be left behind. ptolemy believe 
+
+this reason sufficient to make untenable the idea of a rotatory motion of 
+
+the earth, although he was fully aware that to suppose such a motion of 
+
+the earth would simplify exceedingly the representations of the celestial 
+
+movements. it did not occur to him that to suppose the earth’s atmosphere 
+
+to participate in its motion would obviate this difficulty. the earth was 
+
+but a point in comparison with the immense sphere to which the stars were 
+
+attach and which revolve about the earth once in every twenty-four 
+
+hours, impart its motion to sun, moon, and planets, thus cause day 
+
+and night and the rising and setting of the heavenly bodies. the irregular 
+
+motions of the planet were account for by supposing them to move on 
+
+circle of small sphere call ‘epicycles’, the centre of which move 
+
+around the ‘deferents’, or circle of large sphere which carry the 
+
+planet in course concentric to the star sphere. by give each of the 
+
+planet an epicycle and deferent of the proper relative size and velocity 
+
+the varied oscillation of the planets, as far as they could be follow 
+
+by means of the simple instrument then in use, were almost perfectly 
+
+account for. 
+
+[pg 6]though it was a purely mathematics system which only attempt to give a 
+
+basis for compute celestial motions, ptolemaic astronomy is of great 
+
+importance historical as it remain the foundation of theoretical 
+
+astronomy for more than 1400 years. throughout the long dark century of 
+
+the middle age it survive in the study of the retired student of the 
+
+monastery and of the few exceptional enlightened men who still had 
+
+some regard for pagan learning in the days when many of the church father 
+
+denounce it as heretical. 
+
+ptolemy was the last of the great original greece astronomers. the 
+
+alexandrian school produced, after him, only copyist and commentators, 
+
+and the theoretical astronomy of the greeks, so highly perfect in 
+
+ptolemy’s almagest, was for many century almost entire neglected. 
+
+the roman state gave no encouragement to the study of theoretical 
+
+astronomy and produce no new school of astronomy. although it was the 
+
+fashion for a roman to have a smattering of greece astronomy, and famous 
+
+latin author like cicero, seneca, strabo and pliny wrote on astronomy, 
+
+yet the roman care little for original investigate and contribute 
+
+nothing new to the science. the romans, however, appreciate the value of 
+
+astronomy in measure time, and applied to the alexandrian school to 
+
+satisfy their practical need for a calendar. what julius caesar obtain 
+
+from the alexandrian sosigenes, he greatly improve and gave to the 
+
+empire, as the calendar which, with the exception of the slight change 
+
+made by gregory xiii, we still use. 
+
+the pseudo-astronomical science of astrology, or the so-called ‘judicial 
+
+astronomy’ was pursue during the roman empire and throughout the middle 
+
+age with much greater zeal than theoretical astronomy. the interest in 
+
+astrology, to be sure, encourage the study of observation astronomy to 
+
+a certain extent; for the casting of horoscope to foretell destiny 
+
+require that the heavenly body be observe and method of calculating 
+
+their position at any time or place be known. but there was no desire to 
+
+inquire into the underlying law of the celestial motions or to 
+
+investigate the real nature of the heavenly phenomena. 
+
+[pg 7]if the roman state did not encourage astronomy, the roman church 
+
+positively discourage it. the bible became and long remain the sole 
+
+authority recognize by the church father as to the constitution of the 
+
+universe. by many of the patristic ptolemaic astronomy was despised; not 
+
+because it did not describe accurate the observe phenomena of the 
+
+heavens, for it did this in a way that could scarcely have been improve 
+
+upon with the facilities for observation then available; and not because 
+
+it was found upon the false assumption that the earth is the motionless 
+
+center of the universe about which all heavenly body revolve; but 
+
+because there was no authority in scripture for such a system, and it 
+
+could not possibly be made consistent with the cosmology of genesis. 
+
+allegorical description of the universe base on the scripture held 
+
+almost complete sway over the mediaeval mind. the whole universe was 
+
+represent allegorical by the tabernacle and its furniture. the earth 
+
+was flat and rectangular like the table of shew bread, and surround on 
+
+all four side by the ocean. the wall of heaven beyond this support the 
+
+firmament shaped like a half-cylinder. angel move the sun, moon, and 
+
+stars across the firmament and let down rain through its window from the 
+
+expanse of water above. 
+
+
