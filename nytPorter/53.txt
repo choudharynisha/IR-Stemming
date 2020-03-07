@@ -1,0 +1,42 @@
+the flaw human of silicon valley 
+By charli warzel 
+jan. 28, 2020 
+
+everi week bring a fresh hell in the tech world. As news of the latest scandal pile up over weeks, month and eventu years, narr switch. friendli tech compani becom "big tech." the narr is flattened. the tech giant becom monolith and their employe becom caricatur — often of villains. 
+
+the truth is alway messier, more interest and more human. It is a central tension anim anna wiener’ excel memoir, "uncanni valley." the book trace ms. wiener’ navig the tech world as a start-up employe in the mid 2010 — what might be thought of as the last year befor silicon valley’ fall from darl status. ms. wiener said she wa drawn into the tech world by it propuls qualities. graduat into a recess and spend her earli 20 in publishing, tech offer opportunities: jobs, the seduct feel of creat someth and, of course, the money wa good. 
+
+but what make "uncanni valley" so valuabl is the way it human the tech industri without let it off the hook. the book allow us to see the way that flaw technolog is made and marketed: not by villains, but by blind spots, uncrit think and armi of ambival peopl come into work each day tri their best — all while, sometim unwittingly, lay the foundat of the surveil economy. 
+
+from a privaci standpoint, "uncanni valley" is help in understand what it’ like be on the other end of the torrent of inform that stream from our devic each minute. earli on, ms. wiener recount work for a success data analyt compani and the gold rush toward big data, note that "not everyon knew what they need from big data, but everyon knew that they need it." 
+
+when confront with the mass of inform her compani collected, ms. wiener describ feel uncomfort with the "god mode" view that grant employe full access to user data. "thi wa a privileg vantag point from which to observ the tech industry, and we tri not to talk about it," she writes. this, she notes, becom a pattern. when edward snowden blew the whistl on the nation secur agency’ prism program in 2013, employe at her own data compani never discuss the news. 
+
+what she describ is a familiar dissoci for anyon who spend time interrog tech compani on their privaci policies. her compani simpli didn’t consid itself part of the surveil economy: 
+
+"we weren’t think about our role in facilit and normal the creation of unregulated, privat held databas on human behavior. We were just allow product manag to run better a/b tests. We were just help develop make better apps. It wa all so simple: peopl love our product and leverag it to improv their own products, so that peopl would love them, too. there wa noth nefari about it. besides, if we didn’t do it, someon els would. We were far from the onli third-parti analyt tool on the market. the sole moral quandari in our space that we acknowledg outright wa the question of whether or not to sell data to advertisers. thi wa someth we did not do, and we were righteou about it. We were just a neutral platform, a conduit. If anyon rais concern about the inform our user were collecting, or the potenti for abus of our product, the solut manag would tri to bring us back to earth by remind us that we weren’t data brokers. We did not build cross-platform profiles. We didn’t involv third parties. user might not know they were be tracked, but that wa between them and our custom companies." 
+
+they were, in other words, just do their jobs. 
+
+ms. wiener frequent return to thi retic to question the product, the end goal of the technolog and the silicon valley etho as a whole. 
+
+At her next job work on the term of servic team for a larg open sourc code platform, she reveal how the evolut of the internet push her and her co-work into becom "reluct content moderators." soon it becam her team’ job to fashion a balanc between preserv free speech on her platform and protect it from troll and neo-nazis: 
+
+"we want to tread lightly: core particip in the open-sourc softwar commun were sensit to corpor oversight, and we didn’t want to undercut anyone’ techno-utopian by becom an overreach arm of the company-state. We want to be on the side of human rights, free speech and free expression, creativ and equality. At the same time, it wa an intern platform, and who among us could have articul a coher stanc on intern human rights?" 
+
+As a journalist who ha cover content moder issu for the better part of a decade, the perspect is somewhat clarifying. decis that feel ad hoc or made by one or two peopl in the belli of a larg compani often are. what look from the outsid like a conspiraci or nefari techno-authoritarian is often just confus caus by poor management, poor commun and dizzi growth. "most of the compani did not seem awar of how common it wa for our tool to be abused," ms. wiener write of her group of de facto moderators. "they did not even seem to know that our team existed. It wasn’t their fault — we were easi to miss. there were four of us for the platform’ nine million users." 
+
+In thi instance, "uncanni valley" show how the internet can thrust ordinari peopl into extraordinari posit of power — usual without qualif or a how-to guide. thi is not to say that the book excus ani of the industry’ reckless behavior. like a good travel writer, ms. wiener posit herself as an insider-outsider, "particip in someth bigger than myself and still feel apart from it." and she is suffici critic of her and her peers’ particip in the industry. she write that she would "wonder whether the n.s.a. whistle-blow had been the first moral test for my gener of entrepreneur and tech workers, and we had blown it," she write at one point near the end of the memoir. 
+
+ms. wiener’ memoir come at a point where the backlash against silicon valley is strong enough to have earn it own name. narr have harden and aggriev tech employe are adopt a "bunker mentality." As ranjan roy of the newslett margin wrote recent of facebook, "the rank and file are see that they are the villains, and will increasingli becom so." As so much of the report shows, the increas scrutini and critic of the techlash is import and almost all is warranted. big tech ha amass wild, unregul power that ha grown unchecked. 
+
+still, it’ easi to get conspiratori and to fall comfort into black and white notion of good versu evil. "uncanni valley" is a remind that the realiti is far more muddl but no less damning. our dystopia isn’t just the product of mustache-twirl billionair drunk with power and fuel by greed — though it is that, too, sometimes. it’ also the result of uncrit thinking, blind spot caus by an overwhelmingli white male work forc and a patholog reluct to ask the bigger question: where is thi all going? what am I building? 
+
+what i’m reading: 
+facebook will now show you exactli how it stalk you — even when you’r not use facebook. 
+
+ring doorbel app pack with third-parti trackers. 
+
+leak document expos the secret market for your web brows data. 
+
+40 group have call for a u.s. moratorium on facial recognit technolog 
