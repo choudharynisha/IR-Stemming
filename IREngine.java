@@ -50,7 +50,7 @@ public class IREngine {
             double duration_rank = (System.nanoTime() - start) / 1000000000.0; // duration in seconds
             System.out.println(i + " (rank()) = " + duration_rank + " seconds");
             long start_appearances = System.nanoTime();
-            HashMap<String, ArrayList<Integer>> appearances = appearance(args[0], rank, Integer.valueOf(args[1]));
+            HashMap<String, ArrayList<Integer>> appearances = appearance(args[0], rank, i);
             double duration_appearances = (System.nanoTime() - start) / 1000000000.0; // duration in seconds
             System.out.println(i + " (appearances()) = " + duration_appearances + " seconds");
             int tmfc = file.get(rank.get(0)); // term frequency of the most commonly found token
@@ -82,7 +82,9 @@ public class IREngine {
         HashMap<String, ArrayList<Integer>> documents = new HashMap<>();
         
         for(String token : list) {
+            System.out.println("Line 85");
             ArrayList<Integer> ids = new ArrayList<>();
+            long start = System.nanoTime();
             
             for(int i = 1; i < (number + 1); i++) {
                 // goes through every file to check if token is in the file
@@ -95,6 +97,8 @@ public class IREngine {
             }
             
             documents.put(token, ids);
+            double duration = (System.nanoTime() - start) / 1000000000.0; // duration in seconds
+            System.out.println(number + " (appearance() → Outer For Loop) = " + duration);
         }
         
         return documents;
