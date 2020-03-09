@@ -79,12 +79,11 @@ public class IREngine {
      *  @return The HashMap containing the token and its corresponding ArrayList of document IDs it appears in
      */
     public static HashMap<String, ArrayList<Integer>> appearance(String path, ArrayList<String> list, int number) {
+        long start = System.nanoTime();
         HashMap<String, ArrayList<Integer>> documents = new HashMap<>();
         
         for(String token : list) {
-            System.out.println("Line 85");
             ArrayList<Integer> ids = new ArrayList<>();
-            long start = System.nanoTime();
             
             for(int i = 1; i < (number + 1); i++) {
                 // goes through every file to check if token is in the file
@@ -97,9 +96,10 @@ public class IREngine {
             }
             
             documents.put(token, ids);
-            double duration = (System.nanoTime() - start) / 1000000000.0; // duration in seconds
-            System.out.println(number + " (appearance() → Outer For Loop) = " + duration);
         }
+        
+        double duration = (System.nanoTime() - start) / 1000000000.0; // duration in seconds
+        System.out.println(number + " (appearance()) = " + duration);
         
         return documents;
     } // appearance()
