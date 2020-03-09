@@ -35,24 +35,13 @@ public class IREngine {
         Document[] documents = new Document[Integer.valueOf(args[1])]; // the array containing all document information
         
         for(int i = 1; i < (Integer.valueOf(args[1]) + 1); i++) {
-            System.out.println("Line 38");
-            long start = System.nanoTime();
             HashMap<String, Double> tfidf = new HashMap<>();
             
             // obtain tokens and their corresponding frequency count for the ith file, rank them, and find their appearance
             // count in the other documents
-            long start_file = System.nanoTime();
             HashMap<String, Integer> file = readFile(args[0], i); // stores unique tokens and their corresponding frequencies
-            double duration_file = (System.nanoTime() - start) / 1000000000.0; // duration in seconds
-            System.out.println(i + " (readFile()) = " + duration_file + " seconds");
-            long start_rank = System.nanoTime();
             ArrayList<String> rank = rank(file); // all unique tokens in file ranked by frequency (most common = beginning)
-            double duration_rank = (System.nanoTime() - start) / 1000000000.0; // duration in seconds
-            System.out.println(i + " (rank()) = " + duration_rank + " seconds");
-            long start_appearances = System.nanoTime();
             HashMap<String, ArrayList<Integer>> appearances = appearance(args[0], rank, i);
-            double duration_appearances = (System.nanoTime() - start) / 1000000000.0; // duration in seconds
-            System.out.println(i + " (appearances()) = " + duration_appearances + " seconds");
             int tmfc = file.get(rank.get(0)); // term frequency of the most commonly found token
             
             for(String token : rank) {
@@ -63,9 +52,6 @@ public class IREngine {
             
             Document document = new Document(i, rank, appearances, tfidf, file);
             documents[i - 1] = findTitle(args[0], i, document); // so that the printed results provide more descriptive
-            
-            double duration = (System.nanoTime() - start) / 1000000000.0; // duration in seconds
-            System.out.println(i + " = " + duration + " seconds");
         }
         
         printQueryResults(findResults(getQueries(args[2]), documents));
