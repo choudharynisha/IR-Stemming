@@ -1,0 +1,31 @@
+we hate data collection. that doesn’t mean we can stop it. 
+by farhad manjoo 
+nov. 15, 2019 
+
+we’re being watched. we know we’re being watched, and we don’t think the watch have our best interests at heart. they try to mollify us, argue that we’re being watch for our own good and that in fact we’re the one in charge of the scale and scope of all the watching, but deep down most of us are confuse and suspicious about this sudden state of affairs. why are they watch us so closely? what will they do with all they learn about us? is there any hope of stopping them? and do it even matter that we do not want to be watch — or is it of no consequence, because they know we’re trapped, and so do we? 
+
+the above may sound like the ravings of a wretch imprison in the panopticon, but according to a survey of more than 4,000 people conduct this summer by the pew research center, it is the widespread sensibility of the day. 
+
+according to the survey, america in 2019 feel adrift and powerless about living under the glare of digital surveillance. two-thirds of america believe that surveillance is an inevitable consequence of modern existence — it is not possible to go through daily life, they say, without company and the government collect data about them. more than 70 percent believe that most or all of what they do online is being tracked, and nearly that many believe the same is true of what they do offline. and more than 80 percent feel like they have very little or no control over the data being collected about them. 
+
+in some ways the numbers are unsurprising; of course people who are being watch all the time feel that they’re being watch all the time. 
+
+yet the survey also suggest a major failing on the part of corporation and the government to mitigate our concern about the trade-offs we’re making for digital conveniences. in the past few years, google, facebook and other company that collect and keep gigantic trove of data about us have step up their effort to give us control over that data. their primary argument is that users, not the companies, are in charge of the whole game — we can affect what data is collected about us and how it’s used. 
+
+that message doesn’t seem to be get through. large majority of america feel as we have little or no control over our search and purchase and browse histories; that our text and social media wandering are easily monitored; and that even our physical location may be up for grabs. 
+
+it get worse. not only do we feel we have no control over our data, but we’re also sure there will be few consequence for misuse. 
+
+most america say they don’t trust company to own up to mistake in the handle of our data, or to suffer any serious punishment when things go wrong. most of us say the companies’ own privacy policy are meaningless. 
+
+not that this is a paranoid view. if you consider recent history — say, the fact that equifax was allow to stay in business after its gargantuan 2017 breach in which it fail at its one job, collect and maintain americans’ financial data — it stand to reason that punishment for wrongdoing will be light. in july, facebook was fine $5 billion by the federal trade commission for its role in the cambridge analytica privacy scandal — a fine that set a record, but was of so little consequence to facebook’s business that its stock price actually rose after the punishment was announced. 
+
+the pew survey show america are eager for more power over our data. three-quarters of respondent said there should be more regulation of what company can do with our data; the view was share across the politics spectrum. 
+
+and america are wary of the fundamental trade-off we’re making for technology. data-hungry corporation insist that we’re benefit from the surveillance state — and that our very acquiesce to the collection is a signal of our contentment. in fact, the vast majority of america say that the potential risk of data collection by company and the government outweigh the benefits. 
+
+but where do all this leave us? ordinarily a finding of widespread discontent should spark a sense of optimism — if people hate the status quo so much and are beg for a new way forward, won’t the market or the government step in and give us something better? 
+
+but there is another,more pessimist way to read this survey. the tech company still enjoy enormous financial success, and have seen little impact from increase scrutiny on their businesses. this suggest none of it matters. we hate the way things are, but we’ve trade away our power to stop it, and our worry won’t change anything. 
+
+the prison is terrible. we all know it. enjoy your stay. 

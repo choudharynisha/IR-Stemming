@@ -1,0 +1,49 @@
+the app on My phone are stalk Me 
+By farhad manjoo 
+jan. 22, 2020 
+
+there is much about the futur that keep me up at night — a.i. weaponry, undetect viral deepfakes, indefatig and infinit wise robot op- columnist — but in the last few years, one technolog threat ha blip my fear radar much faster than others. 
+
+that fear? ubiquit surveillance. 
+
+I am no longer sure that human civil can undo or evad live under constant, extravagantli detail physic and even psychic surveillance; as a species, we are not do nearli enough to avoid alway be watch or otherwis digit recorded. 
+
+your location, your purchases, video and audio from within your home and office, your onlin search and everi digit wandering, biometr track of your face and other bodi parts, your heart rate and other vital signs, your everi communication, recording, and perhap your deepest thought or idlest dream — in the future, if not already, much of thi data and more will be collect and analyz by some combin of govern and corporations, among them a hand of megacompani whose power nearli match those of governments. 
+
+whi am I so pessimistic? over the last year, as part of time opinion’ privaci project, i’v particip in experi in which my devic were close monitor in order to determin the kind of data that wa be collect about me. the experi have given me new insight into the psycholog underpin surveillance; i’v realiz how blind we are to the kind of insight tech compani are gain about us through our gadgets. our blind not onli keep us glu to privacy-invad tech — it also mean that we’v fail to creat a polit cultur that is in ani way up to the task of limit surveillance. 
+
+that’ why, across the species, whether under american or european democraci or chines authoritarianism, few of our cultur or polit institut are even much tri to tamp down the surveil state. 
+
+In china, the govern is build a frighten surveil dragnet in broad daylight, stitch togeth facial recognition, fingerprint and other databas into an all-se eye aim to close watch more than a billion citizens. 
+
+yet the unit state and other supposedli liberty-lov western democraci have not rule out such a future. just consid the odd polit surround privaci invasion. donald trump and hi support repeatedli argu that the f.b.i. is corrupt and untrustworthy. yet, like barack obama befor him, trump and the justic depart are push appl to creat a backdoor into the data on encrypt iphon — they want the untrustworthi f.b.i. and ani local cop to be abl to see everyth insid anyone’ phone. 
+
+apple, mercifully, is resisting, just as it did the request of barack obama’ justic depart to creat a loophol in iphon secur — but the fact that both obama and trump agre on the need for break iphon encrypt suggest how thoroughli polit leader across a wide spectrum have neglect privaci as a fundament valu worthi of protection. 
+
+indeed, becaus of a dearth of law protect our privaci — and almost no high-profil polit discuss about the stake at hand — american are sleepwalk into a futur nearli as frighten as the one the chines are constructing. I choos the word "sleepwalking" deliberately, becaus when it come to digit privacy, a lot of us prefer the comfort bliss of ignorance. As a result, much of the surveil engin oper underground — just beyond where mani of us dare to look. 
+
+In recent month my colleagu at the time and other media outlet have publish a seri of shatter investig into modern digit surveillance. among other revelations: advertis compani and data broker are keep insan close tab on smartphones’ locat data, track user so precis that their databas could arguabl compromis nation secur or polit liberty. there are few meaning check on scan for peopl use facial recognition, genet profil or other biometr data. track technolog have becom cheap and wide avail — for less than $100, my colleagu were abl to identifi peopl walk by surveil camera in bryant park in manhattan. 
+
+thi past weekend, the times’ kashmir hill report on a compani call clearview AI that ha creat a tool that "could end your abil to walk down the street anonymously." By scrape pictur from facebook, youtub and other websit to creat a huge databas of faces, the compani let cop identifi peopl just by snap a photo. it’ shazam for faces, not veri differ from the kind of facial recognit tool we worri the author may be use in china — and even though hundr of polic depart may have access to it, almost no one outsid the compani understand how it works. 
+
+the clearview AI stori suggest anoth reason to worri that our march into surveil ha becom inexorable: each new privacy-invad technolog build on a previou one, allow for scari outcom from new integr and collect of data that few user might have anticipated. 
+
+I wa recent confront by thi sort of cascad with my own smartphon track data. late last year, with the help of stuart thompson, an opinion editor, I set up my phone to monitor how certain app were track me. I focus on app that requir me to grant them access to my physic locat — among them app to find cheap gas, coupon and nearbi retail discounts, and to otherwis help me navig and find deal as I wander about the world. 
+
+the upshot: As the location-track app follow me, I wa abl to captur the ping they sent to onlin server — essenti record their spying. I sent the data to stuart and hi team, who interpret and map the ping the app had collect about me. their pictur shock me; the app had follow me far more closely, captur much more data and far more often, than I had imagin when i’d said ye to their tracking. 
+
+look at thi map, which follow the ping collect by the app on one sunday afternoon last year: 
+
+On the map, you can see the app are essenti stalk me. they see me drive out one morn to the ga station, then to the produc store, then to safeway; later on I pass by a music school, stop at a restaurant, then whole foods. but locat wa onli one part of the data the compani had about me; becaus geograph data is often combin with other person inform — includ a mobil advertis ID that can help merg what you see and do onlin with where you go in the real world — the stori these compani can tell about me is actual far more detail than I can tell about myself. 
+
+like a lot of people, i’v long justifi my apathi about privaci through innocence: i’m a stand-up guy — what do I have to hide? 
+
+but look at the god’s-eye-view that a few coupon app can glean about me, I can no longer pretend i’v got noth to worri about. sure, i’m not a crimin — but do I want anyon to learn everyth about me? and more to the point: Is it wise for us to let ani entiti learn everyth about everyone? 
+
+becaus those are the stakes. the remain uncertainti about the surveil state is not whether we will submit to it — onli how readili and completely, and how thoroughli it will warp our society. 
+
+will we allow the govern and corpor unrestrict access to everi bit of data we ever generate, or will we decid that some kind of collections, like the encrypt data on your phone, should be forev off limits, even when a judg ha issu a warrant for it? 
+
+In the future, will there be room for ani true secret — will societi allow ani unrecord thought or commun to evad detect and commerci analysis? and, if there can be no more secrets, how will we account for what we lose? how complet will live under surveil numb creativ and silenc radic thought? can human agenc surviv the possibl that some compani will know more about all of us than ani of us can ever know about ourselves? 
+
+i’m worri we’ll soon be forc to find out. 

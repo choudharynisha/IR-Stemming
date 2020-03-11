@@ -1,0 +1,65 @@
+Four Key Things You Should Know About Health Care
+By Ezekiel J. Emanuel and Victor R. Fuchs
+Sept. 12, 2019
+
+Health care, so far perhaps the biggest issue in the Democratic primary, is also the most complicated issue facing government and the public. Unfortunately the debate is filled with persistent misconceptions, from the role insurance company profits play in health care costs to who is actually paying for workers’ health coverage.
+
+Clarifying four fundamental health care fallacies could make it easier for voters to square some of the Democratic proposals — and their critiques — with reality:
+
+Fallacy No. 1: Employers pay for employees’ health insurance.
+Employers write checks that cover most health insurance premiums for employees and their dependents. But as the Princeton health economist Uwe Reinhardt once explained, employer-sponsored insurance is like a pickpocket taking money out of your wallet at a bar and buying you a drink. You appreciate the cocktail until you realize you paid for it yourself.
+
+With health coverage, employers write the check to the insurer, but employees bear the cost of the premium — the entire premium, not just the portion listed as their contribution on their pay stub. The premium money that goes to the insurance company is cash that employers would otherwise deposit in employees’ accounts like the rest of their salary.
+
+The fallacy is in thinking an employer’s contribution comes out of profits. In fact, higher health insurance premiums mean lower wages for workers. Since 1999, health insurance premiums have increased 147 percent and employer profits have increased 148 percent. But in that time, average wages have hardly moved, increasing just 7 percent. Clearly workers’ wages, not corporate profits, have been paying for higher health insurance premiums.
+
+Health care costs are one — though not the only — reason wages have stagnated over the last few decades. With health insurance costs rising faster than growth in the economy, more labor costs go to benefits like health insurance and less to take-home pay.
+
+Yet the belief that employees don’t pay for their own health insurance is widespread. One reason is that individuals cannot be sure what causes their wages to change or remain stagnant for decades. Another reason is that employers want Americans to believe that they pay for their workers’ health insurance. Still another reason is that there are those who profit from the employment-based system: drug companies, device manufacturers, specialty physicians and high-income individuals. They all want you to believe companies are being magnanimous in giving you insurance.
+
+Who else benefits from the belief in this fallacy? Opponents of national health insurance.
+
+Fallacy No. 2: Medicare for All is unaffordable.
+The key to evaluating the cost of Medicare for All is to distinguish between increasing spending on health care and shifting expenditures from private insurance to the federal government.
+
+True, Medicare for All would increase federal health care spending. But that is not the same as increasing total health care spending, which was over $3.5 trillion last year. Instead, Medicare for All would move money from one column (private health insurance spending) to another (federal health spending); it does not automatically increase total costs.
+
+A recent study by the Mercatus Center at George Mason University — a free-market center generally hostile to government programs — estimates that for the 10 years between 2022 and 2031 the total national health costs for Senator Bernie Sanders’s Medicare for All plan would actually be $50.1 trillion. That would be $2 trillion less than if we let the system operate as it currently does. However, Mercatus researchers doubt that the Sanders’s plan would ultimately save trillions because they believe Congress would have to increase Medicare rates paid to hospitals and physicians to get the legislation enacted. They may be right — or wrong. But that is a different argument — a prediction about the politics of enacting laws — than that Medicare for All would inherently increase total health care spending.
+
+We have our doubts about Medicare for All. But unaffordability is not a reason to oppose it. Whether it’s our current arrangement or a future Medicare for All, the per capita cost of our health care system already far exceeds that of any other industrialized country — including those with single-payer systems. When you hear a health care price tag in the trillions, know that the existing system has already brought us there.
+
+Fallacy No. 3: Insurance companies’ profits drive health care costs.
+In the second Democratic presidential debate, Senator Bernie Sanders declared that the health care industry makes $100 billion in profits. He once railed against the insurance company Anthem for denying a claim while noting that it reported "fourth-quarter profits for 2017 had increased by 234 percent to $1.2 billion."
+
+Many Americans believe that profits have no place in health care. They see for-profit health insurance, like buying and selling kidneys and livers for transplantation, as what the Nobel Prize winner Alvin Roth termed a "repugnant industry" — something that should not be exchanged in the market.
+
+That is an important moral stand, but it makes no difference to the claim that eliminating for-profit insurers will reduce high health care costs. The fact is, we could eliminate those profits and it would hardly matter to the cost of health care. You would not notice it in your premiums.
+
+For the eight largest for-profit health insurance companies, in 2016, their cumulative revenue amounted to nearly $452.2 billion and profits were $22.1 billion, for a profit margin of about 5 percent. By contrast, technology companies, banks and major drug companies generally make more than 20 percent profit.
+
+True, $22.1 billion is a lot of money — but it is 0.6 percent of health spending. And last year alone health care costs increased over $130 billion — six times insurance company profits. Health care spending would not be significantly cheaper if all insurance companies’ profits were zero.
+
+There are far more savings to be had in other efforts — by cutting unnecessary patient services, for example, or by making physicians and hospitals more efficient — to deliver the same care at a lower cost.
+
+Fallacy No. 4: Price transparency can bring down health care costs.
+"Hospitals will be required to publish prices that reflect what people pay for services," said President Trump when he signed his executive order on health care price transparency. "Prices will come down by numbers that you wouldn’t believe. The cost of health care will go way, way down."
+
+There is no doubt that prices for medical procedures can range widely even within the same city or state. For instance, M.R.I.s of the spine can vary threefold in Massachusetts and mammograms fivefold in San Francisco.
+
+Conservatives argue that informing patients of prices for tests and treatments will induce them to shop for lower-cost services, saving them, insurers and the country money. In theory, the beauty of price transparency is that neither the government nor insurers impose cost controls; the invisible hand of the market does it all.
+
+Yet demonstrations of price transparency have been tried many times in many places, and in reality, it has not reduced the cost of care.
+
+One recent study by Harvard Medical School researchers involved hundreds of thousands of employees and used a website telling them what they would pay out-of-pocket if they chose particular physicians and hospitals. The result: no savings. A follow-up study using another set of employers and another price transparency tool found the same result: no savings.
+
+Since 2007, New Hampshire has had a state website, N.H. Health Cost, that allows patients to select a medical procedure, insurer and ZIP code and then get a list of prices for the procedure from various providers. The most promising study of N.H. Health Cost suggests a few million dollars in savings per year. That works out to be about $5 per New Hampshire resident.
+
+The fact is, price transparency will not make health care costs "go way, way down." Health insurance insulates the patient from price. Over 80 percent of the cost of medical care is paid by private and public insurance. Patients have little incentive to seek out the cheapest provider. When pricing websites exist, few patients use them. Even in the most favorable studies, when offered a price transparency tool, only 12 percent of patients took advantage of it; usually it’s less than 4 percent of patients.
+
+Furthermore, price considerations are useful for choosing only about 40 percent of procedures — routine services like colonoscopies, M.R.I. scans and laboratory tests. Most of the expensive services — think heart catheterizations, cancer chemotherapy and organ transplants — are not the kind of thing you decide based on price.
+
+Finally, in health care, Americans usually put relationships ahead of money. Once patients find a physician they trust and a hospital they like, they tend to stick with them even if there is a lower-cost alternative nearby.
+
+***
+
+American health care is complex and any simplistic solution is likely to be based on a fallacy. But that doesn’t mean there is nothing we can do. There are solutions — they just don’t make for bumper sticker phrases like Medicare for All or Eliminate For-Profit Insurers or Price Transparency.

@@ -1,0 +1,33 @@
+jeff bezos’ phone hack should terrifi everyon 
+By charli warzel 
+jan. 24, 2020 
+
+If the saudi crown prince, moham bin salman, want to chat on whatsapp, polit decline. 
+
+that’ the lesson from a seri of report thi week base off a forens examin of jeff bezos’ commun with the crown prince. the investig — conduct at mr. bezos’ request by fti consult — found that hi phone had most like been attack in 2018 after he receiv a whatsapp messag from the prince’ person account. while my colleagu in the time newsroom have piec togeth detail of the investigation, there’ still a great deal unknown. and cybersecur expert have seriou question about fti’ report, which, accord to cyberscoop, “ha not impress the inform secur community." 
+
+still, the stori seem to have everything: from lighthearted, embarrassingli earnest texts, “divorc guy" meme and world leader who awkwardli sign their text messag with their full name to the deepli problemat issu of reveng porn and steal of privat nude photos. though it’ a gild exampl of digit theft, there’ someth troubl and relat about it all. billionaires, they’r just like us! 
+
+Or mayb not. look at one way, the attack on mr. bezos’ phone could be seen as yet more proof of what my colleagu kara swisher call “the death of privacy." If the richest man in the world — the man who sell listen devic use in million of home and whose server creat the internet’ infrastructur — can be hacked, what hope is there for us mere mortals? 
+
+turn out, there’ some. yes, your person privaci and secur are constantli under threat. and yes, you should be tri to safeguard against malware, phish and bulk data collection. but the bezo attack is an exampl of extrem target surveillance, the potenti expens and riski kind that is aim at high-valu target like executives, govern officials, celebr and billionaires. and as it turn out, mani of those with the most to lose are woefulli inept at safeguard their privacy. 
+
+not long after the bezo news broke thi week, I spoke to christoph pierson, who found blackcloak, a cybersecur compani for high-net-worth and high-profil individu — executives, celebr and billionaires. accord to mr. pierson, few peopl take their digit live as serious as they should. 
+
+“the major of client we onboard come on in some kind of hack state," he told me. “their comput are compromis or their login credenti are avail on dark web. their home camera system are access to peopl on internet or their entir home and applianc are vulner and viewabl by person remotely." mr. pierson suggest that’ in part becaus high-valu target choos to focu on physic secur over digit and invest in privat bodyguards, camera system and protect like kidnap insurance. 
+
+how bad is it? “we see password in littl black book on desk by the machin and in file on the computers. We see password that are the same everywhere. We absolut do not see good use of dual factor authent on email, health care and financi accounts. i’d say we see less than 1 percent of high-net-worth individu use dual factor." 
+
+mr. pierson said blackcloak ha found more than 82 percent of it clients’ current password on the dark web when it ran an initi search. “in the case of high-net-worth individuals, the same compromis password is frequent use by 20 to 40 differ account — some of those are personal, some are in the office." 
+
+what mr. pierson describ is low-hang fruit — the kind of secur flaw that can quickli be fix with a littl knowledg and attent to detail. even then, he said, it take time for the true natur of clients’ vulner to sink in. “they’r shock when we give them their password and tell them where we found it, but it doesn’t hit as hard as when we tell them their entir home autom system ha been potenti onlin and viewabl for three or five or eight years," he said. 
+
+when it come to a bezos-styl breach — potenti at the hand of a nation-state’ intellig servic — high-profil target would most like be even less prepared. As mr. bezos’ lengthi investig into the 2018 attack shows, it’ difficult to get straight answer even when you have the money and resourc to run full forensics. 
+
+Of course, it’ not just wealth that turn somebodi into a person of interest for hackers. journalists, govern employees, worker at energi compani and util could all be target for someone. those who work for financi companies, airlines, hospitals, universities, hollywood studio and tech busi are all potenti at risk. you can take step to secur yourself from corpor data collect by use privaci set on your phone. and to protect yourself from cyberattack there are help guid you can use that have been vet by secur professionals. 
+
+for most of us, the attack against mr. bezo isn’t the death of privacy, but a remind of the risk of live a connect life. It should be a moment to think as critic about what you do onlin as you might in the real world. invest in a password manager. turn on dual factor authentication. Be skeptic of ani commun that look out of place. 
+
+for the ultrarich and influential, the bezo hack should be a terrifi revelation. As the former state depart employe and whistle-blow john napier tye told me last autumn, “for someon who’ truli a high-valu target, there is no way to safe use a digit device." the stake are astronom high. not just personally, as mr. bezo found, but professionally. compani secrets, matter of nation security, access to critic infrastructur and the safeti of employe could all be compromis by lax secur at the top. 
+
+the internet ha long been thought of as a truli democrat tool, flatten and democrat the abil to publish and communicate. it’ also the great privaci equalizer. money can buy a lot of things. but on a danger internet full of exploits, flaw code, shadi actor and absent-mind humans, total, foolproof secur is not one of them. 

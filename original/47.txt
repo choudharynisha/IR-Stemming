@@ -1,0 +1,43 @@
+Steve Jobs Was Right: Smartphones and Tablets Killed the P.C.
+By Farhad Manjoo
+Nov. 13, 2019
+
+I got an iPad Pro recently, and I’ve fallen madly in love with it.
+
+This was unexpected. I’ve had iPads before, but like a lot of people, I hadn’t found them to be very useful. Tablets were good for surfing the Web and watching Netflix, but they’ve always been dogged by the charge that you couldn’t get a lot of work done on them.
+
+Apple’s latest iPads are different. Not only can you get work done on them; in many ways they’re productivity dream machines. Today’s iPads are powered by custom-designed processors that are faster than the chips on some of the Macs Apple makes, and the iPad’s separately sold keyboard is better and more durable than the accursed, falling-apart mess of a keyboard that Apple is shipping on its much-maligned current line of laptops.
+
+Apple unveiled a new 16-inch MacBook with a revamped keyboard on Wednesday, good news for the many Apple lovers who’ve been grumbling about the company’s lackluster slate of recent Macs. But I think the iPad is already beginning to eclipse the traditional personal computer. In the four months I’ve had this latest model, the iPad Pro has eaten into the time I spend on my phone and my old-school laptop and desktop. Among other things, I now research and write just about every column using an iPad (I still compose many first drafts by speaking into my headphones, but I’m an odd duck).
+
+I thought I had gotten out of the gadget-reviewing business for good last year. Since the smartphone had gobbled up everything from cameras to music players to portable gaming systems, I declared the whole field of gadgetry dead. But just when I thought I was out, they pulled me back in.
+
+The history of the iPad is a story about consolidation, focus and the power of scale in the tech business. It’s a story about how thoroughly one company, Apple, has dominated the entire hardware business this decade. And it is also, really, a story about the only thing that mattered in tech in the 2010s — the smartphone — and the way that one device became the gravitational center of the entire tech business, shaping every market in the industry, and much of the non-tech world beyond it.
+
+The iPad has always been freighted with great expectations. Although the iPad was unveiled in 2010, three years after the iPhone, development of the iPad predated development of the phone, and Steve Jobs, Apple’s co-founder, always seemed to have his heart in the tablet.
+
+In one of his last interviews before his death in 2011, Jobs declared the iPad to be the future of computing. "PCs are going to be like trucks," he told the journalists Kara Swisher and Walt Mossberg — meaning the traditional Mac and Windows machines would still be around, but like big rigs, they’d be used by a small set of power users for a dwindling set of specific, high-power tasks. The "cars" of the tech industry, as Jobs saw it, would be phones and tablets.
+
+For a while, he was only partially right. The iPad sold well at launch, but after a few years it hit some hurdles. After Jobs’s death, Apple left the iPad to languish, and did something similar with the Mac.
+
+Meanwhile, something amazing happened with the iPhone and the many Android-based copycat phones it inspired. In the 2010s, smartphones became more popular, more powerful and more profitable than anyone in the tech industry thought possible. Within a few years, their sales and usage eclipsed that of PCs, and for much of the decade they were the fountain of most new consumer innovations across the technology industry. Smartphones made Uber and Instagram and Snapchat and TikTok possible. Smartphone cameras began to surpass stand-alone cameras, turning much of culture and society into a meme-soaked playground where visual media matters more than text.
+
+The smartphone also altered the business dynamics of the tech industry. When the iPhone came out, Apple was just one of many successful hardware companies in the world. But the smartphone decimated a host of phone brands (remember Nokia? Motorola?), and as smartphones gained more power, they began making life impossible for a slate of hardware start-ups, from GoPro to Jawbone.
+
+On the strength of the iPhone, Apple began capturing a greater and greater slice of the tech hardware business; although it didn’t sell a majority of units, its commitment to the high end of the market allowed it to make the bulk of profits. In the last quarter of 2017, according to one estimate, Apple made 86 percent of profits in the smartphone industry.
+
+Apple’s dominance came despite the fact that the company made some big mistakes and was late to many big innovations. Samsung, not Apple, invented huge-screen phones. Apple’s Mac line was plagued by delays and dead ends, including a 2013 redesign of the Mac Pro that looked like a trash can and proved just as useful. And on the iPad, for many years, Apple just seemed to fall asleep. The iPad’s stylus and keyboard-forward design? Microsoft did it first on the Surface.
+
+Yet none of this mattered. Because of its hold on the smartphone business and a very sticky software ecosystem that users found hard to leave, Apple has been able to incorporate many innovations pioneered elsewhere and sell its customers on a series of peripheral billion-dollar businesses, including the Apple Watch and AirPods.
+
+And ultimately, it’s the ecosystem that explains why I can’t stop raving about the iPad. When it came out, the big knock on the iPad was that it was just a big phone; today, that’s what I love about it — like the Watch or AirPods, the iPad feels intuitive and natural to me because it works just like the device I use most often, my phone.
+
+Like a phone, in most scenarios I find the iPad to be faster, more portable and easier to use and maintain than any traditional P.C. I’ve ever owned. The iPad’s limited screen space and emphasis on full-screen apps also makes for fewer distractions than on a traditional personal computer. The iPad, like my phone, lets me log in to my bank using my face; the Mac, in 2019, doesn’t even have a touch screen.
+
+The iPad still can’t do everything a laptop can, and I still have to log in to a "real" computer sometimes. I had a long chat recently with Dan Seifert, the deputy editor of the Verge, who uses an iPad every day on the subway but often finds the device infuriating.
+
+"For someone like me, who’s been using a desktop operating system for a long time, there’s a lot of built-in conventions that I’m used to that can be frustrating," Seifert said. In particular, the iPad doesn’t work with antiquated work flows that are built for PCs. Say you need to log into your company’s bespoke publishing system or expense program? It’s possible those won’t work on your iPad — at least not yet — because they were built for much older devices.
+
+But Seifert agreed with me that many of these uses are a special case. He still uses P.C.s because often, in Jobs’s parlance, he needs a truck. Most people, however, don’t need trucks, and few of us will need them in the future. Seifert isn’t teaching his kids how to use desktop operating systems like the Mac or Windows, and neither am I.
+
+It took longer than he expected, but Steve Jobs was right. Over the past decade, for most people, in most use cases, phones killed the P.C. To get work done, now you just use a big phone — which Apple happens to call an iPad.

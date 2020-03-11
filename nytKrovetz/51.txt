@@ -1,0 +1,49 @@
+the app on my phone are stalk me 
+by farhad manjoo 
+jan. 22, 2020 
+
+there is much about the future that keeps me up at night — a.i. weaponry, undetectable viral deepfakes, indefatigable and infinite wise robot op-ed columnist — but in the last few years, one technological threat has blip my fear radar much fast than others. 
+
+that fear? ubiquitous surveillance. 
+
+i am no long sure that human civilization can undo or evade living under constant, extravagant detailed physical and even psychic surveillance; as a species, we are not do nearly enough to avoid always being watch or otherwise digital recorded. 
+
+your location, your purchases, video and audio from within your home and office, your online search and every digital wandering, biometric track of your face and other body parts, your heart rate and other vital signs, your every communication, recording, and perhaps your deepest thought or idlest dream — in the future, if not already, much of this data and more will be collected and analyze by some combination of government and corporations, among them a handful of megacompany whose powers nearly match those of governments. 
+
+why am i so pessimistic? over the last year, as part of times opinion’s privacy project, i’ve participate in experiment in which my device were close monitor in order to determine the kind of data that was being collected about me. the experiment have given me new insight into the psychology underpin surveillance; i’ve realize how blind we are to the kind of insight tech company are gain about us through our gadgets. our blind not only keeps us glue to privacy-invading tech — it also means that we’ve fail to create a politics culture that is in any way up to the task of limiting surveillance. 
+
+that’s why, across the species, whether under america or europe democracy or china authoritarianism, few of our cultural or politics institution are even much try to tamp down the surveillance state. 
+
+in china, the government is building a frighten surveillance dragnet in broad daylight, stitch together facial recognition, fingerprint and other database into an all-seeing eye aim to close watch more than a billion citizens. 
+
+yet the united states and other supposedly liberty-loving western democracy have not rule out such a future. just consider the odd politics surrounding privacy invasion. donald trump and his supporter repeatedly argue that the f.b.i. is corrupt and untrustworthy. yet, like barack obama before him, trump and the justice department are push apple to create a backdoor into the data on encrypte iphone — they want the untrustworthy f.b.i. and any local cop to be able to see everything inside anyone’s phone. 
+
+apple, mercifully, is resisting, just as it did the request of barack obama’s justice department to create a loophole in iphone security — but the fact that both obama and trump agree on the need for break iphone encryption suggest how thorough politics leader across a wide spectrum have neglect privacy as a fundamental value worthy of protection. 
+
+indeed, because of a dearth of law protect our privacy — and almost no high-profile politics discussion about the stakes at hand — america are sleepwalk into a future nearly as frighten as the one the china are constructing. i choose the word "sleepwalking" deliberately, because when it come to digital privacy, a lot of us prefer the comfortable bliss of ignorance. as a result, much of the surveillance engine operate underground — just beyond where many of us dare to look. 
+
+in recent month my colleague at the times and other media outlet have publish a series of shatter investigate into modern digital surveillance. among other revelations: advertising company and data broker are keeping insane close tab on smartphones’ location data, track user so precisely that their database could arguable compromise national security or politics liberty. there are few meaningful check on scan for people use facial recognition, genetic profile or other biometric data. track technology have become cheap and widely available — for less than $100, my colleague were able to identify people walking by surveillance camera in bryant park in manhattan. 
+
+this past weekend, the times’s kashmir hill report on a company call clearview ai that has create a tool that "could end your ability to walk down the street anonymously." by scrape pictures from facebook, youtube and other website to create a huge database of faces, the company let cop identify people just by snap a photo. it’s shazam for faces, not very different from the kind of facial recognition tool we worry the authority may be use in china — and even though hundred of police department may have access to it, almost no one outside the company understand how it works. 
+
+the clearview ai story suggest another reason to worry that our march into surveillance has become inexorable: each new privacy-invading technology build on a previous one, allow for scary outcome from new integrate and collection of data that few user might have anticipated. 
+
+i was recently confront by this sort of cascade with my own smartphone track data. late last year, with the help of stuart thompson, an opinion editor, i set up my phone to monitor how certain app were track me. i focus on app that require me to grant them access to my physical location — among them app to find cheap gas, coupon and nearby retail discounts, and to otherwise help me navigate and find deal as i wander about the world. 
+
+the upshot: as the location-tracking app follow me, i was able to capture the ping they sent to online server — essentially recording their spying. i sent the data to stuart and his team, who interpret and map the ping the app had collected about me. their picture shock me; the app had follow me far more closely, capture much more data and far more often, than i had imagine when i’d said yes to their tracking. 
+
+look at this map, which follow the ping collected by the app on one sunday afternoon last year: 
+
+on the map, you can see the app are essentially stalk me. they see me drive out one morning to the gas station, then to the produce store, then to safeway; later on i pass by a music school, stop at a restaurant, then whole foods. but location was only one part of the data the company had about me; because geography data is often combine with other personal information — including a mobile advertising id that can help merge what you see and do online with where you go in the real world — the story these company can tell about me is actually far more detailed than i can tell about myself. 
+
+like a lot of people, i’ve long justified my apathy about privacy through innocence: i’m a stand-up guy — what do i have to hide? 
+
+but look at the god’s-eye-view that a few coupon app can glean about me, i can no long pretend i’ve got nothing to worry about. sure, i’m not a criminal — but do i want anyone to learn everything about me? and more to the point: is it wise for us to let any entity learn everything about everyone? 
+
+because those are the stakes. the remain uncertainty about the surveillance state is not whether we will submit to it — only how readily and completely, and how thorough it will warp our society. 
+
+will we allow the government and corporation unrestricted access to every bit of data we ever generate, or will we decide that some kind of collections, like the encrypte data on your phone, should be forever off limits, even when a judge has issue a warrant for it? 
+
+in the future, will there be room for any true secret — will society allow any unrecorded thought or communication to evade detection and commercial analysis? and, if there can be no more secrets, how will we account for what we lose? how completely will living under surveillance numb creativity and silence radical thought? can human agency survive the possibility that some company will know more about all of us than any of us can ever know about ourselves? 
+
+i’m worried we’ll soon be forced to find out. 

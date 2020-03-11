@@ -1,0 +1,385 @@
+project gutenberg' astronom lore in chaucer, by florenc M. grimm 
+
+thi ebook is for the use of anyon anywher at no cost and with 
+
+almost no restrict whatsoever. you may copi it, give it away or 
+
+re-us it under the term of the project gutenberg licens includ 
+
+with thi ebook or onlin at www.gutenberg.org 
+
+title: astronom lore in chaucer 
+
+author: florenc M. grimm 
+
+releas date: octob 11, 2011 [ebook #37711] 
+
+language: english 
+
+charact set encoding: iso-8859-1 
+
+*** start OF thi project gutenberg ebook astronom lore IN chaucer *** 
+
+produc by the onlin distribut proofread team at 
+
+http://www.pgdp.net (thi file wa produc from imag 
+
+gener made avail by the internet archive.) 
+
+univers OF nebraska 
+
+studi inlanguage, literatur and critic 
+
+number 2 
+
+
+
+astronom lore IN chaucer 
+
+
+
+BY 
+
+florenc M. grimm, A. m.assist in the univers ofnebraska librari 
+
+
+
+editori committe 
+
+louis pound, ph. d., depart of englishh. B. alexander, ph. d., depart of philosophyf. W. sanford, A. b., depart of latin. 
+
+
+
+lincoln1919 
+
+
+
+[pg 2] 
+
+content 
+
+I. 
+
+astronomi in the middl age 
+
+3 
+
+ii. 
+
+chaucer’ scientif knowledg 
+
+9 
+
+iii. 
+
+chaucer’ cosmolog 
+
+12 
+
+iv. 
+
+chaucer’ astronomi 
+
+27 
+
+V. 
+
+astrolog lore in chaucer 
+
+51 
+
+
+
+appendix 
+
+79 
+
+
+
+[pg 3] 
+
+astronom lore IN chaucer 
+
+
+
+I 
+
+astronomi in the middl age 
+
+the conspicu of astronom lore in the poetri of chaucer is due 
+
+to it import in the life of hi century. In the mediaev period, 
+
+astronomi (or ‘astrology,’ for the two name were use indiffer to 
+
+cover the same subject) wa one of the vital interest of men. the 
+
+ordinari man of the middl age knew much more than do most men to-day 
+
+about the phenomena of the heavens; conveni such as clocks, almanacs, 
+
+and chart repres celesti phenomena were rare, and direct 
+
+observ of the appar movement and the rel posit of the 
+
+heavenli bodi were necessari for the regul of man’ daili 
+
+occupations. furthermore, the belief in a geocentr system of the 
+
+universe, which in chaucer’ centuri wa almost univers accepted, wa 
+
+of vast signific in man’ way of thinking. accept thi view, all 
+
+the heavenli bodi seem to have been creat for the sole benefit of 
+
+man, inhabit the central posit in the universe; their movements, 
+
+alway with refer to the earth as a center, brought to man light, 
+
+heat, chang of season—al the condit that made human life possibl 
+
+on the earth. 
+
+not onli did the man of the middl age see in the regular movement of 
+
+the celesti sphere the instrument by which god grant him physic 
+
+existence, but in the variou aspect of heavenli phenomena he saw the 
+
+govern principl of hi moral life. the arrang of the heavenli 
+
+bodi with regard to one anoth at variou time wa suppos to exert 
+
+undoubt power over the cours of terrestri events. each planet wa 
+
+thought to have special attribut and a special influenc over men’s[pg 4] 
+
+lives. venu wa the planet of love, mars, of war and hostility, the sun, 
+
+of power and honor, and so forth. each wa mysteri connect with a 
+
+certain color, with a metal, too, the alchemist said, and each had 
+
+special power over some organ of the human body. the planet’ influenc 
+
+wa believ to vari greatli accord to it posit in the heavens, so 
+
+that to determin a man’ destini accur it wa necessari to consid 
+
+the aspect of the whole heavens, especi at the moment of hi birth, 
+
+but also at other times. thi wa call “cast the horoscope” and wa 
+
+regard as of great import in enabl a man to guard against 
+
+threaten peril or bad tendencies, and to make the best use of 
+
+favor opportunities. 
+
+It is not astonishing, then, that the great monument of literatur in the 
+
+mediaev period and even much later are fill with astronom and 
+
+astrolog allusions; for these are but reflect of vital human 
+
+interest of the times. the greatest poetic work of the middl ages, 
+
+dante’ divina commedia, is rich in astronom lore, and it dramat 
+
+action is project against a cosmograph background reflect the 
+
+view of dante’ contemporari as to the structur of the world. milton, 
+
+write in the seventeenth century, base the cosmolog of hi paradis 
+
+lost in the main on the ptolema system, but make adam and the 
+
+archangel raphael discuss the rel merit of thi system and the 
+
+heliocentr view of the universe. the latter had been brought forth by 
+
+copernicu a centuri earlier, but even in milton’ day had not yet 
+
+succeed in supplant the old geocentr cosmology. 
+
+the view of the univers which we find reflect in chaucer’ poetri is 
+
+chiefli base on the ptolema system of astronomy, though it show trace 
+
+of veri much more primit cosmolog ideas. the ptolema system owe 
+
+it name to the famou alexandrian astronom of the second centuri A. d., 
+
+claudiu ptolemy, but is base larg on the work and discoveri of the 
+
+earlier greek philosoph and astronomers, especi eudoxus, 
+
+hipparchus, and aristarchus, whose investig ptolemi compiled[pg 5] and, 
+
+along some lines, extended. ptolema astronomi wa a pure geometr 
+
+or mathemat system which repres the observ movement and 
+
+rel posit of the heavenli bodi so accur that calcul 
+
+as to their posit at ani given time could be base upon it. ptolemi 
+
+agre with hi contemporari in the opinion that to assign caus for 
+
+the celesti movement wa outsid the sphere of the astronomer. thi wa 
+
+a proper field of philosophy; and the decis of philosophers, 
+
+especi those of aristotle, were regard as final, and their teach 
+
+as the basi upon which observ phenomena should be described. 
+
+accord to the ptolema system the earth is a motionless sphere fix 
+
+at the center of the universe. It can have no motion, for there must be 
+
+some fix point in the univers to which all the motion of the heavenli 
+
+bodi may be referred; if the earth had motion, it wa argued, thi would 
+
+be proportion to the great mass of the earth and would caus object 
+
+and anim to fli off into the air and be left behind. ptolemi believ 
+
+thi reason suffici to make unten the idea of a rotatori motion of 
+
+the earth, although he wa fulli awar that to suppos such a motion of 
+
+the earth would simplifi exceedingli the represent of the celesti 
+
+movements. It did not occur to him that to suppos the earth’ atmospher 
+
+to particip in it motion would obviat thi difficulty. the earth wa 
+
+but a point in comparison with the immens sphere to which the star were 
+
+attach and which revolv about the earth onc in everi twenty-four 
+
+hours, impart it motion to sun, moon, and planets, thu caus day 
+
+and night and the rise and set of the heavenli bodies. the irregular 
+
+motion of the planet were account for by suppos them to move on 
+
+circl of small sphere call ‘epicycles’, the centr of which move 
+
+around the ‘deferents’, or circl of larg sphere which carri the 
+
+planet in cours concentr to the star sphere. By give each of the 
+
+planet an epicycl and defer of the proper rel size and veloc 
+
+the vari oscil of the planets, as far as they could be follow 
+
+by mean of the simpl instrument then in use, were almost perfectli 
+
+account for. 
+
+[pg 6]though it wa a pure mathemat system which onli attempt to give a 
+
+basi for comput celesti motions, ptolema astronomi is of great 
+
+import histor as it remain the foundat of theoret 
+
+astronomi for more than 1400 years. throughout the long dark centuri of 
+
+the middl age it surviv in the studi of the retir student of the 
+
+monasteri and of the few except enlighten men who still had 
+
+some regard for pagan learn in the day when mani of the church father 
+
+denounc it as heretical. 
+
+ptolemi wa the last of the great origin greek astronomers. the 
+
+alexandrian school produced, after him, onli copyist and commentators, 
+
+and the theoret astronomi of the greeks, so highli perfect in 
+
+ptolemy’ almagest, wa for mani centuri almost entir neglected. 
+
+the roman state gave no encourag to the studi of theoret 
+
+astronomi and produc no new school of astronomy. although it wa the 
+
+fashion for a roman to have a smatter of greek astronomy, and famou 
+
+latin author like cicero, seneca, strabo and plini wrote on astronomy, 
+
+yet the roman care littl for origin investig and contribut 
+
+noth new to the science. the romans, however, appreci the valu of 
+
+astronomi in measur time, and appli to the alexandrian school to 
+
+satisfi their practic need for a calendar. what juliu caesar obtain 
+
+from the alexandrian sosigenes, he greatli improv and gave to the 
+
+empire, as the calendar which, with the except of the slight chang 
+
+made by gregori xiii, we still use. 
+
+the pseudo-astronom scienc of astrology, or the so-cal ‘judici 
+
+astronomy’ wa pursu dure the roman empir and throughout the middl 
+
+age with much greater zeal than theoret astronomy. the interest in 
+
+astrology, to be sure, encourag the studi of observ astronomi to 
+
+a certain extent; for the cast of horoscop to foretel destini 
+
+requir that the heavenli bodi be observ and method of calcul 
+
+their posit at ani time or place be known. but there wa no desir to 
+
+inquir into the underli law of the celesti motion or to 
+
+investig the real natur of the heavenli phenomena. 
+
+[pg 7]if the roman state did not encourag astronomy, the roman church 
+
+posit discourag it. the bibl becam and long remain the sole 
+
+author recogn by the church father as to the constitut of the 
+
+universe. By mani of the patrist ptolema astronomi wa despised; not 
+
+becaus it did not describ accur the observ phenomena of the 
+
+heavens, for it did thi in a way that could scarc have been improv 
+
+upon with the facil for observ then available; and not becaus 
+
+it wa found upon the fals assumpt that the earth is the motionless 
+
+center of the univers about which all heavenli bodi revolve; but 
+
+becaus there wa no author in scriptur for such a system, and it 
+
+could not possibl be made consist with the cosmolog of genesis. 
+
+allegor descript of the univers base on the scriptur held 
+
+almost complet sway over the mediaev mind. the whole univers wa 
+
+repres allegor by the tabernacl and it furniture. the earth 
+
+wa flat and rectangular like the tabl of shew bread, and surround on 
+
+all four side by the ocean. the wall of heaven beyond thi support the 
+
+firmament shape like a half-cylinder. angel move the sun, moon, and 
+
+star across the firmament and let down rain through it window from the 
+
+expans of water above. 
+
+

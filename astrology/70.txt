@@ -1,0 +1,189 @@
+
+
+CHAPTER VIII.
+
+OF THE FIGURE OF THE HEAVENS
+
+This was formerly termed a horoscope, but is now more generally
+
+called a figure of the heavens. It is simply a scheme, or plan,
+
+representing an accurate picture of the heavens—that is, of the
+
+positions of the Sun, Moon, and planets, and, in some instances, of the
+
+fixed stars also, for the moment at which a child is born. In horary
+
+questions the figure is drawn for the required time, which may be the
+
+moment of the propounding of a question to an astrologer, or of the
+
+occurrence of any event of the result of which astrological information
+
+is desired.
+
+This map, which contains the twelve divisions already described as the
+
+twelve houses of heaven, may be drawn in either a square or circular
+
+form. Lilly and other mediæval writers use both forms indiscriminately;
+
+but as the latter is more easily understood, the diagram (plate 2) is
+
+drawn up in that manner. It will be seen that it is formed of three
+
+circles. In the centre space the date, time and place of the event of a
+
+horary question are entered, and in a nativity the name, sex and moment
+
+of birth of the native. The next space (divided into twelve equal parts
+
+for the houses) is reserved for the planets and in the outer space are
+
+placed the signs of the zodiac, with the number of their degrees, on
+
+the cusp of each house. The cusps of the Houses are represented by that
+
+line between each house. Having obtained an Ephemeris, or astrological
+
+almanack
+
+[7] for the year required, we must find the Sidereal Time for
+
+the day and month of the birth, or question; then, if the time of the
+
+event be before noon we must deduct the difference
+
+between the given time and noon from the Sidereal Time of the day; for
+
+example, on the day of the event (the 9th January, 1889), the Sidereal
+
+Time at noon is shown by the Ephemeris to be 19 hours 16 minutes 51
+
+seconds, if the birth had been at 9 a.m. The difference between 9 a.m.
+
+and noon is 3 hours. We should, therefore, have to deduct 3
+
+hours from 19 hours 16 minutes 51 seconds, which gives 16 hours 16
+
+minutes 51 seconds, the Sidereal Time required.
+
+As the event is supposed to happen at 3 in the afternoon, we
+
+must add the difference between noon and the time given to the
+
+Sidereal Time of the day. The difference between noon and 3 p.m. is 3
+
+hours, and, as the Sidereal Time on the 9th January, 1889, is 19 hours
+
+16 minutes 51 seconds, we add 3 hours to this amount, which
+
+gives 22 hours 16 minutes 51 seconds, the Sidereal Time required.
+
+We must now proceed to place the signs for 3 p.m. on the 9th January,
+
+1889, which is thus done: We turn to the "Table of Houses" (which will
+
+be found at the end of the Ephemeris), and having found (under the
+
+column headed "Sidereal Time") the nearest time to 22 hours 16 minutes
+
+51 seconds, which in this case is 22 hours 16 minutes 48 seconds for the
+
+latitude of London, we see in the next column (headed 10) the sign
+
+(Pisces), and the number 3° opposite our Sidereal Time,
+
+showing that the third degree of Pisces is on the cusp of the 10th
+
+house, In the next column (headed 11) we see , and the number
+
+7°; we therefore place 7° on the cusp of the 11th
+
+house, next 24° on the 12th; then 7° 5′ on the
+
+Ascendant (or first house), 23° on the 2nd and 10°
+
+on the 3rd; for the remaining houses we place the signs in
+
+order opposite to those already given, keeping the same number of
+
+degrees to each corresponding house and sign. The opposite house to the
+
+10th is the 4th, and the opposite sign to is ; we
+
+therefore place 3° on the cusp of the 4th house, and so on
+
+of the rest. It will, however, now be seen that the two signs 
+
+and are missing; these signs are "intercepted," which means that
+
+they lie between two houses without occupying the cusp of either; they
+
+must, therefore, be placed in their order between the cusps of
+
+the houses. This is, of course, not always the case, and some horoscopes
+
+will have no intercepted signs.
+
+HOW TO PLACE THE PLANETS.
+
+In the Ephemeris the longitudes of the planets are given daily for mean
+
+noon; so, to find the exact place of a planet for a given time,
+
+we must note the difference of longitude between the previous noon and
+
+noon of the day for drawing the map for a.m. and for p.m., the
+
+difference between noon of the day and noon of the day after. This
+
+difference is the motion of the planet in 24 hours, which we
+
+must work thus: As 24 hours are to—hours (i.e., the difference
+
+between the given time and noon), so is the daily motion to the motion
+
+required. For example, the at noon on the 6th January is
+
+(omitting seconds) in 19° 29′ , and on the 10th January at
+
+noon he is in 20° 30′ , which gives a daily motion
+
+of 59 minutes. We must find his place for 3 p.m. on the 9th January. As
+
+24 hours are to 3 hours, so are 59 minutes to the time required; this
+
+equals about 7 minutes, which we add to the 's longitude at noon
+
+on the 9th. If the event had been for a.m. this amount would have been
+
+deducted from the 's longitude at noon on the day
+
+of the event. We must proceed in the same way for the other planets and
+
+place them in the map according to their positions in respect to the
+
+degrees on the cusps of the houses. The will be in 19°
+
+36′ , or about the middle of the 7th house. And note
+
+that the number of degrees of a sign on the cusp of any house shows
+
+that that sign commenced in the previous house. Supposing the
+
+had been 1° of , we should then have
+
+placed it in the 6th house, a little below the cusp of the 7th. When a
+
+planet is Retrograde (shown in the Ephemeris thus, R.),
+
+we add the amount to the longitude when the event is before noon
+
+or a.m., and deduct it from the longitude when the event is
+
+after noon or p.m. The mode of giving the judgment on a horoscope will
+
+be shown farther on.
+
+ 

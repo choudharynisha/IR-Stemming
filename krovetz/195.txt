@@ -1,0 +1,2115 @@
+﻿the project gutenberg ebook of the dunwich horror, by h. p. lovecraft 
+
+this ebook is for the use of anyone anywhere in the united states and most 
+other parts of the world at no cost and with almost no restriction 
+whatsoever. you may copy it, give it away or re-use it under the terms of 
+the project gutenberg license included with this ebook or online at 
+www.gutenberg.org. if you are not located in the united states, you'll have 
+to check the law of the country where you are located before use this ebook. 
+
+title: the dunwich horror 
+
+author: h. p. lovecraft 
+
+release date: october 4, 2015 [ebook #50133] 
+
+language: english 
+
+
+*** start of this project gutenberg ebook the dunwich horror *** 
+
+
+
+
+produce by greg weeks, mary meehan and the online 
+distribute proofread team at http://www.pgdp.net 
+
+
+
+
+
+
+
+
+
+_the_ dunwich horror 
+
+by h. p. lovecraft 
+
+
+"gorgons, and hydras, and chimeras--dire story of celæno and 
+the harpies--may reproduce themselves in the brain of 
+superstition--_but they were there before_. they are transcripts, 
+types--the archetype are in us, and eternal. how else should the 
+recital of that which we know in a waking sense to be false come 
+to affect us at all? is it that we naturally conceive terror from 
+such objects, considered in their capacity of being able to 
+inflict upon us bodily injury? oh, least of all! _these terror 
+are of old standing. they date beyond body_--or without the 
+body, they would have been the same.... that the kind of fear here 
+treat is purely spiritual--that it is strong in proportion as it 
+is objectless on earth, that it predominate in the period of our 
+sinless infancy--are difficulty the solution of which might 
+afford some probable insight into our ante-mundane condition, and 
+a peep at least into the shadowland of pre-existence."--charles 
+lamb: _witches and other night-fears_. 
+
+
+1 
+preface 
+when a traveler in north central massachusetts take the wrong fork 
+at the junction of the aylesbury pike just beyond dean's corner he 
+come upon a lonely and curious country. the ground get higher, and 
+the brier-bordered stone wall press close and close against the rut 
+of the dusty, curve road. the tree of the frequent forest belt 
+seem too large, and the wild weeds, brambles, and grass attain a 
+luxuriance not often found in settled regions. at the same time the 
+plant field appear singularly few and barren; while the sparse 
+scattered house wear a surprize uniform aspect of age, squalor, and 
+dilapidation. without knowing why, one hesitate to ask directions 
+from the gnarled, solitary figures spy now and then on crumble 
+doorstep or in the sloping, rock-strewn meadows. those figures are 
+so silent and furtive that one feel somehow confront by forbidden 
+things, with which it would be better to have nothing to do. when a 
+rise in the road bring the mountain in view above the deep woods, 
+the feeling of strange uneasy is increased. the summit are too 
+round and symmetrical to give a sense of comfort and naturalness, and 
+sometimes the sky silhouette with especial clear the queer circle 
+of tall stone pillar with which most of them are crowned. 
+
+gorge and ravine of problematic depth intersect the way, and the 
+crude wooden bridge always seem of dubious safety. when the road 
+dip again there are stretch of marshland that one instinctive 
+dislikes, and indeed almost fear at evening when unseen whippoorwill 
+chatter and the firefly come out in abnormal profusion to dance to 
+the raucous, creepy insistent rhythm of strident piping bullfrogs. 
+the thin, shining line of the miskatonic's upper reach has an oddly 
+serpentlike suggestion as it wind close to the feet of the domed hill 
+among which it rises. 
+
+as the hill draw nearer, one heed their wooded side more than their 
+stone-crowned tops. those side loom up so dark and precipitous 
+that one wish they would keep their distance, but there is no road by 
+which to escape them. across a cover bridge one see a small village 
+huddle between the stream and the vertical slope of round mountain, 
+and wonders at the cluster of rot gambrel roof bespeak an 
+early architecture period than that of the neighboring region. it 
+is not reassure to see, on a close glance, that most of the house 
+are desert and fall to ruin, and that the broken-steepled church 
+now harbor the one slovenly mercantile establishment of the hamlet. 
+one dread to trust the tenebrous tunnel of the bridge, yet there is no 
+way to avoid it. once across, it is hard to prevent the impression of a 
+faint, malign odor about the village street, as of the mass mold and 
+decay of centuries. it is always a relief to get clear of the place, 
+and to follow the narrow road around the base of the hill and across 
+the level country beyond till it rejoin the aylesbury pike. afterward 
+one sometimes learn that one has been through dunwich. 
+
+outsider visit dunwich as seldom as possible, and since a certain 
+season of horror all the signboard point toward it have been taken 
+down. the scenery, judge by any ordinary esthetic canon, is more 
+than commonly beautiful; yet there is no influx of artist or summer 
+tourists. two century ago, when talk of witch-blood, satan-worship, 
+and strange forest presence was not laugh at, it was the custom to 
+give reason for avoid the locality. in our sensible age--since 
+the dunwich horror of 1928 was hush up by those who had the town's 
+and the world's welfare at heart--people shun it without knowing 
+exactly why. perhaps one reason--though it can not apply to uninformed 
+strangers--is that the native are now repellent decadent, have 
+gone far along that path of retrogress so common in many new england 
+backwaters. they have come to form a race by themselves, with the 
+well-defined mental and physical stigmata of degeneracy and inbreeding. 
+the average of their intelligence is woful low, whilst their annals 
+reek of overt vicious and of half-hidden murders, incests, and 
+deed of almost unnamable violence and perversity. the old gentry, 
+represent the two or three armigerous family which came from 
+salem in 1692, have kept somewhat above the general level of decay; 
+though many branch are sunk into the sordid populace so deep that 
+only their name remain as a key to the origin they disgrace. some of 
+the whateley and bishop still send their eldest son to harvard and 
+miskatonic, though those son seldom return to the molder gambrel 
+roof under which they and their ancestor were born. 
+
+no one, even those who have the fact concerning the recent horror, 
+can say just what is the matter with dunwich; though old legend speak 
+of unhallowed rite and conclave of the indians, amidst which they 
+call forbidden shape of shadow out of the great round hills, and 
+made wild orgiastic prayer that were answer by loud crack and 
+rumbling from the ground below. in 1747 the reverend abijah hoadley, 
+newly come to the congregational church at dunwich village, preach a 
+memorable sermon on the close presence of satan and his imps, in which 
+he said: 
+
+it must be allow'd that these blasphemy of an infernall train 
+of dæmons are matter of too common knowledge to be deny'd; the 
+cursed voice of _azazel_ and _buzrael_, of _beelzebub_ and 
+_belial_, being heard from under ground by above a score of 
+credible witness now living. i myself did not more than a 
+fortnight ago catch a very plain discourse of evill powers in the 
+hill behind my house; wherein there were a rattling and rolling, 
+groaning, screeching, and hissing, such as no things of this earth 
+cou'd raise up, and which must needs have come from those cave 
+that only black magick can discover, and only the divell unlock. 
+
+mr. hoadley disappear soon after deliver this sermon; but the 
+text, print in springfield, is still extant. noise in the hill 
+continue to be report from year to year, and still form a puzzle to 
+geologist and physiographers. 
+
+other tradition tell of foul odor near the hill-crowning circle of 
+stone pillars, and of rush airy presence to be heard faint at 
+certain hour from state points at the bottom of the great ravines; 
+while still other try to explain the devil's hop yard--a bleak, 
+blasted hillside where no tree, shrub, or grass-blade will grow. then, 
+too, the native are mortally afraid of the numerous whippoorwill 
+which grow vocal on warm nights. it is vow that the bird are 
+psychopomp lie in wait for the soul of the dying, and that they 
+time their eery cries in unison with the sufferer's struggle breath. 
+if they can catch the flee soul when it leaves the body, they 
+instantly flutter away chittere in demoniac laughter; but if they 
+fail, they subside gradual into a disappointed silence. 
+
+these tales, of course, are obsolete and ridiculous; because they come 
+down from very old times. dunwich is indeed ridiculous old--older by 
+far than any of the community within thirty mile of it. south of the 
+village one may still spy the cellar wall and chimney of the ancient 
+bishop house, which was built before 1700; whilst the ruins of the mill 
+at the falls, built in 1806, form the most modern piece of architecture 
+to be seen. industry did not flourish here, and the nineteenth century 
+factory movement prove short-lived. oldest of all are the great 
+ring of rough-hewn stone column on the hilltops, but these are more 
+generally attribute to the indian than to the settlers. deposit of 
+skull and bones, found within these circle and around the sizable 
+table-like rock on sentinel hill, sustain the popular belief that such 
+spot were once the burial-places of the pocumtucks; even though many 
+ethnologists, disregard the absurd improbability of such a theory, 
+persist in believe the remains caucasian. 
+
+
+2 
+
+it was in the township of dunwich, in a large and partly inhabit 
+farmhouse set against a hillside four mile from the village and a mile 
+and a half from any other dwelling, that wilbur whateley was born at 5 
+a. m. on sunday, the second of february, 1913. this date was recall 
+because it was candlemas, which people in dunwich curious observe 
+under another name; and because the noise in the hill had sounded, 
+and all the dogs of the countryside had bark persistently, throughout 
+the night before. less worthy of notice was the fact that the mother 
+was one of the decadent whateleys, a somewhat deformed, unattractive 
+albino woman of 35, living with an age and half-insane father 
+about whom the most frightful tale of wizardry had been whisper 
+in his youth. lavinia whateley had no known husband, but according 
+to the custom of the region made no attempt to disavow the child; 
+concerning the other side of whose ancestry the country folk might--and 
+did--speculate as widely as they chose. on the contrary, she seem 
+strange proud of the dark, goatish-looking infant who form such a 
+contrast to her own sickly and pink-eyed albinism, and was heard to 
+mutter many curious prophecy about its unusual powers and tremendous 
+future. 
+
+lavinia was one who would be apt to mutter such things, for she was a 
+lone creature given to wandering amidst thunderstorm in the hill and 
+try to read the great odorous books which her father had inherit 
+through two century of whateleys, and which were fast fall to 
+pieces with age and worm-holes. she had never been to school, but was 
+fill with disjointed scraps of ancient lore that old whateley had 
+taught her. the remote farmhouse had always been fear because of old 
+whateley's reputation for black magic, and the unexplained death by 
+violence of mrs. whateley when lavinia was twelve years old had not 
+help to make the place popular. isolated among strange influences, 
+lavinia was fond of wild and grandiose daydream and singular 
+occupations; nor was her leisure much taken up by household care in a 
+home from which all standard of order and cleanliness had long since 
+disappeared. 
+
+there was a hideous scream which echo above even the hill noise 
+and the dogs' bark on the night wilbur was born, but no known doctor 
+or midwife preside at his coming. neighbor knew nothing of him till 
+a week afterward, when old whateley drove his sleigh through the snow 
+into dunwich village and discourse incoherent to the group of 
+lounger at osborn's general store. there seem to be a change in the 
+old man--an add element of furtive in the cloud brain which 
+subtle transform him from an object to a subject of fear--though he 
+was not one to be perturb by any common family event. amidst it all 
+he show some trace of the pride later notice in his daughter, and 
+what he said of the child's paternity was remember by many of his 
+hearer years afterward. 
+
+"i dun't keer what folks think--ef lavinny's boy look like his pa, he 
+wouldn't look like nothin' ye expeck. ye needn't think the only folks 
+is the folks hereabouts. lavinny's read some, an' has seed some things 
+the most o' ye only tell abaout. i calc'late her man is as good a 
+husban' as ye kin find this side of aylesbury; an' ef ye know as much 
+abaout the hill as i dew, ye wouldn't ast no better church weddin' nor 
+her'n. let me tell ye suthin'--_some day yew folks'll hear a child o' 
+lavinny's a-callin' its father's name on the top o' sentinel hill!_" 
+
+the only person who saw wilbur during the first month of his life 
+were old zechariah whateley, of the undecayed whateleys, and earl 
+sawyer's common-law wife, mamie bishop. mamie's visit was frankly one 
+of curiosity, and her subsequent tale did justice to her observations; 
+but zechariah came to lead a pair of alderney cow which old whateley 
+had bought of his son curtis. this marked the beginning of a course of 
+cattle-buying on the part of small wilbur's family which end only 
+in 1928, when the dunwich horror came and went; yet at no time did 
+the ramshackle whateley barn seem over-crowded with livestock. there 
+came a period when people were curious enough to steal up and count 
+the herd that graze precarious on the steep hillside above the old 
+farmhouse, and they could never find more than ten or twelve anemic, 
+bloodless-looking specimens. evidently some blight or distemper, 
+perhaps sprung from the unwholesome pasturage or the disease fungi 
+and timber of the filthy barn, cause a heavy mortality amongst the 
+whateley animals. odd wound or sores, have something of the aspect 
+of incisions, seem to afflict the visible cattle; and once or twice 
+during the early month certain caller fancy they could discern 
+similar sore about the throat of the gray, unshaven old man and his 
+slatternly, crinkly-haired albino daughter. 
+
+in the spring after wilbur's birth lavinia resume her customary 
+ramble in the hills, bearing in her misproportione arms the swarthy 
+child. public interest in the whateley subside after most of the 
+country folk had seen the baby, and no one bother to comment on the 
+swift development which that newcomer seem every day to exhibit. 
+wilbur's growth was indeed phenomenal, for within three month of his 
+birth he had attain a size and muscular power not usually found in 
+infant under a full year of age. his motions and even his vocal sound 
+show a restraint and deliberate highly peculiar in an infant, 
+and no one was really unprepared when, at seven months, he began to 
+walk unassisted, with falter which another month was sufficient to 
+remove. 
+
+it was somewhat after this time--on hallowe'en--that a great blaze was 
+seen at midnight on the top of sentinel hill where the old table-like 
+stone stand amidst its tumulus of ancient bones. considerable talk 
+was start when sila bishop--of the undecayed bishops--mentioned 
+have seen the boy running sturdy up that hill ahead of his mother 
+about an hour before the blaze was remarked. sila was round up a 
+stray heifer, but he nearly forgot his mission when he fleeting spy 
+the two figures in the dim light of his lantern. they dart almost 
+noiseless through the underbrush, and the astonish watch seem 
+to think they were entire unclothed. afterward he could not be sure 
+about the boy, who may have had some kind of a fringe belt and a pair 
+of dark blue trunks or trousers on. wilbur was never subsequent seen 
+alive and conscious without complete and tight button attire, the 
+disarrange or threaten disarrange of which always seem to 
+fill him with anger and alarm. his contrast with his squalid mother and 
+grandfather in this respect was thought very notable until the horror 
+of 1928 suggest the most valid of reasons. 
+
+the next january gossip were mildly interested in the fact that 
+"lavinny's black brat" had commence to talk, and at the age of only 
+eleven months. his speech was somewhat remarkable both because of its 
+difference from the ordinary accent of the region, and because it 
+display a freedom from infantile lisp of which many children of 
+three or four might well be proud. the boy was not talkative, yet when 
+he spoke he seem to reflect some elusive element wholly unpossess 
+by dunwich and its denizens. the strange did not reside in what he 
+said, or even in the simple idiom he used; but seem vague link 
+with his intonation or with the internal organ that produce the 
+spoken sounds. his facial aspect, too, was remarkable for its maturity; 
+for though he share his mother's and grandfather's chinlessness, his 
+firm and precocious shaped nose united with the expression on his 
+large, dark, almost latin eyes to give him an air of quasi-adulthood 
+and well-nigh preternatural intelligence. he was, however, exceedingly 
+ugly despite his appearance of brilliancy; there being something almost 
+goatish or animalistic about his thick lips, large-pored, yellowish 
+skin, coarse crinkly hair, and oddly elongate ears. he was soon 
+dislike even more decidedly than his mother and grandsire, and all 
+conjecture about him were spice with reference to the bygone magic 
+of old whateley, and how the hill once shook when he shriek the 
+dreadful name of _yog-sothoth_ in the midst of a circle of stone with 
+a great book open in his arms before him. dogs abhor the boy, and 
+he was always oblige to take various defensive measure against their 
+bark menace. 
+
+
+3 
+
+meanwhile old whateley continue to buy cattle without measurable 
+increase the size of his herd. he also cut timber and began to 
+repair the unused parts of his house--a spacious, peaked-roofed affair 
+whose rear end was bury entire in the rocky hillside, and whose 
+three least-ruined ground-floor rooms had always been sufficient for 
+himself and his daughter. there must have been prodigious reserve 
+of strength in the old man to enable him to accomplish so much hard 
+labor; and though he still babble demented at times, his carpentry 
+seem to show the effects of sound calculation. it had really begun 
+as soon as wilbur was born, when one of the many tool-sheds had been 
+put sudden in order, clapboarded, and fitted with a stout fresh lock. 
+now, in restore the abandoned upper story of the house, he was a no 
+less thorough craftsman. his mania show itself only in his tight 
+boarding-up of all the window in the reclaim section--though many 
+declared that it was a crazy thing to bother with the reclamation at 
+all. less inexplicable was his fitting-up of another downstairs room 
+for his new grandson--a room which several caller saw, though no one 
+was ever admitted to the closely-boarded upper story. this chamber 
+he line with tall, firm shelving; along which he began gradual to 
+arrange, in apparently careful order, all the rot ancient books and 
+parts of books which during his own day had been heap promiscuous 
+in odd corner of the various rooms. 
+
+"i made some use of 'em," he would say as he try to mend a torn 
+black-letter page with paste prepared on the rusty kitchen stove, "but 
+the boy's fitten to make better use of 'em. he'd orter hev 'em as well 
+sot as he kin for they're goin' to be all of his larnin'." 
+
+when wilbur was a year and seven month old--in september of 1914--his 
+size and accomplishment were almost alarming. he had grown as large as 
+a child of four, and was a fluent and incredible intelligent talker. 
+he ran freely about the field and hills, and accompany his mother 
+on all her wanderings. at home he would pore diligent over the queer 
+pictures and chart in his grandfather's books, while old whateley 
+would instruct and catechize him through long, hush afternoons. by 
+this time the restoration of the house was finished, and those who 
+watch it wonder why one of the upper window had been made into a 
+solid plank door. it was a window in the rear of the east gable end, 
+close against the hill; and no one could imagine why a cleat wooden 
+runway was built up to it from the ground. about the period of this 
+work's completion people notice that the old tool-house, tight 
+lock and windowless clapboard since wilbur's birth, had been 
+abandoned again. the door swung listless open, and when earl sawyer 
+once step within after a cattle-selling call on old whateley he was 
+quite discompose by the singular odor he encountered--such a stench, 
+he averred, as he had never before smelt in all his life except near 
+the indian circle on the hills, and which could not come from anything 
+sane or of this earth. but then, the home and shed of dunwich folk 
+have never been remarkable for olfactory immaculateness. 
+
+the following month were void of visible events, save that everyone 
+swore to a slow but steady increase in the mysterious hill noises. on 
+may eve of 1915 there were tremor which even the aylesbury people 
+felt, whilst the following hallowe'en produce an underground rumbling 
+queer synchronize with burst of flame--"them witch whateleys' 
+doin's"--from the summit of sentinel hill. wilbur was grow up 
+uncannily, so that he look like a boy of ten as he enter his 
+fourth year. he read avid by himself now; but talk much less than 
+formerly. a settled taciturn was absorbing him, and for the first 
+time people began to speak specifically of the dawn look of evil in 
+his goatish face. he would sometimes mutter an unfamiliar jargon, and 
+chant in bizarre rhythm which chill the listener with a sense of 
+unexplainable terror. the aversion display toward him by dogs had now 
+become a matter of wide remark, and he was oblige to carry a pistol 
+in order to traverse the countryside in safety. his occasional use of 
+the weapon did not enhance his popularity amongst the owner of canine 
+guardians. 
+
+the few caller at the house would often find lavinia alone on the 
+ground floor, while odd cries and footstep resound in the boarded-up 
+second story. she would never tell what her father and the boy were 
+do up there, though once she turn pale and display an abnormal 
+degree of fear when a jocose fish-peddler try the lock door leading 
+to the stairway. that peddler told the store lounger at dunwich 
+village that he thought he heard a horse stamp on that floor above. 
+the lounger reflected, thinking of the door and runway, and of 
+the cattle that so swift disappeared. then they shudder as they 
+recall tale of old whateley's youth, and of the strange things that 
+are call out of the earth when a bullock is sacrifice at the proper 
+time to certain heathen gods. it had for some time been notice that 
+dogs had begun to hate and fear the whole whateley place as violent 
+as they hate and fear young wilbur personally. 
+
+in 1917 the war came, and squire sawyer whateley, as chairman of the 
+local draft board, had hard work finding a quota of young dunwich men 
+fit even to be sent to a development camp. the government, alarm at 
+such sign of wholesale regional decadence, sent several officer and 
+medical expert to investigate; conduct a survey which new england 
+newspaper reader may still recall. it was the publicity attend this 
+investigate which set reporter on the track of the whateleys, and 
+cause the _boston globe_ and _arkham advertiser_ to print flamboyant 
+sunday story of young wilbur's precociousness, old whateley's black 
+magic, the shelves of strange books, the seal second story of the 
+ancient farmhouse, and the weird of the whole region and its hill 
+noises. wilbur was four and a half then, and look like a lad of 
+fifteen. his lip and cheek were fuzzy with a coarse dark down, and his 
+voice had begun to break. earl sawyer went out to the whateley place 
+with both set of reporter and camera men, and call their attention 
+to the queer stench which now seem to trickle down from the seal 
+upper spaces. it was, he said, exactly like a smell he had found in the 
+tool-shed abandoned when the house was finally repaired, and like the 
+faint odor which he sometimes thought he caught near the stone circle 
+on the mountains. dunwich folk read the story when they appeared, and 
+grin over the obvious mistakes. they wondered, too, why the writer 
+made so much of the fact that old whateley always paid for his cattle 
+in gold pieces of extremely ancient date. the whateley had received 
+their visitor with ill-concealed distaste, though they did not dare 
+court further publicity by a violent resistance or refusal to talk. 
+
+
+4 
+
+for a decade the annals of the whateley sink indistinguishable into 
+the general life of a morbid community use to their queer ways and 
+harden to their may eve and all-hallow orgies. twice a year they 
+would light fire on the top of sentinel hill, at which times the 
+mountain rumbling would recur with greater and greater violence; while 
+at all season there were strange and portentous doings at the lonely 
+farmhouse. in the course of time caller professed to hear sound 
+in the seal upper story even when all the family were downstairs, 
+and they wonder how swift or how lingering a cow or bullock 
+was usually sacrificed. there was talk of a complaint to the society 
+for the prevention of cruelty to animals; but nothing ever came of 
+it, since dunwich folk are never anxious to call the outside world's 
+attention to themselves. 
+
+about 1923, when wilbur was a boy of ten whose mind, voice, stature, 
+and bearded face gave all the impression of maturity, a second great 
+siege of carpentry went on at the old house. it was all inside the 
+seal upper part, and from bit of discard lumber people conclude 
+that the youth and his grandfather had knock out all the partition 
+and even remove the attic floor, leave only one vast open void 
+between the ground story and the peaked roof. they had torn down the 
+great central chimney, too, and fitted the rusty range with a flimsy 
+outside tin stove-pipe. 
+
+in the spring after this event old whateley notice the grow number 
+of whippoorwill that would come out of cold spring glen to chirp under 
+his window at night. he seem to regard the circumstance as one of 
+great significance, and told the lounger at osborn's that he thought 
+his time had almost come. 
+
+"they whistle jest in tune with my breathin' naow," he said, "an' i 
+guess they're gittin' ready to ketch my soul. they know it's a-goin' 
+aout, an' dun't calc'late to miss it. yew'll know, boys, art i'm 
+gone, whether they git me er not. ef they dew, they'll keep up 
+a-singin' an' laffin' till break o' day. ef they dun't, they'll kind 
+quiet daown like. i expeck them an' the soul they hunt fer hev some 
+pretty tough tussle sometimes." 
+
+on lamma night, 1924, dr. houghton of aylesbury was hasty summon 
+by wilbur whateley, who had lash his one remain horse through the 
+dark and telephone from osborn's in the village. he found old 
+whateley in a very grave state, with a cardiac action and stertorous 
+breathing that told of an end not far off. the shapeless albino 
+daughter and oddly bearded grandson stood by the bedside, whilst from 
+the vacant abyss overhead there came a disquiet suggestion of 
+rhythmic surge or lapping, as of the wave on some level beach. the 
+doctor, though, was chiefly disturbed by the chatter night bird 
+outside; a seemingly limitless legion of whippoorwill that cry their 
+endless message in repetition time diabolical to the wheeze gasp 
+of the die man. it was uncanny and unnatural--too much, thought dr. 
+houghton, like the whole of the region he had enter so reluctantly in 
+response to the urgent call. 
+
+toward 1 o'clock old whateley gain consciousness, and interrupt his 
+wheeze to choke out a few words to his grandson. 
+
+"more space, willy, more space soon. yew grows--an' _that_ grow 
+faster. it'll be ready to sarve ye soon, boy. open up the gate to 
+yog-sothoth with the long chant that ye'll find on page 751 _of the 
+complete edition_, an' _then_ put a match to the prison. fire from 
+airth can't burn it nohaow!" 
+
+he was obviously quite mad. after a pause, during which the flock of 
+whippoorwill outside adjust their cries to the alter tempo while 
+some indication of the strange hill noise came from afar off, he 
+add another sentence or two. 
+
+"feed it reg'lar, willy, an' mind the quantity; but dun't let it grow 
+too fast fer the place, fer ef it bust quarters or git aout afore ye 
+open to yog-sothoth, it's all over an' no use. only them from beyont 
+kin make it multiply an' work.... only them, the old uns as wants to 
+come back...." 
+
+but speech gave place to gasp again, and lavinia scream at the 
+way the whippoorwill follow the change. it was the same for more 
+than an hour, when the final throaty rattle came. dr. houghton drew 
+shrunken lid over the glazing gray eyes as the tumult of bird fade 
+imperceptible to silence. lavinia sobbed, but wilbur only chuckle 
+whilst the hill noise rumble faintly. 
+
+"they didn't git him," he mutter in his heavy bass voice. 
+
+wilbur was by this time a scholar of really tremendous erudite in 
+his one-sided way, and was quiet known by correspondence to many 
+librarian in distant place where rare and forbidden books of old days 
+are kept. he was more and more hate and dread around dunwich because 
+of certain youthful disappearance which suspicion laid vague at his 
+door; but was always able to silence inquiry through fear or through 
+use of that fund of old-time gold which still, as in his grandfather's 
+time, went forth regularly and increasingly for cattle-buying. he 
+was now tremendous mature of aspect, and his height, have reach 
+the normal adult limit, seem inclined to wax beyond that figure. in 
+1925, when a scholarly correspondent from miskatonic university call 
+upon him one day and departed pale and puzzled, he was fully six and 
+three-quarters feet tall. 
+
+through all the years wilbur had treat his half-deformed albino 
+mother with a grow contempt, finally forbidding her to go to the 
+hill with him on may eve and hallowmass; and in 1926 the poor creature 
+complain to mamie bishop of being afraid of him. 
+
+"they's more abaout him as i know than i kin tell ye, mamie," she 
+said, "an' naowaday they's more nor what i know myself. i vaow afur 
+gawd, i dun't know what he wants nor what he's a-tryin' to dew." 
+
+that hallowe'en the hill noise sound loud than ever, and fire 
+burn on sentinel hill as usual, but people paid more attention 
+to the rhythmic scream of vast flock of unnatural belated 
+whippoorwill which seem to be assemble near the unlighted whateley 
+farmhouse. after midnight their shrill note burst into a kind of 
+pandemoniac cachinnation which fill all the countryside, and not 
+until dawn did they finally quiet down. then they vanished, hurry 
+southward where they were fully a month overdue. what this meant, no 
+one could quite be certain till later. none of the countryfolk seem 
+to have died--but poor lavinia whateley, the twist albino, was never 
+seen again. 
+
+in the summer of 1927 wilbur repair two shed in the farmyard and 
+began moving his books and effects out to them. soon afterward earl 
+sawyer told the lounger at osborn's that more carpentry was go on 
+in the whateley farmhouse. wilbur was close all the door and window 
+on the ground floor, and seem to be taking out partition as he and 
+his grandfather had done upstairs four years before. he was living 
+in one of the sheds, and sawyer thought he seem unusually worried 
+and tremulous. people generally suspect him of knowing something 
+about his mother's disappearance, and very few ever approach his 
+neighborhood now. his height had increase to more than seven feet, and 
+show no sign of cease its development. 
+
+
+5 
+
+the following winter brought an event no less strange than wilbur's 
+first trip outside the dunwich region. correspondence with the widen 
+library at harvard, the bibliotheque nationale in paris, the britain 
+museum, the university of buenos aires, and the library of miskatonic 
+university at arkham had fail to get him the loan of a book he 
+desperate wanted; so at length he set out in person, shabby, dirty, 
+bearded, and uncouth of dialect, to consult the copy at miskatonic, 
+which was the nearest to him geographically. almost eight feet tall, 
+and carry a cheap new valise from osborn's general store, this 
+dark and goatish gargoyle appear one day in arkham in quest of the 
+dread volume kept under lock and key at the college library--the 
+hideous _necronomicon_ of the mad arab alhazre in olau wormius' latin 
+version, as print in spain in the seventeenth century. he had never 
+seen a city before, but had no thought save to find his way to the 
+university grounds; where, indeed, he pass heedless by the great 
+white-fanged watchdog that bark with unnatural fury and enmity, and 
+tug frantic at its stout chain. 
+
+wilbur had with him the priceless but imperfect copy of dr. dee's 
+english version which his grandfather had bequeath him, and upon 
+receiving access to the latin copy he at once began to collate the two 
+text with the aim of discover a certain passage which would have 
+come on the 751st page of his own defective volume. this much he could 
+not civilly refrain from telling the librarian--the same erudite henry 
+armitage (a. m. miskatonic, ph. d. princeton, litt. d. john hopkins) 
+who had once call at the farm, and who now polite ply him with 
+questions. he was looking, he had to admit, for a kind of formula or 
+incantation contain the frightful name _yog-sothoth_, and it puzzle 
+him to find discrepancies, duplications, and ambiguous which made 
+the matter of determination far from easy. as he copy the formula 
+he finally chose, dr. armitage look involuntary over his shoulder 
+at the open pages; the left-hand one of which, in the latin version, 
+contained such monstrous threat to the peace and sanity of the world. 
+
+nor is it to be thought [ran the text as armitage mental 
+translate it] that man is either the oldest or the last of earth's 
+masters, or that the common bulk of life and substance walk alone. 
+the old one were, the old one are, and the old one shall be. not 
+in the space we know, but _between_ them. they walk serene and 
+primal, undimensioned and to us unseen. _yog-sothoth_ know the 
+gate. _yog-sothoth_ is the gate. _yog-sothoth_ is the key and 
+guardian of the gate. past, present, future, all are one in 
+_yog-sothoth_. he know where the old one broke through of old, 
+and where they shall break through again. he know where they have 
+trod earth's fields, and where they still tread them, and why no 
+one can behold them as they tread. by their smell can men sometimes 
+know them near, but of their semblance can no man know, _saving 
+only in the features of those they have begotten on mankind_; and 
+of those are there many sorts, differ in likeness from man's 
+truest eidolon to that shape without sight or substance which is 
+_they_. they walk unseen and foul in lonely place where the words 
+have been spoken and the rite howl through at their seasons. 
+the wind gibber with their voices, and the earth mutter with 
+their consciousness. they bend the forest and crush the city, yet 
+may not forest or city behold the hand that smites. kadath in the 
+cold waste hath known them, and what man know kadath? the ice 
+desert of the south and the sunken isle of ocean hold stone 
+whereon their seal is engraven, but who hath seen the deep frozen 
+city or the seal tower long garland with seaweed and barnacles? 
+great cthulhu is their cousin, yet can he spy them only dimly. _iä 
+shub-niggurath!_ as a foul shall ye know them. their hand is at 
+your throats, yet ye see them not; and their habitation is even one 
+with your guarded threshold. _yog-sothoth_ is the key to the gate, 
+whereby the sphere meet. man rule now where they rule once; they 
+shall soon rule where man rule now. after summer is winter, and 
+after winter summer. they wait patient and potent, for here shall 
+they reign again. 
+
+dr. armitage, associate what he was reading with what he had heard 
+of dunwich and its brood presences, and of wilbur whateley and his 
+dim, hideous aura that stretch from a dubious birth to a cloud of 
+probable matricide, felt a wave of fright as tangible as a draft of the 
+tomb's cold clamminess. the bent, goatish giant before him seem like 
+the spawn of another planet or dimension; like something only partly of 
+mankind, and link to black gulf of essence and entity that stretch 
+like titan fantasm beyond all sphere of force and matter, space and 
+time. 
+
+presently wilbur raise his head and began speak in that strange, 
+resonant fashion which hint at sound-producing organ unlike the run 
+of mankind's. 
+
+"mr. armitage," he said, "i calc'late i've got to take that book home. 
+they's things in it i've got to try under sarten conditions that i 
+can't git here, an' it 'ud be a mortal sin to let a red-tape rule hold 
+me up. let me take it along, sir, an' i'll swar they wun't nobody know 
+the difference. i dun't need to tell ye i'll take good keer of it. it 
+wa'n't me that put this dee copy in the shape it is...." 
+
+he stop as he saw firm denial on the librarian's face, and his own 
+goatish features grew crafty. armitage, half ready to tell him he might 
+make a copy of what parts he needed, thought sudden of the possible 
+consequence and checked himself. there was too much responsibility 
+in give such a being the key to such blasphemous outer spheres. 
+whateley saw how things stood, and try to answer lightly. 
+
+"wal, all right, ef ye feel that way abaout it. maybe harvard wun't be 
+so fussy as yew be." and without saying more he rose and strode out of 
+the building, stoop at each doorway. 
+
+armitage heard the savage yelp of the great watchdog, and studied 
+whateley's gorilla-like lope as he cross the bit of campus visible 
+from the window. he thought of the wild tale he had heard, and 
+recall the old sunday story in the _advertiser_; these things, and 
+the lore he had picked up from dunwich rustic and villager during 
+his one visit there. unseen things not of earth--or at least not of 
+tri-dimensional earth--rushed fetid and horrible through new england's 
+glens, and brood obscene on the mountain tops. of this he had 
+long felt certain. now he seem to sense the close presence of some 
+terrible part of the intrude horror, and to glimpse a hellish advance 
+in the black dominion of the ancient and once passive nightmare. he 
+lock away the _necronomicon_ with a shudder of disgust, but the room 
+still reek with an unholy and unidentifiable stench. "as a foul 
+shall ye know them," he quoted. yes--the odor was the same as that 
+which had sicken him at the whateley farmhouse less than three years 
+before. he thought of wilbur, goatish and ominous, once again, and 
+laugh mocking at the village rumor of his parentage. 
+
+"inbreeding?" armitage mutter half aloud to himself. "great god, what 
+simpletons! show them arthur machen's _great god pan_ and they'll think 
+it a common dunwich scandal! but what thing--what cursed shapeless 
+influence on or off this three-dimensioned earth--was wilbur whateley's 
+father? born on candlemas--nine month after may eve of 1912, when the 
+talk about the queer earth noise reach clear to arkham--what walk 
+on the mountain that may night? what roodma horror fasten itself on 
+the world in half-human flesh and blood?" 
+
+during the ensue week dr. armitage set about to collect all possible 
+data on wilbur whateley and the formless presence around dunwich. he 
+got in communication with dr. houghton of aylesbury, who had attend 
+old whateley in his last illness, and found much to ponder over in the 
+grandfather's last words as quote by the physician. a visit to dunwich 
+village fail to bring out much that was new; but a close survey of 
+the _necronomicon_, in those parts which wilbur had sought so avidly, 
+seem to supply new and terrible clue to the nature, methods, and 
+desire of the strange evil so vague threaten this planet. talks 
+with several student of archaic lore in boston, and letters to many 
+other elsewhere, gave him a grow amaze which pass slow 
+through varied degree of alarm to a state of really acute spiritual 
+fear. as the summer drew on he felt dim that something ought to be 
+done about the lurk terror of the upper miskatonic valley, and 
+about the monstrous being known to the human world as wilbur whateley. 
+
+
+6 
+
+the dunwich horror itself came between lamma and the equinox in 1928, 
+and dr. armitage was among those who witness its monstrous prologue. 
+he had heard, meanwhile, of whateley's grotesque trip to cambridge, 
+and of his frantic effort to borrow or copy from the _necronomicon_ 
+at the widen library. those effort had been in vain, since armitage 
+had issue warning of the keenest intensity to all librarian have 
+charge of the dread volume. wilbur had been shocking nervous at 
+cambridge; anxious for the book, yet almost equally anxious to get 
+home again, as if he fear the result of being away long. 
+
+early in august the half-expected outcome developed, and in the small 
+hour of the third dr. armitage was awaken sudden by the wild, 
+fierce cries of the savage watchdog on the college campus. deep and 
+terrible, the snarling, half-mad growl and bark continued; always 
+in mount volume, but with hideous significant pauses. then there 
+rang out a scream from a wholly different throat--such a scream as 
+rouse half the sleeper of arkham and haunt their dream ever 
+afterward--such a scream as could come from no being born of earth, or 
+wholly of earth. 
+
+armitage hasten into some clothing and rush across the street and 
+lawn to the college buildings, saw that other were ahead of him; and 
+heard the echo of a burglar-alarm still shrill from the library. 
+an open window show black and gape in the moonlight. what had come 
+had indeed complete its entrance; for the bark and the screaming, 
+now fast fade into a mixed low growl and moaning, proceed 
+unmistakable from within. some instinct warn armitage that what was 
+taking place was not a thing for unfortify eyes to see, so he brush 
+back the crowd with authority as he unlock the vestibule door. among 
+the other he saw professor warren rice and dr. francis morgan, men to 
+whom he had told some of his conjecture and misgivings; and these two 
+he motion to accompany him inside. the inward sounds, except for a 
+watchful, drone whine from the dog, had by this time quite subsided; 
+but armitage now perceive with a sudden start that a loud chorus of 
+whippoorwill among the shrubbery had commence a damnable rhythmic 
+piping, as if in unison with the last breath of a die man. 
+
+the building was full of a frightful stench which dr. armitage knew 
+too well, and the three men rush across the hall to the small 
+genealogy reading-room whence the low whine came. for a second 
+nobody dare to turn on the light; then armitage summon up his 
+courage and snap the switch. one of the three--it is not certain 
+which--shrieked aloud at what sprawl before them among disorder 
+table and overturn chairs. professor rice declare that he wholly 
+lost consciousness for an instant, though he did not stumble or fall. 
+
+the thing that lay half-bent on its side in a fetid pool of 
+greenish-yellow ichor and tarry sticky was almost nine feet tall, 
+and the dog had torn off all the clothing and some of the skin. it 
+was not quite dead, but twitch silent and spasmodic while its 
+chest heave in monstrous unison with the mad piping of the expectant 
+whippoorwill outside. bit of shoe-leather and fragment of apparel 
+were scattered about the room, and just inside the window an empty 
+canvas sack lay where it had evidently been thrown. near the central 
+desk a revolver had fallen, a dent but undischarged cartridge later 
+explain why it had not been fired. the thing itself, however, 
+crowded out all other image at the time. it would be trite and not 
+wholly accurate to say that no human pen could describe it, but one may 
+properly say that it could not be vivid visualize by anyone whose 
+idea of aspect and contour are too close bound up with the common 
+life-forms of this planet and of the three known dimensions. it was 
+partly human, beyond a doubt, with very manlike hand and head, and the 
+goatish, chinless face had the stamp of the whateley upon it. but the 
+torso and lower parts of the body were teratologic fabulous, so 
+that only generous clothing could ever have enable it to walk on earth 
+unchallenged or uneradicated. 
+
+above the waist it was semi-anthropomorphic; though its chest, where 
+the dog's rend paw still rest watchfully, had the leathery, 
+reticulated hide of a crocodile or alligator. the back was piebald 
+with yellow and black, and dim suggest the squamous covering of 
+certain snakes. below the waist, though, it was the worst; for here 
+all human resemblance left off and sheer fantasy began. the skin was 
+thick cover with coarse black fur, and from the abdomen a score of 
+long greenish-gray tentacle with red suck mouth protrude limply. 
+their arrangement was odd, and seem to follow the symmetry of some 
+cosmic geometry unknown to earth or the solar system. on each of the 
+hips, deep set in a kind of pinkish, ciliate orbit, was what seem to 
+be a rudimentary eye; whilst in lieu of a tail there depend a kind of 
+trunk or feeler with purple annular markings, and with many evidence 
+of being an undeveloped mouth or throat. the limbs, save for their 
+black fur, roughly resemble the hind leg of prehistoric earth's giant 
+saurians; and terminate in ridgy-veined pad that were neither hooves 
+nor claws. when the thing breathed, its tail and tentacle rhythmic 
+change color, as if from some circulatory cause normal to the 
+non-human side of its ancestry. in the tentacle this was observable as 
+a deepen of the greenish tinge, whilst in the tail it was manifest 
+as a yellowish appearance which alternate with a sickly grayish-white 
+in the space between the purple rings. of genuine blood there was 
+none; only the fetid greenish-yellow ichor which trickle along the 
+paint floor beyond the radius of the stickiness, and left a curious 
+discoloration behind it. 
+
+as the presence of the three men seem to rouse the die thing, it 
+began to mumble without turning or raise its head. dr. armitage 
+made no written record of its mouthings, but assert confident that 
+nothing in english was uttered. at first the syllable defy all 
+correlation with any speech of earth, but toward the last there came 
+some disjointed fragment evidently taken from the _necronomicon_, 
+that monstrous blasphemy in quest of which the thing had perished. 
+those fragments, as armitage recall them, ran something like "_n'gai, 
+n'gha'ghaa, bugg-shoggog, y'hah; yog-sothoth, yog-sothoth...._" 
+they trail off into nothingness as the whippoorwill shriek in 
+rhythmic crescendo of unholy anticipation. 
+
+then came a halt in the gasping, and the dog raise his head in a long, 
+lugubrious howl. a change came over the yellow, goatish face of the 
+prostrate thing, and the great black eyes fell in appallingly. outside 
+the window the shrill of the whippoorwill had sudden ceased, and 
+above the murmur of the gathering crowd there came the sound of a 
+panic-struck whirr and fluttering. against the moon vast cloud of 
+feathery watch rose and race from sight, frantic at that which they 
+had sought for prey. 
+
+all at once the dog start up abruptly, gave a frightened bark, and 
+leap nervous out the window by which it had entered. a cry rose 
+from the crowd, and dr. armitage shout to the men outside that no 
+one must be admitted till the police or medical examine came. he was 
+thankful that the window were just too high to permit of peer 
+in, and drew the dark curtains careful down over each one. by this 
+time two policemen had arrived; and dr. morgan, meeting them in the 
+vestibule, was urge them for their own sake to postpone entrance to 
+the stench-filled reading-room till the examine came and the prostrate 
+thing could be cover up. 
+
+meanwhile frightful change were taking place on the floor. one need 
+not describe the _kind_ and _rate_ of shrinkage and disintegrate that 
+occur before the eyes of dr. armitage and professor rice; but it is 
+permissible to say that, aside from the external appearance of face 
+and hands, the really human elements in wilbur whateley must have been 
+very small. when the medical examine came, there was only a sticky 
+whitish mass on the paint boards, and the monstrous odor had nearly 
+disappeared. apparently whateley had had no skull or bony skeleton; at 
+least, in any true or stable sense. he had taken somewhat after his 
+unknown father. 
+
+
+7 
+
+yet all this was only the prologue of the actual dunwich horror. 
+formality were gone through by bewilder officials, abnormal detail 
+were duly kept from press and public, and men were sent to dunwich 
+and aylesbury to look up property and notify any who might be heir 
+of the late wilbur whateley. they found the countryside in great 
+agitation, both because of the grow rumbling beneath the domed 
+hills, and because of the unwonted stench and the surging, lap 
+sound which came increasingly from the great empty shell form by 
+whateley's boarded-up farmhouse. earl sawyer, who tend the horse and 
+cattle during wilbur's absence, had develop a woful acute case 
+of nerves. the official devise excuse not to enter the noisome 
+board place; and were glad to confine their survey of the deceased's 
+living quarters, the newly mend sheds, to a single visit. they file 
+a ponderous report at the court-house in aylesbury, and litigation 
+concerning heirship are said to be still in progress amongst the 
+innumerable whateleys, decay and undecayed, of the upper miskatonic 
+valley. 
+
+an almost interminable manuscript in strange characters, written in a 
+huge ledger and adjudge a sort of diary because of the spacing and 
+the variation in ink and penmanship, present a baffling puzzle to 
+those who found it on the old bureau which serve as its owner's 
+desk. after a week of debate it was sent to miskatonic university, 
+together with the deceased's collection of strange books, for study 
+and possible translation; but even the best linguist soon saw that it 
+was not likely to be unriddled with ease. no trace of the ancient gold 
+with which wilbur and old whateley always paid their debt has yet been 
+discovered. 
+
+it was in the dark of september ninth that the horror broke loose. 
+the hill noise had been very pronounced during the evening, and dogs 
+bark frantic all night. early riser on the tenth notice a 
+peculiar stench in the air. about 7 o'clock luther brown, the hire boy 
+at george corey's, between cold spring glen and the village, rush 
+frenzied back from his morning trip to ten-acre meadow with the cows. 
+he was almost convulse with fright as he stumble into the kitchen; 
+and in the yard outside the no less frightened herd were paw and 
+low pitifully, have follow the boy back in the panic they share 
+with him. between gasp luther try to stammer out his tale to mrs. 
+corey. 
+
+"up thar in the rud beyont the glen, mis' corey--they's suthin' ben 
+thar! it smell like thunder, an' all the bush an' little tree is 
+pushed back from the rud like they'd a haouse ben move along of it. 
+an' that ain't the wust, nuther. they's _prints_ in the rud, mis' 
+corey--great raound print as big as barrel-heads, all sunk daown deep 
+like a elephant had ben along, _only they's a sight more nor four feet 
+could make_. i look at one or two afore i run, an' i see every one 
+was cover with lines spreadin' aout from one place, like as if big 
+palm-leaf fans--twict or three times as big as any they is--hed of ben 
+paounde daown into the rud. an' the smell was awful, like what it is 
+araound wizard whateley's ol' haouse...." 
+
+here he faltered, and seem to shiver afresh with the fright that had 
+sent him flying home. mrs. corey, unable to extract more information, 
+began telephone the neighbors; thus start on its rounds the 
+overture of panic that herald the major terrors. when she got sally 
+sawyer, housekeeper at seth bishop's, the nearest place to whateley's, 
+it became her turn to listen instead of transmit; for sally's boy 
+chauncey, who slept poorly, had been up on the hill toward whateley's, 
+and had dashed back in terror after one look at the place, and at the 
+pasturage where mr. bishop's cow had been left out all night. 
+
+"yes, mis' corey," came sally's tremulous voice over the party wire, 
+"cha'ncey he just come back a-post-in', and couldn't haff talk fer 
+bein' scairt! he say ol' whateley's haouse is all blow up, with 
+the timber scattered raound like they'd ben dynamite inside; only 
+the bottom floor ain't through, but is all cover with a kind o' 
+tarlike stuff that smell awful an' drip daown offen the aidge onto 
+the graoun' whar the side timber is blow away. an' they's awful 
+kind mark in the yard, tew--great raound mark big raound than a 
+hogshead, an' all sticky with stuff like is on the blowed-up haouse. 
+cha'ncey he say they leads off into the medders, whar a great swath 
+wider'n a barn is matt daown, an' all the stun wall tumble every 
+which way wherever it goes. 
+
+"an' he says, say he, mis' corey, as haow he sot to look fer seth's 
+caows, fright ez he was; an' faound 'em in the upper pasture nigh the 
+devil's hop yard in an awful shape. haff on 'em's clean gone, an' nigh 
+haff o' them that's left is suck most dry o' blood, with sore on 'em 
+like they's ben on whateley's cattle ever senct lavinny's black brat 
+was born. seth he's gone aout naow to look at 'em, though i'll vaow he 
+wun't keer ter git very nigh wizard whateley's! cha'ncey didn't look 
+keerful ter see whar the big matted-daown swath led art it leff the 
+pasturage, but he say he think it p'inted towards the glen rud to the 
+village. 
+
+"i tell ye, mis' corey, they's suthin' abroad as hadn't orter be 
+abroad, an' i fer one think that black wilbur whateley, as come to 
+the bad eend he desarved, is at the bottom of the breedin' of it. he 
+wa'n't all human hisself, i allu say to everybody; an' i think he an' 
+ol' whateley must a raise suthin' in that there nailed-up haouse as 
+ain't even so human as he was. they's allu ben unseen things araound 
+dunwich--livin' things--as ain't human an' ain't good fer human folks. 
+
+"the graoun' was a'talkin' lass night, an' towards mornin' cha'ncey 
+he heerd the whippoorwill so laoud in col' spring glen he couldn't 
+sleep none. then he thought he heerd another faintlike saound over 
+towards wizard whateley's--a kind rippin' or tearin' o' wood, like 
+some big box or crate was bein' open fur off. what with this an' 
+that, he didn't git to sleep at all till sunup, an' no soon was he 
+up this mornin', but he's got to go over to whateley's an' see what's 
+the matter. he see enough, i tell ye, mis' corey! this dun't mean no 
+good, an' i think as all the men-folks ought to git up a party an' 
+do suthin'. i know suthin' awful's abaout, an' feel my time is nigh, 
+though only gawd know jest what it is. 
+
+"did your luther take accaount o' whar them big track led tew? no? 
+wal, mis' corey, ef they was on the glen rud this side o' the glen, 
+an' ain't got to your haouse yet, i calc'late they must go into the 
+glen itself. they would do that. i allu say col' spring glen ain't no 
+healthy nor decent place. the whippoorwill an' firefly there never 
+did act like they was create o' gawd, an' they's them as say ye kin 
+hear strange things a-rushin' an' a-talkin' in the air daown thar ef ye 
+stand in the right place, atween the rock falls an' bear's den." 
+
+* * * * * 
+
+by that noon fully three-quarters of the men and boys of dunwich were 
+troop over the road and meadow between the new-made whateley ruins 
+and cold spring glen; examine in horror the vast, monstrous prints, 
+the maim bishop cattle, the strange, noisome wreck of the farmhouse, 
+and the bruised, matt vegetation of the field and road-sides. 
+whatever had burst loose upon the world had assured gone down into 
+the great sinister ravine; for all the tree on the bank were bent and 
+broken, and a great avenue had been gouge in the precipice-hanging 
+underbrush. it was as though a house, launch by an avalanche, had 
+slid down through the tangle growth of the almost vertical slope. 
+from below no sound came, but only a distant, undefinable fetor; and 
+it is not to be wonder at that the men prefer to stay on the edge 
+and argue, rather than descend and beard the unknown cyclopean horror 
+in its lair. three dogs that were with the party had bark furiously 
+at first, but seem cow and reluctant when near the glen. someone 
+telephone the news to the _aylesbury transcript_; but the editor, 
+accustomed to wild tale from dunwich, did no more than concoct a 
+humorous paragraph about it; an item soon afterward reproduce by the 
+associate press. 
+
+that night everyone went home, and every house and barn was barricade 
+as stout as possible. needless to say, no cattle were allow to 
+remain in open pasturage. about 2 in the morning a frightful stench and 
+the savage bark of the dogs awaken the household at elm frye's, 
+on the eastern edge of cold spring glen, and all agree that they 
+could hear a sort of muffle swish or lap sound from somewhere 
+outside. mrs. frye propose telephone the neighbors, and elm was 
+about to agree when the noise of splinter wood burst in upon their 
+deliberations. it came, apparently, from the barn; and was quick 
+follow by a hideous scream and stamp amongst the cattle. the 
+dogs slaver and crouch close to the feet of the fear-numbed family. 
+frye lit a lantern through force of habit, but knew it would be death 
+to go out into that black farmyard. the children and the women-folk 
+whimpered, kept from scream by some obscure, vestigial instinct 
+of defense which told them their lives depend on silence. at last 
+the noise of the cattle subside to a pitiful moaning, and a great 
+snapping, crashing, and crackling ensued. the fryes, huddle together 
+in the sitting-room, did not dare to move until the last echo die 
+away far down in cold spring glen. then, amidst the dismal moan from 
+the stable and the demoniac piping of late whippoorwill in the glen, 
+selina frye totter to the telephone and spread what news she could of 
+the second phase of the horror. 
+
+the next day all the countryside was in a panic; and cowed, 
+uncommunicative group came and went where the fiendish thing had 
+occurred. two titan swath of destruction stretch from the glen 
+to the frye farmyard, monstrous print cover the bare patch of 
+ground, and one side of the old red barn had completely cave in. of 
+the cattle, only about a quarter could be found and identified. some of 
+these were in curious fragments, and all that survive had to be shot. 
+earl sawyer suggest that help be ask from aylesbury or arkham, but 
+other maintain it would be of no use. old zebulon whateley, of a 
+branch that hover about half-way between sound and decadence, 
+made dark wild suggestion about rite that ought to be practised on 
+the hilltops. he came of a line where tradition ran strong, and his 
+memory of chant in the great stone circle were not altogether 
+connected with wilbur and his grandfather. 
+
+dark fell upon a stricken countryside too passive to organize 
+for real defense. in a few case close related family would band 
+together and watch in the gloom under one roof; but, in general there 
+was only a repetition of the barricade of the night before, and a 
+futile, ineffective gesture of load musket and setting pitchfork 
+handy about. nothing, however, occur except some hill noises; and 
+when the day came there were many who hope that the new horror had 
+gone as swift as it had come. there were even bold soul who propose 
+an offensive expedition down in the glen, though they did not venture 
+to set an actual example to the still reluctant majority. 
+
+when night came again the barricade was repeated, though there was 
+less huddle together of families. in the morning both the frye and 
+the seth bishop household report excitement among the dogs and vague 
+sound and stench from afar, while early explore noted with horror 
+a fresh set of the monstrous track in the road skirt sentinel hill. 
+as before, the side of the road show a bruising indicative of the 
+blasphemous stupendous bulk of the horror; whilst the conformation 
+of the track seem to argue a passage in two directions, as if the 
+moving mountain had come from cold spring glen and return to it along 
+the same path. at the base of the hill a thirty-foot swath of crush 
+shrubbery and sapling led steeple upward, and the seek gasp when 
+they saw that even the most perpendicular place did not deflect the 
+inexorable trail. whatever the horror was, it could scale a sheer stony 
+cliff of almost complete verticality; and as the investigate climb 
+around to the hill's summit by safe route they saw that the trail 
+ended--or rather, reversed--there. 
+
+it was here that the whateley use to build their hellish fire and 
+chant their hellish ritual by the table-like stone on may eve and 
+hallowmass. now that very stone form the center of a vast space 
+thrash around by the mountainous horror, whilst upon its slightly 
+concave surface was a thick fetid deposit of the same tarry sticky 
+observe on the floor of the ruin whateley farmhouse when the horror 
+escaped. men look at one another and muttered. then they look down 
+the hill. apparently the horror had descended by a route much the same 
+as that of its ascent. to speculate was futile. reason, logic, and 
+normal idea of motivation stood confounded. only old zebulon, who 
+was not with the group, could have done justice to the situation or 
+suggest a plausible explanation. 
+
+thursday night began much like the others, but it end less happily. 
+the whippoorwill in the glen had scream with such unusual 
+persistence that many could not sleep, and about 3 a. m. all the party 
+telephone rang tremulously. those who took down their receiver 
+heard a fright-mad voice shriek out, "help, oh, my gawd!..." and some 
+thought a crashing sound follow the break off of the exclamation. 
+there was nothing more. no one dare do anything, and no one knew 
+till morning whence the call came. then those who had heard it call 
+everyone on the line, and found that only the fry did not reply. the 
+truth appear an hour later, when a hasty assemble group of armed 
+men trudge out to the frye place at the head of the glen. it was 
+horrible, yet hardly a surprize. there were more swath and monstrous 
+prints, but there was no long any house. it had cave in like an 
+egg-shell, and amongst the ruins nothing living or dead could be 
+discovered--only a stench and a tarry stickiness. the elm fry had 
+been erase from dunwich. 
+
+
+8 
+
+in the meantime a quiet yet even more spiritual poignant phase of 
+the horror had been blackly unwind itself behind the closed door of 
+a shelf-lined room in arkham. the curious manuscript record or diary of 
+wilbur whateley, deliver to miskatonic university for translation, 
+had cause much worry and baffle among the expert in language 
+both ancient and modern; its very alphabet, notwithstanding a general 
+resemblance to the heavy shade arabic use in mesopotamia, being 
+absolutely unknown to any available authority. the final conclusion of 
+the linguist was that the text represent an artificial alphabet, 
+give the effect of a cipher; though none of the usual method of 
+cryptography solution seem to furnish any clue, even when applied 
+on the basis of every tongue the writer might conceivable have used. 
+the ancient books taken from whateley's quarters, while absorbing 
+interesting and in several case promising to open up new and terrible 
+lines of research among philosopher and men of science, were of no 
+assistance whatever in this matter. one of them, a heavy tome with 
+an iron clasp, was in another unknown alphabet--this one of a very 
+different cast, and resemble sanskrit more than anything else. the 
+old ledger was at length given wholly into the charge of dr. armitage, 
+both because of his peculiar interest in the whateley matter, and 
+because of his wide linguistic learning and skill in the mystical 
+formulæ of antiquity and the middle ages. 
+
+armitage had an idea that the alphabet might be something esoteric 
+use by certain forbidden cult which have come down from old times, 
+and which have inherit many form and tradition from the wizard of 
+the saracenic world. that question, however, he did not deem vital; 
+since it would be unnecessary to know the origin of the symbol if, 
+as he suspected, they were use as a cipher in a modern language. it 
+was his belief that, considering the great amount of text involved, the 
+writer would scarcely have wish the trouble of use another speech 
+than his own, save perhaps in certain special formulæ and incantations. 
+accordingly he attack the manuscript with the preliminary assumption 
+that the bulk of it was in english. 
+
+dr. armitage knew, from the repeated failure of his colleagues, that 
+the riddle was a deep and complex one, and that no simple mode of 
+solution could merit even a trial. all through late august he fortify 
+himself with the mass lore of cryptography, drawing upon the fullest 
+resources of his own library, and wade night after night amidst the 
+arcana of trithemius' _poligraphia_, giambattista porta's _de furtivi 
+literarum notis_, de vigenere's _traité des chiffres_, falconer's 
+_cryptomenysis patefacta_, davys' and thicknesse's eighteenth century 
+treatises, and such fairly modern authority as blair, von marten, 
+and klüber's _kryptographik_. he intersperse his study of the books 
+with attack on the manuscript itself, and in time became convinced 
+that he had to deal with one of those subtlest and most ingenious of 
+cryptograms, in which many separate lists of corresponding letters are 
+arrange like the multiplication table, and the message built up with 
+arbitrary key-words known only to the initiated. the old authority 
+seem rather more helpful than the new ones, and armitage conclude 
+that the code of the manuscript was one of great antiquity, no doubt 
+hand down through a long line of mystical experimenters. several 
+times he seem near daylight, only to be set back by some unforeseen 
+obstacle. then, as september approached, the cloud began to clear. 
+certain letters, as use in certain parts of the manuscript, emerge 
+definitely and unmistakably; and it became obvious that the text was 
+indeed in english. 
+
+on the evening of september second the last major barrier gave way, and 
+dr. armitage read for the first time a continuous passage of wilbur 
+whateley's annals. it was in truth a diary, as all had thought; and 
+it was couch in a style clearly showing the mixed occult erudite 
+and general illiteracy of the strange being who wrote it. almost the 
+first long passage that armitage deciphered, an entry dated november 
+26, 1916, prove highly startle and disquieting. it was written, he 
+remembered, by a child of three and a half who look like a lad of 
+twelve or thirteen. 
+
+today learned the aklo for the sabaoth, [it ran] which did not 
+like, it being answerable from the hill and not from the air. that 
+upstairs more ahead of me than i had thought it would be, and is 
+not like to have much earth brain. shot elam hutchins's collie 
+jack when he went to bite me, and elam say he would kill me if he 
+dast. i guess he won't. grandfather kept me saying the dho formula 
+last night, and i think i saw the inner city at the 2 magnetic 
+poles. i shall go to those pole when the earth is clear off, if 
+i can't break through with the dho-hna formula when i commit it. 
+they from the air told me at sabbat that it will be years before i 
+can clear off the earth, and i guess grandfather will be dead then, 
+so i shall have to learn all the angle of the plane and all the 
+formula between the yr and the nhhngr. they from outside will 
+help, but they can not take body without human blood. that upstairs 
+looks it will have the right cast. i can see it a little when i 
+make the yoorish sign or blow the power of ibn ghazi at it, and it 
+is near like them at may eve on the hill. the other face may wear 
+off some. i wonder how i shall look when the earth is clear and 
+there are no earth being on it. he that came with the aklo sabaoth 
+said i may be transfigured, there being much of outside to work on. 
+
+morning found dr. armitage in a cold sweat of terror and a frenzy of 
+wakeful concentration. he had not left the manuscript all night, but 
+sat at his table under the electric light turning page after page 
+with shake hand as fast as he could decipher the cryptic text. he 
+had nervous telephone his wife he would not be home, and when she 
+brought him a breakfast from the house he could scarcely dispose of a 
+mouthful. all that day he read on, now and then halt maddening as 
+a reapplication of the complex key became necessary. lunch and dinner 
+were brought him, but he ate only the smallest fraction of either. 
+toward the middle of the next night he drowse off in his chair, but 
+soon woke out of a tangle of nightmare almost as hideous as the truth 
+and menace to man's existence that he had uncovered. 
+
+on the morning of september fourth professor rice and dr. morgan 
+insist on seeing him for a while, and departed tremble and 
+ashen-gray. that evening he went to bed, but slept only fitfully. 
+wednesday--the next day--he was back at the manuscript, and began to 
+take copious note both from the current section and from those he had 
+already deciphered. in the small hour of that night he slept a little 
+in an easy-chair in his office, but was at the manuscript again before 
+dawn. some time before noon his physician, dr. hartwell, call to see 
+him and insist that he cease work. he refused, intimate that it was 
+of the most vital importance for him to complete the reading of the 
+diary, and promising an explanation in due course of time. 
+
+that evening, just as twilight fell, he finished his terrible peruse 
+and sank back exhausted. his wife, bring his dinner, found him in a 
+half-comatose state; but he was conscious enough to warn her off with 
+a sharp cry when he saw her eyes wander toward the note he had taken. 
+weak rising, he gather up the scribble papers and seal them all 
+in a great envelope, which he immediately placed in his inside coat 
+pocket. he had sufficient strength to get home, but was so clearly in 
+need of medical aid that dr. hartwell was summon at once. as the 
+doctor put him to bed he could only mutter over and over again, "_but 
+what, in god's name, can we do?_" 
+
+dr. armitage slept, but was partly delirious the next day. he made 
+no explanation to hartwell, but in his calm moments spoke of the 
+imperative need of a long conference with rice and morgan. his wild 
+wanderings were very startle indeed, including frantic appeal 
+that something in a boarded-up farmhouse be destroyed, and fantastic 
+reference to some plan for the extirpate of the entire human race 
+and all animal and vegetable life from the earth by some terrible elder 
+race of being from another dimension. he would shout that the world 
+was in danger, since the elder things wish to strip it and drag it 
+away from the solar system and cosmos of matter into some other plane 
+or phase of entity from which it had once fallen, vigintillion of eon 
+ago. at other times he would call for the dread _necronomicon_ and 
+the _dæmonolatreia_ of remigius, in which he seem hopeful of finding 
+some formula to check the peril he conjure up. 
+
+"stop them, stop them!" he would shout. "those whateley meant to let 
+them in, and the worst of all is left! tell rice and morgan we must do 
+something--it's a blind business, but i know how to make the powder.... 
+it hasn't been fed since the second of august, when wilbur came here to 
+his death, and at that rate...." 
+
+but armitage had a sound physique despite his seventy-three years, and 
+slept off his disorder that night without develop any real fever. he 
+woke late friday, clear of head, though sober, with a gnawing fear and 
+tremendous sense of responsibility. saturday afternoon he felt able to 
+go over to the library and summon rice and morgan for a conference, and 
+the rest of that day and evening the three men torture their brains 
+in the wildest speculation and the most desperate debate. strange and 
+terrible books were drawn voluminous from the stack shelves and from 
+secure place of storage, and diagram and formulæ were copy with 
+feverish haste and in bewilder abundance. of skepticism there was 
+none. all three had seen the body of wilbur whateley as it lay on the 
+floor in a room of that very building, and after that not one of them 
+could feel even slightly inclined to treat the diary as a madman's 
+raving. 
+
+opinion were divide as to notify the massachusetts state police, 
+and the negative finally won. there were things involved which simply 
+could not be believe by those who had not seen a sample, as indeed was 
+made clear during certain subsequent investigations. late at night the 
+conference disband without have develop a definite plan, but all 
+day sunday armitage was busy compare formulæ and mix chemical 
+obtain from the college laboratory. the more he reflect on the 
+hellish diary, the more he was inclined to doubt the efficacy of any 
+material agent in stamp out the entity which wilbur whateley had 
+left behind him--the earth-threatening entity which, unknown to him, 
+was to burst forth in a few hour and become the memorable dunwich 
+horror. 
+
+monday was a repetition of sunday with dr. armitage, for the task 
+in hand require an infinity of research and experiment. further 
+consultation of the monstrous diary brought about various change of 
+plan, and he knew that even in the end a large amount of uncertainty 
+must remain. by tuesday he had a definite line of action map out, 
+and believe he would try a trip to dunwich within a week. then, on 
+wednesday, the great shock came. tuck obscure away in a corner of 
+the _arkham advertiser_ was a facetious little item from the associate 
+press, telling what a record-breaking monster the bootleg whisky of 
+dunwich had raise up. armitage, half stunned, could only telephone 
+for rice and morgan. far into the night they discussed, and the next 
+day was a whirlwind of preparation on the part of them all. armitage 
+knew he would be meddle with terrible powers, yet saw that there was 
+no other way to annul the deep and more malign meddle which other 
+had done before him. 
+
+
+9 
+
+friday morning armitage, rice and morgan set out by motor for dunwich, 
+arrive at the village about 1 in the afternoon. the day was pleasant, 
+but even in the brightest sunlight a kind of quiet dread and portent 
+seem to hover about the strange domed hill and the deep, shadowy 
+ravine of the stricken region. now and then on some mountain top a 
+gaunt circle of stone could be glimpse against the sky. from the 
+air of hush fright at osborn's store they knew something hideous 
+had happened, and soon learned of the annihilate of the elm frye 
+house and family. throughout that afternoon they rode around dunwich, 
+questioning the native concerning all that had occurred, and seeing 
+for themselves with rising pang of horror the drear frye ruins with 
+their lingering trace of the tarry stickiness, the blasphemous track 
+in the frye yard, the wound seth bishop cattle, and the enormous 
+swath of disturbed vegetation in various places. the trail up and down 
+sentinel hill seem to armitage of almost cataclysm significance, 
+and he look long at the sinister altarlike stone on the summit. 
+
+at length the visitors, apprise of a party of state police which had 
+come from aylesbury that morning in response to the first telephone 
+report of the frye tragedy, decided to seek out the officer and 
+compare note as far as practicable. this, however, they found more 
+easily plan than performed; since no sign of the party could be 
+found in any direction. there had been five of them in a car, but now 
+the car stood empty near the ruins in the frye yard. the natives, all 
+of whom had talk with the policemen, seem at first as perplexed as 
+armitage and his companions. then old sam hutchin thought of something 
+and turn pale, nudge fred farr and point to the dank, deep 
+hollow that yawn close by. 
+
+"gawd," he gasped, "i tell 'em not ter go daown into the glen, an' i 
+never thought nobody'd dew it with them track an' that smell an' the 
+whippoorwill a-screechin' daown thar in the dark o' noonday...." 
+
+a cold shudder ran through native and visitor alike, and every ear 
+seem strained in a kind of instinctive, unconscious listening. 
+armitage, now that he had actually come upon the horror and its 
+monstrous work, tremble with the responsibility he felt to be 
+his. night would soon fall, and it was then that the mountainous 
+blasphemy lumber upon its eldritch course. _negotium perambulan in 
+tenebris...._ the old librarian rehearse the formulæ he had memorized, 
+and clutch the paper contain the alternative one he had not 
+memorized. he saw that his electric flashlight was in working order. 
+rice, beside him, took from a valise a metal sprayer of the sort use 
+in combat insects; whilst morgan uncased the big-game rifle on which 
+he rely despite his colleague's warning that no material weapon 
+would be of help. 
+
+armitage, have read the hideous diary, knew painful well what kind 
+of a manifestation to expect, but he did not add to the fright of the 
+dunwich people by give any hint or clues. he hope that it might 
+be conquer without any revelation to the world of the monstrous 
+thing it had escaped. as the shadow gathered, the native commence 
+to disperse homeward, anxious to bar themselves indoors despite the 
+present evidence that all human locks and bolt were useless before a 
+force that could bend tree and crush house when it chose. they shook 
+their head at the visitors' plan to stand guard at the frye ruins near 
+the glen; and as they left, had little expectancy of ever seeing the 
+watch again. 
+
+there were rumbling under the hill that night, and the whippoorwill 
+pipe threateningly. once in a while a wind, sweeping up out of cold 
+spring glen, would bring a touch of ineffable fete to the heavy night 
+air; such a fete as all three of the watch had smell once before, 
+when they stood above a die thing that had pass for fifteen years 
+and a half as a human being. but the looked-for terror did not appear. 
+whatever was down there in the glen was bide its time, and armitage 
+told his colleague it would be suicidal to try to attack it in the 
+dark. 
+
+morning came wanly, and the night-sounds ceased. it was a gray, bleak 
+day, with now and then a drizzle of rain; and heavy and heavy 
+cloud seem to be pile themselves up beyond the hill to the 
+northwest. the men from arkham were undecided what to do. seek 
+shelter from the increase rainfall beneath one of the few undestroyed 
+frye outbuildings, they debate the wisdom of waiting, or of taking the 
+aggressive and go down into the glen in quest of their nameless, 
+monstrous quarry. the downpour wax in heaviness, and distant peal of 
+thunder sound from far horizons. sheet lightning shimmered, and then 
+a forky bolt flash near at hand, as if descend into the accursed 
+glen itself. the sky grew very dark, and the watch hope that the 
+storm would prove a short, sharp one follow by clear weather. 
+
+it was still gruesome dark when, not much over an hour later, a 
+confuse babel of voice sound down the road. another moment brought 
+to view a frightened group of more than a dozen men, running, shouting, 
+and even whimper hysterically. someone in the lead began sob out 
+words, and the arkham men start violent when those words develop 
+a coherent form. 
+
+"oh, my gawd, my gawd!" the voice choke out; "it's a-goin' agin, _an' 
+this time by day_! it's aout--it's aout an' a-movin' this very minute, 
+an' only the lord know when it'll be on us all!" 
+
+the speaker pant into silence, but another took up his message. 
+
+"nigh on a haour ago zeb whateley here heerd the 'phone a-ringin', an' 
+it was mis' corey, george's wife that lives daown by the junction. 
+she say the hire boy luther was aout drivin' in the caow from the 
+storm art the big bolt, when he see all the tree a-bendin' at the 
+maouth o' the glen--opposite side ter this--an' smelt the same awful 
+smell like he smelt when he faound the big track las' monday mornin'. 
+an' she say he say they was a swishin', lappin' saound, more nor 
+what the bendin' tree an' bush could make, an' all on a suddent the 
+tree along the rud begun ter git pushed one side, an' they was a awful 
+stompin' an' splashin' in the mud. but mind ye, luther he didn't see 
+nothin' at all, only jest the bendin' tree an' underbrush. 
+
+"then fur ahead where bishop's brook go under the rud he heerd a 
+awful creakin' an' strainin' on the bridge, an' say he could tell the 
+saound o' wood a-startin' to crack an' split. an' all the while he 
+never see a thing, only them tree an' bush a-bendin'. an' when the 
+swishin' saound got very fur off--on the rud towards wizard whateley's 
+an' sentinel hill--luther he had the guts ter step up whar he'd heerd 
+it fust an' look at the graound. it was all mud an' water, an' the sky 
+was dark, an' the rain was wipin' aout all track abaout as fast as 
+could be; but beginnin' at the glen maouth, whar the tree bed moved, 
+they was still some o' them awful print big as bar'ls like he seen 
+monday." 
+
+at this point the first excited speaker interrupted. 
+
+"but _that_ ain't the trouble naow--that was only the start. zeb here 
+was callin' folks up an' everybody was a-listenin' in when a call from 
+seth bishop's cut in. his haousekeeper sally was carryin' on fit ter 
+kill--she'd jest seed the tree a-bendin' beside the rud, an' say 
+they was a kind o' mushy saound, like a elephant puffin' an' treadin', 
+a-headin' fer the haouse. then she up an' spoke suddent of a fearful 
+smell, an' say her boy cha'ncey was a-screamin' as haow it was jest 
+like what he smelt up to the whateley rewin monday mornin'. an' the 
+dogs was all barkin' an' whinin' awful. 
+
+"an' then she let aout a turrible yell, an' say the shed daown the 
+rud hed jest cave in like the storm hed blow it over, only the wind 
+wa'n't strong enough to dew that. everybody was a-listenin', an' ye 
+could hear lot o' folks on the wire a-gaspin'. all to onct sally she 
+yell agin, an' say the front yard picket fence bed jest crumple up, 
+though they wa'n't no sign o' what done it. then everybody on the line 
+could hear cha'ncey an' ol' seth bishop a-yellin', tew, an' sally was 
+shriekin' aout that suthin' heavy hed struck the haouse--not lightnin' 
+nor nothin', but suthin' heavy agin' the front, that kep' a-launchin' 
+itself agin an' agin, though ye couldn't see nuthin' aout the front 
+winders. an' then ... an' then...." 
+
+lines of fright deepen on every face; and armitage, shaken as he was, 
+had barely poise enough to prompt the speaker. 
+
+"an' then ... sally she yell aout, 'o help, the haouse is a-cavin' 
+in' ... an' on the wire we could hoar a turrible crashin', an' a hull 
+flock o' screamin' ... jest like when elm frye's place was took, only 
+wuss...." 
+
+the man paused, and another of the crowd spoke. 
+
+"that's all--not a saound nor squeak over the 'phone art that. jest 
+still-like. we that heerd it got aout ford an' wagon an' raounde 
+up as many able-bodied men-folks as we could get, at corey's place, 
+an' come up here ter see what yew thought best ter dew. not but what i 
+think it's the lord's judgment fer our iniquities, that no mortal kin 
+ever set aside." 
+
+armitage saw that the time for positive action had come, and spoke 
+decisive to the falter group of frightened rustics. 
+
+"we must follow it, boys." he made his voice as reassure as possible. 
+"i believe there's a chance of putt it out of business. you men 
+know that those whateley were wizards--well, this thing is a thing 
+of wizardry, and must be put down by the same means. i've seen wilbur 
+whateley's diary and read some of the strange old books he use to 
+read, and i think i know the right kind of a spell to recite to make 
+the thing fade away. of course, one can't be sure, but we can always 
+take a chance. it's invisible--i knew it would be--but there's a powder 
+in this long-distance sprayer that might make it show up for a second. 
+later on we'll try it. it's a frightful thing to have alive, but it 
+isn't as bad as what wilbur would have let in if he'd live longer. 
+you'll never know what the world has escaped. now we've only this one 
+thing to fight, and it can't multiply. it can, though, do a lot of 
+harm; so we mustn't hesitate to rid the community of it. 
+
+"we must follow it--and the way to begin is to go to the place that has 
+just been wrecked. let somebody lead the way--i don't know your road 
+very well, but i've an idea there might be a short cut across lots. 
+how about it?" 
+
+the men shuffle about a moment, and then earl sawyer spoke softly, 
+point with a grimy finger through the steady lessen rain. 
+
+"i guess ye kin git to seth bishop's quickest by cuttin' acrost the 
+lower medder here, wadin' the brook at the low place, an' climbin' 
+through carrier's mowin' an' the timber-lot beyont. that come aout on 
+the upper rud mighty nigh seth's--a leetle t'other side." 
+
+armitage, with rice and morgan, start to walk in the direction 
+indicated; and most of the native follow slowly. the sky was grow 
+lighter, and there were sign that the storm had worn itself away. when 
+armitage inadvertent took a wrong direction, joe osborn warn him 
+and walk ahead to show the right one. courage and confidence were 
+mounting; though the twilight of the almost perpendicular wooded hill 
+which lay toward the end of their short cut, and among whose fantastic 
+ancient tree they had to scramble as if up a ladder, put these 
+quality to a severe test. 
+
+at length they emerge on a muddy road to find the sun coming out. 
+they were a little beyond the seth bishop place, but bent tree and 
+hideous unmistakable track show what had pass by. only a few 
+moments were consume in survey the ruins just around the bend. it 
+was the frye incident all over again, and nothing dead or living was 
+found in either of the collapse shell which had been the bishop house 
+and barn. no one care to remain there amidst the stench and the tarry 
+stickiness, but all turn instinctive to the line of horrible print 
+leading on toward the wreck whateley farmhouse and the altar-crowned 
+slope of sentinel hill. 
+
+as the men pass the site of wilbur whateley's abode they shudder 
+visibly, and seem again to mix hesitancy with their zeal. it was 
+no joke track down something as big as a house that one could not 
+see, but that had all the vicious malevolence of a demon. opposite the 
+base of sentinel hill the track left the road, and there was a fresh 
+bend and matting visible along the broad swath marking the monster's 
+former route to and from the summit. 
+
+armitage produce a pocket telescope of considerable power and scan 
+the steep green side of the hill. then he hand the instrument to 
+morgan, whose sight was keener. after a moment of gaze morgan cry 
+out sharply, passing the glass to earl sawyer and indicate a certain 
+spot on the slope with his finger. sawyer, as clumsy as most non-users 
+of optical device are, fumble a while; but eventually focus the 
+lens with armitage's aid. when he did so his cry was less restrained 
+than morgan's had been. 
+
+"gawd almighty, the grass an' bush is a-movin'! it's a-goin' 
+up--slow-like--creepin' up ter the top this minute, heaven only know 
+what fer!" 
+
+then the germ of panic seem to spread among the seekers. it was one 
+thing to chase the nameless entity, but quite another to find it. 
+spell might be all right--but suppose they weren't? voice began 
+questioning armitage about what he knew of the thing, and no reply 
+seem quite to satisfy. everyone seem to feel himself in close 
+proximity to phase of nature and of being utterly forbidden, and 
+wholly outside the sane experience of mankind. 
+
+
+10 
+
+in the end the three men from arkham--old, white-bearded dr. 
+armitage, stocky, iron-gray professor rice, and lean, youngish dr. 
+morgan--ascended the mountain alone. after much patient instruction 
+regarding its focus and use, they left the telescope with the 
+frightened group that remain in the road; and as they climb they 
+were watch close by those among whom the glass was pass around. 
+it was hard going, and armitage had to be help more than once. high 
+above the toil group the great swath tremble as its hellish maker 
+repass with snail-like deliberateness. then it was obvious that the 
+pursuer were gaining. 
+
+curtis whateley--of the undecayed branch--was holding the telescope 
+when the arkham party detour radical from the swath. he told the 
+crowd that the men were evidently try to get to a subordinate peak 
+which overlook the swath at a point considerably ahead of where the 
+shrubbery was now bending. this, indeed, prove to be true; and the 
+party were seen to gain the minor elevation only a short time after the 
+invisible blasphemy had pass it. 
+
+then wesley corey, who had taken the glass, cry out that armitage was 
+adjust the sprayer which rice held, and that something must be about 
+to happen. the crowd stir uneasily, recall that this sprayer was 
+expect to give the unseen horror a moment of visibility. two or three 
+men shut their eyes, but curtis whateley snatch back the telescope 
+and strained his vision to the utmost. he saw that rice, from the 
+party's point of vantage above and behind the entity, had an excellent 
+chance of spread the potent powder with marvelous effect. 
+
+those without the telescope saw only an instant's flash of gray 
+cloud--a cloud about the size of a moderately large building--near the 
+top of the mountain. curtis, who had held the instrument, drop it 
+with a piercing shriek into the ankle-deep mud of the road. he reeled, 
+and would have crumple to the ground had not two or three other 
+seize and steady him. all he could do was moan half-inaudibly: 
+
+"oh, oh, great gawd ... _that ... that_...." 
+
+[illustration: "oh, oh, great gawd ... that ... that."] 
+
+there was a pandemonium of questioning, and only henry wheel thought 
+to rescue the fallen telescope and wipe it clean of mud. curtis was 
+past all coherence, and even isolated reply were almost too much for 
+him. 
+
+"bigger 'n a barn ... all made o' squirmin' ropes ... hull thing sort 
+o' shaped like a hen's egg bigger'n anything, with dozen o' leg like 
+hogshead that haff shut up when they step ... nothin' solid abaout 
+it--all like jelly, an' made o' sep'rit wrigglin' ropes pushed clost 
+together ... great bulgin' eyes all over it ... ten or twenty maouth 
+or trunks a-stickin' aout all along the sides, big as stovepipes, an' 
+all a-tossin' an' openin' an' shuttin' ... all gray, with kind blue 
+or purple ring ... _an' gawd in heaven--that haff face on top_!..." 
+
+this final memory, whatever it was, prove too much for poor curtis, 
+and he collapse completely before he could say more. fred farr and 
+will hutchin carry him to the roadside and laid him on the damp 
+grass. henry wheeler, trembling, turn the rescue telescope on the 
+mountain to see what he might. through the lens were discern 
+three tiny figures, apparently running toward the summit as fast as the 
+steep incline allowed. only these--nothing more. then everyone notice 
+a strange unseasonable noise in the deep valley behind, and even in 
+the underbrush of sentinel hill itself. it was the piping of unnumbered 
+whippoorwills, and in their shrill chorus there seem to lurk a note 
+of tense and evil expectancy. 
+
+earl sawyer now took the telescope and report the three figures as 
+standing on the topmost ridge, virtually level with the altar-stone 
+but at a considerable distance from it. one figure, he said, seem 
+to be raise its hand above its head at rhythmic intervals; and 
+as sawyer mention the circumstance the crowd seem to hear a 
+faint, half-musical sound from the distance, as if a loud chant 
+were accompany the gestures. the weird silhouette on that 
+remote peak must have been a spectacle of infinite grotesque 
+and impressiveness, but no observer was in a mood for esthetic 
+appreciation. "i guess he's sayin' the spell," whisper wheel as 
+he snatch back the telescope. the whippoorwill were piping wildly, 
+and in a singularly curious irregular rhythm quite unlike that of the 
+visible ritual. 
+
+sudden the sunshine seem to lessen without the intervention of any 
+discern cloud. it was a very peculiar phenomenon, and was plainly 
+marked by all. a rumbling sound seem brew beneath the hills, mixed 
+strange with a concordant rumbling which clearly came from the sky. 
+lightning flash aloft, and the wonder crowd look in vain for 
+the portent of storm. the chant of the men from arkham now became 
+unmistakable, and wheel saw through the glass that they were all 
+raise their arms in the rhythmic incantation. from some farmhouse far 
+away came the frantic bark of dogs. 
+
+the change in the quality of the daylight increased, and the crowd 
+gaze about the horizon in wonder. a purplish darkness, born of 
+nothing more than a spectral deepen of the sky's blue, pressed down 
+upon the rumbling hills. then the lightning flash again, somewhat 
+bright than before, and the crowd fancy that it had show a 
+certain misty around the altar-stone on the distant height. no 
+one, however, had been use the telescope at that instant. the 
+whippoorwill continue their irregular pulsation, and the men of 
+dunwich brace themselves tense against some imponderable menace with 
+which the atmosphere seem surcharged. 
+
+without warning came those deep, cracked, raucous vocal sound which 
+will never leave the memory of the stricken group who heard them. not 
+from any human throat were they born, for the organ of man can yield 
+no such acoustic perversions. rather would one have said they came 
+from the pit itself, had not their source been so unmistakable the 
+altar-stone on the peak. it is almost erroneous to call them _sounds_ 
+at all, since so much of their ghastly, infra-bass timbre spoke to 
+dim seat of consciousness and terror far subtle than the ear; yet 
+one must do so, since their form was indisputable though vague that 
+of half-articulate _words_. they were loud--loud as the rumbling and 
+the thunder above which they echoed--yet did they come from no visible 
+being. and because imagination might suggest a conjectural source in 
+the world of non-visible beings, the huddle crowd at the mountain's 
+base huddle still closer, and wince as if in expectation of a blow. 
+
+"_ygnaiih ... ygnaiih ... thflthkh'ngha ... yog-sothoth...._" rang the 
+hideous croak out of space. "_y'bthnk ... h'ehye ... n'grkdl'lh...._" 
+
+the speak impulse seem to falter here, as if some frightful 
+psychic struggle were go on. henry wheel strained his eye at 
+the telescope, but saw only the three grotesque silhouette human 
+figures on the peak, all moving their arms furiously in strange 
+gesture as their incantation drew near its culmination. from what 
+black well of acherontic fear or feeling, from what unplumbed gulf of 
+extra-cosmic consciousness or obscure, long-latent heredity, were those 
+half-articulate thunder-croakings drawn? presently they began to gather 
+renew force and coherence as they grew in stark, utter, ultimate 
+frenzy. 
+
+"_eh-ya-ya-ya-yahaah ... e'yaya-yayaaaa ... ngh'aaaa ... ngh'aaaa_ ... 
+h'yuh ... h'yuh ... help! help! ... _ff--ff--ff_--father! father! 
+yog-sothoth!..." 
+
+but that was all. the pallid group in the road, still reel at 
+the _indisputably english_ syllable that had pour thick and 
+thunderous down from the frantic vacancy beside that shocking 
+altar-stone, were never to hear such syllable again. instead, they 
+jump violent at the terrific report which seem to rend the hills; 
+the deafening, cataclysm peal whose source, be it inner earth or 
+sky, no hearer was ever able to place. a single lightning bolt shot 
+from the purple zenith to the altar-stone, and a great tidal wave of 
+viewless force and indescribable stench swept down from the hill to 
+all the countryside. trees, grass, and underbrush were whip into a 
+fury; and the frightened crowd at the mountain's base, weaken by the 
+lethal fete that seem about to asphyxiate them, were almost hurl 
+off their feet. dogs howl from the distance, green grass and foliage 
+wilt to a curious, sickly yellow-gray, and over field and forest were 
+scattered the body of dead whippoorwills. 
+
+the stench left quickly, but the vegetation never came right again. 
+to this day there is something queer and unholy about the growth on 
+and around that fearsome hill. curtis whateley was only just regain 
+consciousness when the arkham men came slow down the mountain in the 
+beam of a sunlight once more brilliant and untainted. they were grave 
+and quiet, and seem shaken by memory and reflection even more 
+terrible than those which had reduce the group of native to a state 
+of cow quivering. in reply to a jumble of question they only shook 
+their head and reaffirme one vital fact. 
+
+"the thing has gone for ever," armitage said. "it has been split up 
+into what it was originally made of, and can never exist again. it was 
+an impossible in a normal world. only the least fraction was really 
+matter in any sense we know. it was like its father--and most of it has 
+gone back to him in some vague realm or dimension outside our material 
+universe; some vague abyss out of which only the most accursed rite of 
+human blasphemy could ever have call him for a moment on the hills." 
+
+there was a brief silence, and in that pause the scattered senses of 
+poor curtis whateley began to knit back into a sort of continuity; so 
+that he put his hand to his head with a moan. memory seem to pick 
+itself up where it had left off, and the horror of the sight that had 
+prostrate him burst in upon him again. 
+
+"_oh, oh, my gawd, that haff face ... that haff face on top of it ... 
+that face with the red eyes an' crinkly albino hair, an' no chin, like 
+the whateleys.... it was a octopus, centipede, spider kind o' thing, 
+but they was a haff-shaped man's face on top of it, an' it look like 
+wizard whateley's, only it was yard an' yard acrost...._" 
+
+he pause exhausted, as the whole group of native stare in a 
+bewilder not quite crystallize into fresh terror. only old zebulon 
+whateley, who wandering remember ancient things but who had been 
+silent heretofore, spoke aloud. 
+
+"fifteen year' gone," he rambled, "i heerd ol' whateley say as haow 
+some day we'd hear a child o' lavinny's a-callin' its father's name on 
+the top o' sentinel hill...." 
+
+but joe osborn interrupt him to question the arkham men anew. 
+
+"_what was it, anyhaow_, an' haowever did young wizard whateley call it 
+aout o' the air it come from?" 
+
+armitage chose his words carefully. 
+
+"it was--well, it was mostly a kind of force that doesn't belong in our 
+part of space; a kind of force that acts and grow and shape itself 
+by other law than those of our sort of nature. we have no business 
+calling in such things from outside, and only very wicked people 
+and very wicked cult ever try to. there was some of it in wilbur 
+whateley himself--enough to make a devil and a precocious monster of 
+him, and to make his passing out a pretty terrible sight. i'm go 
+to burn his accursed diary, and if you men are wise you'll dynamite 
+that altar-stone up there, and pull down all the ring of standing 
+stone on the other hills. things like that brought down the being 
+those whateley were so fond of--the being they were go to let in 
+tangible to wipe out the human race and drag the earth off to some 
+nameless place for some nameless purpose. 
+
+"but as to this thing we've just sent back--the whateley raise it for 
+a terrible part in the doings that were to come. it grew fast and big 
+from the same reason that wilbur grew fast and big--but it beat him 
+because it had a greater share of the _outsideness_ in it. you needn't 
+ask how wilbur call it out of the air. he didn't call it out. _it was 
+his twin brother, but it look more like the father than he did._" 
+
+
+
+
+
+end of the project gutenberg ebook of the dunwich horror, by h. p. lovecraft 
+
+*** end of this project gutenberg ebook the dunwich horror *** 
+
+***** this file should be name 50133-8.txt or 50133-8.zip ***** 
+this and all associate file of various format will be found in: 
+http://www.gutenberg.org/5/0/1/3/50133/ 
+
+produce by greg weeks, mary meehan and the online 
+distribute proofread team at http://www.pgdp.net 
+
+update edition will replace the previous one--the old edition will 
+be renamed. 
+
+create the works from print edition not protect by u.s. copyright 
+law means that no one own a united states copyright in these works, 
+so the foundation (and you!) can copy and distribute it in the united 
+states without permission and without pay copyright 
+royalties. special rules, set forth in the general terms of use part 
+of this license, apply to copy and distribute project 
+gutenberg-tm electronic works to protect the project gutenberg-tm 
+concept and trademark. project gutenberg is a register trademark, 
+and may not be use if you charge for the ebooks, unless you receive 
+specific permission. if you do not charge anything for copy of this 
+ebook, comply with the rule is very easy. you may use this ebook 
+for nearly any purpose such as creation of derivative works, reports, 
+performance and research. they may be modify and print and given 
+away--you may do practically anything in the united states with ebook 
+not protect by u.s. copyright law. redistribute is subject to the 
+trademark license, especially commercial redistribution. 
+
+start: full license 
+
+the full project gutenberg license 
+please read this before you distribute or use this work 
+
+to protect the project gutenberg-tm mission of promote the free 
+distribution of electronic works, by use or distribute this work 
+(or any other work associate in any way with the phrase "project 
+gutenberg"), you agree to comply with all the terms of the full 
+project gutenberg-tm license available with this file or online at 
+www.gutenberg.org/license. 
+
+section 1. general terms of use and redistribute project 
+gutenberg-tm electronic works 
+
+1.a. by reading or use any part of this project gutenberg-tm 
+electronic work, you indicate that you have read, understand, agree to 
+and accept all the terms of this license and intellectual property 
+(trademark/copyright) agreement. if you do not agree to abide by all 
+the terms of this agreement, you must cease use and return or 
+destroy all copy of project gutenberg-tm electronic works in your 
+possession. if you paid a fee for obtain a copy of or access to a 
+project gutenberg-tm electronic work and you do not agree to be bound 
+by the terms of this agreement, you may obtain a refund from the 
+person or entity to whom you paid the fee as set forth in paragraph 
+1.e.8. 
+
+1.b. "project gutenberg" is a register trademark. it may only be 
+use on or associate in any way with an electronic work by people who 
+agree to be bound by the terms of this agreement. there are a few 
+things that you can do with most project gutenberg-tm electronic works 
+even without comply with the full terms of this agreement. see 
+paragraph 1.c below. there are a lot of things you can do with project 
+gutenberg-tm electronic works if you follow the terms of this 
+agreement and help preserve free future access to project gutenberg-tm 
+electronic works. see paragraph 1.e below. 
+
+1.c. the project gutenberg literary archive foundation ("the 
+foundation" or pglaf), own a compilation copyright in the collection 
+of project gutenberg-tm electronic works. nearly all the individual 
+works in the collection are in the public domain in the united 
+states. if an individual work is unprotected by copyright law in the 
+united states and you are located in the united states, we do not 
+claim a right to prevent you from copying, distributing, performing, 
+display or create derivative works base on the work as long as 
+all reference to project gutenberg are removed. of course, we hope 
+that you will support the project gutenberg-tm mission of promote 
+free access to electronic works by freely share project gutenberg-tm 
+works in compliance with the terms of this agreement for keeping the 
+project gutenberg-tm name associate with the work. you can easily 
+comply with the terms of this agreement by keeping this work in the 
+same format with its attach full project gutenberg-tm license when 
+you share it without charge with others. 
+
+1.d. the copyright law of the place where you are located also govern 
+what you can do with this work. copyright law in most country are 
+in a constant state of change. if you are outside the united states, 
+check the law of your country in addition to the terms of this 
+agreement before downloading, copying, displaying, performing, 
+distribute or create derivative works base on this work or any 
+other project gutenberg-tm work. the foundation make no 
+representations concerning the copyright status of any work in any 
+country outside the united states. 
+
+1.e. unless you have remove all reference to project gutenberg: 
+
+1.e.1. the following sentence, with active links to, or other 
+immediate access to, the full project gutenberg-tm license must appear 
+prominent whenever any copy of a project gutenberg-tm work (any work 
+on which the phrase "project gutenberg" appears, or with which the 
+phrase "project gutenberg" is associated) is accessed, displayed, 
+performed, viewed, copy or distributed: 
+
+this ebook is for the use of anyone anywhere in the united states and 
+most other parts of the world at no cost and with almost no 
+restriction whatsoever. you may copy it, give it away or re-use it 
+under the terms of the project gutenberg license included with this 
+ebook or online at www.gutenberg.org. if you are not located in the 
+united states, you'll have to check the law of the country where you 
+are located before use this ebook. 
+
+1.e.2. if an individual project gutenberg-tm electronic work is 
+derive from text not protect by u.s. copyright law (does not 
+contain a notice indicate that it is post with permission of the 
+copyright holder), the work can be copy and distribute to anyone in 
+the united states without pay any fee or charges. if you are 
+redistribute or providing access to a work with the phrase "project 
+gutenberg" associate with or appear on the work, you must comply 
+either with the requirement of paragraph 1.e.1 through 1.e.7 or 
+obtain permission for the use of the work and the project gutenberg-tm 
+trademark as set forth in paragraph 1.e.8 or 1.e.9. 
+
+1.e.3. if an individual project gutenberg-tm electronic work is post 
+with the permission of the copyright holder, your use and distribution 
+must comply with both paragraph 1.e.1 through 1.e.7 and any 
+additional terms impose by the copyright holder. additional terms 
+will be link to the project gutenberg-tm license for all works 
+post with the permission of the copyright holder found at the 
+beginning of this work. 
+
+1.e.4. do not unlink or detach or remove the full project gutenberg-tm 
+license terms from this work, or any file contain a part of this 
+work or any other work associate with project gutenberg-tm. 
+
+1.e.5. do not copy, display, perform, distribute or redistribute this 
+electronic work, or any part of this electronic work, without 
+prominent display the sentence set forth in paragraph 1.e.1 with 
+active links or immediate access to the full terms of the project 
+gutenberg-tm license. 
+
+1.e.6. you may convert to and distribute this work in any binary, 
+compressed, marked up, nonproprietary or proprietary form, including 
+any word process or hypertext form. however, if you provide access 
+to or distribute copy of a project gutenberg-tm work in a format 
+other than "plain vanilla ascii" or other format use in the official 
+version post on the official project gutenberg-tm web site 
+(www.gutenberg.org), you must, at no additional cost, fee or expense 
+to the user, provide a copy, a means of export a copy, or a means 
+of obtain a copy upon request, of the work in its original "plain 
+vanilla ascii" or other form. any alternate format must include the 
+full project gutenberg-tm license as specify in paragraph 1.e.1. 
+
+1.e.7. do not charge a fee for access to, viewing, displaying, 
+performing, copy or distribute any project gutenberg-tm works 
+unless you comply with paragraph 1.e.8 or 1.e.9. 
+
+1.e.8. you may charge a reasonable fee for copy of or providing 
+access to or distribute project gutenberg-tm electronic works 
+provided that 
+
+* you pay a royalty fee of 20% of the gross profit you derive from 
+the use of project gutenberg-tm works calculate use the method 
+you already use to calculate your applicable taxes. the fee is owe 
+to the owner of the project gutenberg-tm trademark, but he has 
+agree to donate royalty under this paragraph to the project 
+gutenberg literary archive foundation. royalty payment must be paid 
+within 60 days following each date on which you prepare (or are 
+legal require to prepare) your periodic tax returns. royalty 
+payment should be clearly marked as such and sent to the project 
+gutenberg literary archive foundation at the address specify in 
+section 4, "information about donation to the project gutenberg 
+literary archive foundation." 
+
+* you provide a full refund of any money paid by a user who notify 
+you in writing (or by e-mail) within 30 days of receipt that s/he 
+do not agree to the terms of the full project gutenberg-tm 
+license. you must require such a user to return or destroy all 
+copy of the works possessed in a physical medium and discontinue 
+all use of and all access to other copy of project gutenberg-tm 
+works. 
+
+* you provide, in accordance with paragraph 1.f.3, a full refund of 
+any money paid for a work or a replacement copy, if a defect in the 
+electronic work is discover and report to you within 90 days of 
+receipt of the work. 
+
+* you comply with all other terms of this agreement for free 
+distribution of project gutenberg-tm works. 
+
+1.e.9. if you wish to charge a fee or distribute a project 
+gutenberg-tm electronic work or group of works on different terms than 
+are set forth in this agreement, you must obtain permission in writing 
+from both the project gutenberg literary archive foundation and the 
+project gutenberg trademark llc, the owner of the project gutenberg-tm 
+trademark. contact the foundation as set forth in section 3 below. 
+
+1.f. 
+
+1.f.1. project gutenberg volunteer and employee expend considerable 
+effort to identify, do copyright research on, transcribe and proofread 
+works not protect by u.s. copyright law in create the project 
+gutenberg-tm collection. despite these efforts, project gutenberg-tm 
+electronic works, and the medium on which they may be stored, may 
+contain "defects," such as, but not limited to, incomplete, inaccurate 
+or corrupt data, transcription errors, a copyright or other 
+intellectual property infringement, a defective or damage disk or 
+other medium, a computer virus, or computer code that damage or 
+cannot be read by your equipment. 
+
+1.f.2. limited warranty, disclaimer of damages - except for the "right 
+of replacement or refund" describe in paragraph 1.f.3, the project 
+gutenberg literary archive foundation, the owner of the project 
+gutenberg-tm trademark, and any other party distribute a project 
+gutenberg-tm electronic work under this agreement, disclaim all 
+liability to you for damages, costs and expenses, including legal 
+fees. you agree that you have no remedy for negligence, strict 
+liability, breach of warranty or breach of contract except those 
+provided in paragraph 1.f.3. you agree that the foundation, the 
+trademark owner, and any distributor under this agreement will not be 
+liable to you for actual, direct, indirect, consequential, punitive or 
+incidental damages even if you give notice of the possibility of such 
+damage. 
+
+1.f.3. limited right of replacement or refund - if you discover a 
+defect in this electronic work within 90 days of receiving it, you can 
+receive a refund of the money (if any) you paid for it by send a 
+written explanation to the person you received the work from. if you 
+received the work on a physical medium, you must return the medium 
+with your written explanation. the person or entity that provided you 
+with the defective work may elect to provide a replacement copy in 
+lieu of a refund. if you received the work electronically, the person 
+or entity providing it to you may choose to give you a second 
+opportunity to receive the work electronic in lieu of a refund. if 
+the second copy is also defective, you may demand a refund in writing 
+without further opportunity to fix the problem. 
+
+1.f.4. except for the limited right of replacement or refund set forth 
+in paragraph 1.f.3, this work is provided to you 'as-is', with no 
+other warranty of any kind, express or implied, including but not 
+limited to warranty of merchant or fitness for any purpose. 
+
+1.f.5. some states do not allow disclaimer of certain imply 
+warranty or the exclusion or limitation of certain type of 
+damages. if any disclaimer or limitation set forth in this agreement 
+violate the law of the state applicable to this agreement, the 
+agreement shall be interpret to make the maximum disclaimer or 
+limitation permit by the applicable state law. the invalid or 
+unenforceable of any provision of this agreement shall not void the 
+remain provisions. 
+
+1.f.6. indemnity - you agree to indemnify and hold the foundation, the 
+trademark owner, any agent or employee of the foundation, anyone 
+providing copy of project gutenberg-tm electronic works in 
+accordance with this agreement, and any volunteer associate with the 
+production, promotion and distribution of project gutenberg-tm 
+electronic works, harmless from all liability, costs and expenses, 
+including legal fees, that arise directly or indirect from any of 
+the following which you do or cause to occur: (a) distribution of this 
+or any project gutenberg-tm work, (b) alteration, modification, or 
+addition or deletion to any project gutenberg-tm work, and (c) any 
+defect you cause. 
+
+section 2. information about the mission of project gutenberg-tm 
+
+project gutenberg-tm is synonymous with the free distribution of 
+electronic works in format readable by the widest variety of 
+computer including obsolete, old, middle-aged and new computers. it 
+exist because of the effort of hundred of volunteer and donation 
+from people in all walk of life. 
+
+volunteer and financial support to provide volunteer with the 
+assistance they need are critical to reach project gutenberg-tm's 
+goal and ensure that the project gutenberg-tm collection will 
+remain freely available for generation to come. in 2001, the project 
+gutenberg literary archive foundation was create to provide a secure 
+and permanent future for project gutenberg-tm and future 
+generations. to learn more about the project gutenberg literary 
+archive foundation and how your effort and donation can help, see 
+section 3 and 4 and the foundation information page at 
+www.gutenberg.org 
+
+
+
+section 3. information about the project gutenberg literary archive foundation 
+
+the project gutenberg literary archive foundation is a non profit 
+501(c)(3) educational corporation organized under the law of the 
+state of mississippi and grant tax exempt status by the internal 
+revenue service. the foundation's ein or federal tax identification 
+number is 64-6221541. contribution to the project gutenberg literary 
+archive foundation are tax deduct to the full extent permit by 
+u.s. federal law and your state's laws. 
+
+the foundation's principal office is in fairbanks, alaska, with the 
+mail address: po box 750175, fairbanks, ak 99775, but its 
+volunteer and employee are scattered throughout numerous 
+locations. its business office is located at 809 north 1500 west, salt 
+lake city, ut 84116, (801) 596-1887. email contact links and up to 
+date contact information can be found at the foundation's web site and 
+official page at www.gutenberg.org/contact 
+
+for additional contact information: 
+
+dr. gregory b. newby 
+chief executive and director 
+gbnewby@pglaf.org 
+
+section 4. information about donation to the project gutenberg 
+literary archive foundation 
+
+project gutenberg-tm depend upon and cannot survive without wide 
+spread public support and donation to carry out its mission of 
+increase the number of public domain and licensed works that can be 
+freely distribute in machine readable form accessible by the widest 
+array of equipment including outdated equipment. many small donation 
+($1 to $5,000) are particularly important to maintain tax exempt 
+status with the irs. 
+
+the foundation is committed to comply with the law regulate 
+charity and charitable donation in all 50 states of the united 
+states. compliance requirement are not uniform and it take a 
+considerable effort, much paperwork and many fee to meet and keep up 
+with these requirements. we do not solicit donation in location 
+where we have not received written confirmation of compliance. to send 
+donation or determine the status of compliance for any particular 
+state visit www.gutenberg.org/donate 
+
+while we cannot and do not solicit contribution from states where we 
+have not met the solicit requirements, we know of no prohibition 
+against accept unsolicited donation from donor in such states who 
+approach us with offer to donate. 
+
+international donation are grateful accepted, but we cannot make 
+any statement concerning tax treatment of donation received from 
+outside the united states. u.s. law alone swamp our small staff. 
+
+please check the project gutenberg web page for current donation 
+method and addresses. donation are accept in a number of other 
+ways including checks, online payment and credit card donations. to 
+donate, please visit: www.gutenberg.org/donate 
+
+section 5. general information about project gutenberg-tm electronic works. 
+
+professor michael s. hart was the originate of the project 
+gutenberg-tm concept of a library of electronic works that could be 
+freely share with anyone. for forty years, he produce and 
+distribute project gutenberg-tm ebook with only a loose network of 
+volunteer support. 
+
+project gutenberg-tm ebook are often create from several print 
+editions, all of which are confirmed as not protect by copyright in 
+the u.s. unless a copyright notice is included. thus, we do not 
+necessarily keep ebook in compliance with any particular paper 
+edition. 
+
+most people start at our web site which has the main pg search 
+facility: www.gutenberg.org 
+
+this web site include information about project gutenberg-tm, 
+including how to make donation to the project gutenberg literary 
+archive foundation, how to help produce our new ebooks, and how to 
+subscribe to our email newsletter to hear about new ebooks. 
