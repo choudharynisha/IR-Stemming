@@ -16,14 +16,27 @@ import java.util.Map;
 
 public class IREngine {
     public static void main(String[] args) {
+<<<<<<< HEAD
         // ensuring that three and only three command line arguments are provided
         if(args.length < 1) {
             System.out.println("Unspecified path, number of articles, and file of queries");
+=======
+        // ensuring that three and only three command line arguments are provide
+d
+        if(args.length < 1) {
+            System.out.println("Unspecified path, number of articles, and file o
+f queries");
+>>>>>>> c022a5269dd6971d61e83297a12106ca7edc69a6
             return;
         }
         
         if(args.length < 3) {
+<<<<<<< HEAD
             System.out.println("Missing path, missing number of articles, and/or missing file of queires");
+=======
+            System.out.println("Missing path, missing number of articles, and/or
+ missing file of queires");
+>>>>>>> c022a5269dd6971d61e83297a12106ca7edc69a6
             return;
         }
         
@@ -32,11 +45,17 @@ public class IREngine {
             return;
         }
         
+<<<<<<< HEAD
         Document[] documents = new Document[Integer.valueOf(args[1])]; // the array containing all document information
+=======
+        Document[] documents = new Document[Integer.valueOf(args[1])]; // the ar
+ray containing all document information
+>>>>>>> c022a5269dd6971d61e83297a12106ca7edc69a6
         
         for(int i = 1; i < (Integer.valueOf(args[1]) + 1); i++) {
             HashMap<String, Double> tfidf = new HashMap<>();
             
+<<<<<<< HEAD
             // obtain tokens and their corresponding frequency count for the ith file, rank them, and find their appearance
             // count in the other documents
             HashMap<String, Integer> file = readFile(args[0], i); // stores unique tokens and their corresponding frequencies
@@ -52,6 +71,31 @@ public class IREngine {
             
             Document document = new Document(i, rank, appearances, tfidf, file);
             documents[i - 1] = findTitle(args[0], i, document); // so that the printed results provide more descriptive
+=======
+            // obtain tokens and their corresponding frequency count for the ith
+ file, rank them, and find their appearance
+            // count in the other documents
+            HashMap<String, Integer> file = readFile(args[0], i); // stores uniq
+ue tokens and their corresponding frequencies
+            ArrayList<String> rank = rank(file); // all unique tokens in file ra
+nked by frequency (most common = beginning)
+            HashMap<String, ArrayList<Integer>> appearances = appearance(args[0]
+, rank, Integer.valueOf(args[1]));
+            int tmfc = file.get(rank.get(0)); // term frequency of the most comm
+only found token
+            
+            for(String token : rank) {
+                int frequency = file.get(token); // the token's frequency in the
+ document
+                tfidf.put(token, tfidfweight(tfweight(frequency, tmfc),
+                                             idfweight(Integer.valueOf(args[1]),
+ appearances.get(token).size())));
+            }
+            
+            Document document = new Document(i, rank, appearances, tfidf, file);
+            documents[i - 1] = findTitle(args[0], i, document); // so that the p
+rinted results provide more descriptive
+>>>>>>> c022a5269dd6971d61e83297a12106ca7edc69a6
         }
         
         printQueryResults(findResults(getQueries(args[2]), documents));
@@ -62,9 +106,17 @@ public class IREngine {
      *  @param path   The path of the files relative to the current directory
      *  @param list   The ArrayList with the specified tokens
      *  @param number The number of files in the directory
+<<<<<<< HEAD
      *  @return The HashMap containing the token and its corresponding ArrayList of document IDs it appears in
      */
     public static HashMap<String, ArrayList<Integer>> appearance(String path, ArrayList<String> list, int number) {
+=======
+     *  @return The HashMap containing the token and its corresponding ArrayList
+ of document IDs it appears in
+     */
+    public static HashMap<String, ArrayList<Integer>> appearance(String path, Ar
+rayList<String> list, int number) {
+>>>>>>> c022a5269dd6971d61e83297a12106ca7edc69a6
         HashMap<String, ArrayList<Integer>> documents = new HashMap<>();
         
         for(String token : list) {
@@ -87,15 +139,29 @@ public class IREngine {
     } // appearance()
     
     /**
+<<<<<<< HEAD
      *  Finds how similar the query and a document are by computing the cosine of the angle between the query vector and the
+=======
+     *  Finds how similar the query and a document are by computing the cosine o
+f the angle between the query vector and the
+>>>>>>> c022a5269dd6971d61e83297a12106ca7edc69a6
      *  document vector to determine how relevant a document may be to the query
      *  @param query The query
      *  @param document The potentially relevant document
      *  @param total number of documents being looked at
+<<<<<<< HEAD
      *  @return The QueryResult containing the cosine of the angle between the two vectors, where a cosine of 0.0 means the
      *          the document is irrelevant to the given query
      */
     public static QueryResult cosineSimilarity(String query, Document document, int total) {
+=======
+     *  @return The QueryResult containing the cosine of the angle between the t
+wo vectors, where a cosine of 0.0 means the
+     *          the document is irrelevant to the given query
+     */
+    public static QueryResult cosineSimilarity(String query, Document document, 
+int total) {
+>>>>>>> c022a5269dd6971d61e83297a12106ca7edc69a6
         ArrayList<Double> documentVector = new ArrayList<>();
         ArrayList<Double> queryVector = new ArrayList<>();
         HashMap<String, Integer> frequencies = new HashMap<>();
@@ -565,4 +631,8 @@ public class IREngine {
     public static double tfweight(int tf, int tfmc) {
         return ((double) tf) / tfmc;
     } // tfweight()
+<<<<<<< HEAD
 } // IREngine
+=======
+} // IREngine
+>>>>>>> c022a5269dd6971d61e83297a12106ca7edc69a6
