@@ -16,25 +16,27 @@ import java.util.Map;
 
 public class IREngine {
     public static void main(String[] args) {
-        // ensuring that three and only three command line arguments are provided
+        // ensuring that four and only four command line arguments are provided
         if(args.length < 1) {
             System.out.println("Unspecified path, number of articles, and file of queries");
             return;
         }
         
-        if(args.length < 3) {
-            System.out.println("Missing path, missing number of articles, and/or missing file of queires");
+        if(args.length < 4) {
+            System.out.println("Missing path, missing initial id for articles, missing terminating id for aricles, " +
+                               "and/or missing file of queries");
             return;
         }
         
-        if(args.length > 3) {
+        if(args.length > 4) {
             System.out.println("Too many arguments");
             return;
         }
         
-        Document[] documents = new Document[Integer.valueOf(args[1])]; // the array containing all document information
+        // ↓ the array containing all document information
+        Document[] documents = new Document[Integer.valueOf(args[2]) - Integer.valueOf(args[1])];
         
-        for(int i = 1; i < (Integer.valueOf(args[1]) + 1); i++) {
+        for(int i = (Integer.valueOf(args[1])); i < (Integer.valueOf(args[2]) + 1); i++) {
             HashMap<String, Double> tfidf = new HashMap<>();
             
             // obtain tokens and their corresponding frequency count for the ith file, rank them, and find their appearance
@@ -54,7 +56,7 @@ public class IREngine {
             documents[i - 1] = findTitle(args[0], i, document); // so that the printed results provide more descriptive
         }
         
-        printQueryResults(findResults(getQueries(args[2]), documents));
+        printQueryResults(findResults(getQueries(args[3]), documents));
     } // main()
     
     /**
